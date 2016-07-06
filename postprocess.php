@@ -24,8 +24,6 @@ function prefix() {
 }
 
 $s=file_get_contents("uhu.nt");
-//$s=file_get_contents("le-online-extracted-places.nt");
-$s=str_replace("\r", " ", $s);
 $s=str_replace("&Auml;", "Ä", $s);
 $s=str_replace("&Ouml;", "Ö", $s);
 $s=str_replace("&Uuml;", "Ü", $s);

@@ -80,11 +80,7 @@ foreach ($htmlPages as $url => $category) {
                 $title = $matches[1];
             }
 
-            $infoArray[$key]['title'] = str_replace(
-                array('&amp;'),
-                array('&'),
-                trim($title)
-            );
+            $infoArray[$key]['title'] = fixTitle($title);
         } else {
             $infoArray[$key]['title'] = '';
         }
@@ -108,23 +104,19 @@ foreach ($htmlPages as $url => $category) {
         $infoArray[$key]['street'] = '';
 
         if (isset($matches[1])) {
-            $infoArray[$key]['street'] = trim($matches[1]);
+            $infoArray[$key]['street'] = fixStreet($matches[1]);
         }
         if (isset($matches[2])) {
-            $infoArray[$key]['street'] .= ' '. trim($matches[2]);
+            $infoArray[$key]['street'] .= ' / '. fixStreet($matches[2]);
         }
         if (isset($matches[3])) {
-            $infoArray[$key]['street'] .= ' '. trim($matches[3]);
+            $infoArray[$key]['street'] .= ' // '. fixStreet($matches[3]);
         }
-
-        $infoArray[$key]['street'] = strip_tags($infoArray[$key]['street']);
 
         if (!isset($matches[1]) && !isset($matches[2]) && !isset($matches[3]) && 'Verkehr' != $category) {
             unset($infoArray[$key]);
             continue;
         }
-
-        $infoArray[$key]['street'] = str_replace('Postanschrift:', '', $infoArray[$key]['street']);
 
         /*
          * email
@@ -343,6 +335,23 @@ foreach ($htmlPages as $url => $category) {
             }
         }
     }
+}
+
+function fixTitle($s) {
+    $s=trim($s); 
+    $s=str_replace('&amp;','&',$s);
+    $s=str_replace('"','\"',$s);
+    $s=str_replace("\r",' ',$s);
+    $s=str_replace("\n",' ',$s);
+    return $s;
+}
+
+function fixStreet($s) {
+    $s=trim($s); 
+    $s=strip_tags($s); 
+    $s=str_replace('"','\"',$s);
+    $s=str_replace('Postanschrift:', '', $s);
+    return $s;
 }
 
 // Generate CSV file

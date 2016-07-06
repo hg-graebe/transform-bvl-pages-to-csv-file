@@ -29,7 +29,7 @@ Bezug zum Projekt spe16 im SWT-Praktikum 2016, Basisvariante
 
 Clone des Repos https://github.com/AKSW/transform-bvl-pages-to-csv-file
 
-## Mail Konrad Abicht, 2016-07-04
+## Mail Konrad Abicht, 2016-07-05
 
 CSV-Datei, welche den extrahierten Datenbestand der Stadtführer-Seiten
 repräsentiert: `le-online-extracted-places.csv`
@@ -41,3 +41,26 @@ create-files.php` ausführt. Zum Setup ist ein `composer update` vorher nötig.
 
 Es besteht gerade die Überlegung, die Daten mit der Access-Datenbank des BVL
 abzugleichen und entsprechend zu verwenden statt der Web-Extraktion.
+
+## HGG, 2016-07-06
+
+Änderungen: 
+
+In `functions.php` - URI-Generierung in zwei Funtkionen ausgelagert.  Meine
+URIs (ohne Präfix) matchen [\w+]
+
+In `create-files.php` - String-Transformation in Funktionen fixTitle($s) und
+fixStreet($s) ausgelagert. Probleme waren: 
+
+* " (quote) in Strings waren nicht maskiert.
+* Zeilenvorschübe innerhalb von Strings, teilweise ^M (werden durch trim()
+  nicht entfernt.
+
+`postprocess.php` nimmt weitere Fixes vor (die man auch in `create-files.php`
+unterbringen kann) und packt eine Liste von Präfixen für die Transformation
+nach Turtle vor die ntriples.
+
+php create-files.php                -> erzeugt uhu.nt
+php postprocess.php >a1.nt          -> erzeugt a1.nt
+rapper -gc a1.nt                    -> prüft die entstandene Datei auf Stringenz
+rapper -g a1.nt -o turtle >a.ttl    -> verwandelt das in Turtle

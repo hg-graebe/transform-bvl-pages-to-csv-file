@@ -178,8 +178,7 @@
 <http://le-online.de/place/antikenmuseumderuniversitaetleipzig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/antikenmuseumderuniversitaetleipzig> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/antikenmuseumderuniversitaetleipzig> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/automatikmuseumimgaragetechnologiecentrumfuerjugendlicheggmbh> <http://le-online.de/ontology/place/ns#placeName> "Automatik-Museum im GaraGe - Technologiecentrum für Jugendliche 
-gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/automatikmuseumimgaragetechnologiecentrumfuerjugendlicheggmbh> <http://le-online.de/ontology/place/ns#placeName> "Automatik-Museum im GaraGe - Technologiecentrum für Jugendliche   gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/automatikmuseumimgaragetechnologiecentrumfuerjugendlicheggmbh> <http://le-online.de/ontology/place/ns#address> "Karl-Heine-Str. 97, 04229 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/automatikmuseumimgaragetechnologiecentrumfuerjugendlicheggmbh> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/automatikmuseumimgaragetechnologiecentrumfuerjugendlicheggmbh> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -221,7 +220,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/forum1813> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/forum1813> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/forum1813> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/gedenkstaettemuseuminderrundenecke> <http://le-online.de/ontology/place/ns#placeName> "Gedenkstätte Museum in der "Runden Ecke""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/gedenkstaettemuseuminderrundenecke> <http://le-online.de/ontology/place/ns#placeName> "Gedenkstätte Museum in der \"Runden Ecke\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/gedenkstaettemuseuminderrundenecke> <http://le-online.de/ontology/place/ns#address> "Dittrichring 24, 04109 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/gedenkstaettemuseuminderrundenecke> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/gedenkstaettemuseuminderrundenecke> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -701,7 +700,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hochschulbibliothekderhtwk> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hochschulbibliothekderhtwk> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hochschulbibliothekderhtwk> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/hochschulefuermusikundtheaterfelixmendelssohnbartholdyleipzig> <http://le-online.de/ontology/place/ns#placeName> "Hochschule für Musik und Theater "Felix Mendelssohn Bartholdy" Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/hochschulefuermusikundtheaterfelixmendelssohnbartholdyleipzig> <http://le-online.de/ontology/place/ns#placeName> "Hochschule für Musik und Theater \"Felix Mendelssohn Bartholdy\" Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hochschulefuermusikundtheaterfelixmendelssohnbartholdyleipzig> <http://le-online.de/ontology/place/ns#address> "Grassistr. 8 (rechter Seiteneingang), 04107 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hochschulefuermusikundtheaterfelixmendelssohnbartholdyleipzig> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hochschulefuermusikundtheaterfelixmendelssohnbartholdyleipzig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -743,7 +742,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/sportwissenschaftlichefakultaet> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/sportwissenschaftlichefakultaet> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/sportwissenschaftlichefakultaet> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/deutschenationalbibliothekleipzigbis2006deutschebuecherei> <http://le-online.de/ontology/place/ns#placeName> "Deutsche Nationalbibliothek Leipzig bis 2006 "Deutsche Bücherei""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/deutschenationalbibliothekleipzigbis2006deutschebuecherei> <http://le-online.de/ontology/place/ns#placeName> "Deutsche Nationalbibliothek Leipzig bis 2006 \"Deutsche Bücherei\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/deutschenationalbibliothekleipzigbis2006deutschebuecherei> <http://le-online.de/ontology/place/ns#address> "Deutscher Platz 1, 04103 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/deutschenationalbibliothekleipzigbis2006deutschebuecherei> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/deutschenationalbibliothekleipzigbis2006deutschebuecherei> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -851,7 +850,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliothekpaunsdorf> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliothekpaunsdorf> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliothekpaunsdorf> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/bibliothekplagwitzgeorgmaurerbibliothek> <http://le-online.de/ontology/place/ns#placeName> "Bibliothek Plagwitz "Georg-Maurer-Bibliothek""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/bibliothekplagwitzgeorgmaurerbibliothek> <http://le-online.de/ontology/place/ns#placeName> "Bibliothek Plagwitz \"Georg-Maurer-Bibliothek\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliothekplagwitzgeorgmaurerbibliothek> <http://le-online.de/ontology/place/ns#address> "Zschochersche Str. 14, 04229 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliothekplagwitzgeorgmaurerbibliothek> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliothekplagwitzgeorgmaurerbibliothek> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -869,7 +868,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliothekschoenefeld> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliothekschoenefeld> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliothekschoenefeld> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/bibliotheksuedvorstadtwalterhofmann> <http://le-online.de/ontology/place/ns#placeName> "Bibliothek Südvorstadt "Walter Hofmann""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/bibliotheksuedvorstadtwalterhofmann> <http://le-online.de/ontology/place/ns#placeName> "Bibliothek Südvorstadt \"Walter Hofmann\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliotheksuedvorstadtwalterhofmann> <http://le-online.de/ontology/place/ns#address> "Steinstr. 42, 04275 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliotheksuedvorstadtwalterhofmann> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bibliotheksuedvorstadtwalterhofmann> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -1049,8 +1048,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beruflichesschulzentrum1wirtschaftundverwaltung> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beruflichesschulzentrum1wirtschaftundverwaltung> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beruflichesschulzentrum1wirtschaftundverwaltung> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/berufsbildungswerkleipzigfuerhoerundsprachgeschaedigteggmbh> <http://le-online.de/ontology/place/ns#placeName> "Berufsbildungswerk Leipzig für Hör- und Sprachgeschädigte 
-gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/berufsbildungswerkleipzigfuerhoerundsprachgeschaedigteggmbh> <http://le-online.de/ontology/place/ns#placeName> "Berufsbildungswerk Leipzig für Hör- und Sprachgeschädigte   gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/berufsbildungswerkleipzigfuerhoerundsprachgeschaedigteggmbh> <http://le-online.de/ontology/place/ns#address> "Knautnaundorfer Str. 4, 04249 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/berufsbildungswerkleipzigfuerhoerundsprachgeschaedigteggmbh> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/berufsbildungswerkleipzigfuerhoerundsprachgeschaedigteggmbh> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -1110,7 +1108,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/foerderzentrumfuererziehungshilfekurtbiedermannschule> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/foerderzentrumfuererziehungshilfekurtbiedermannschule> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/foerderzentrumfuererziehungshilfekurtbiedermannschule> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/foerderzentrumsprachheilschulekaethekollwitzleipzig> <http://le-online.de/ontology/place/ns#placeName> "Förderzentrum Sprachheilschule "Käthe Kollwitz" Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/foerderzentrumsprachheilschulekaethekollwitzleipzig> <http://le-online.de/ontology/place/ns#placeName> "Förderzentrum Sprachheilschule \"Käthe Kollwitz\" Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/foerderzentrumsprachheilschulekaethekollwitzleipzig> <http://le-online.de/ontology/place/ns#address> "Friedrich-Dittes-Str. 9, 04318 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/foerderzentrumsprachheilschulekaethekollwitzleipzig> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/foerderzentrumsprachheilschulekaethekollwitzleipzig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -1242,7 +1240,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beidenschluempfen> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beidenschluempfen> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beidenschluempfen> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/bernburgerstrassemotschegiebchen> <http://le-online.de/ontology/place/ns#placeName> "Bernburger Straße ("Motschegiebchen")"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/bernburgerstrassemotschegiebchen> <http://le-online.de/ontology/place/ns#placeName> "Bernburger Straße (\"Motschegiebchen\")"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bernburgerstrassemotschegiebchen> <http://le-online.de/ontology/place/ns#address> "Bernburger Str. 22, 0 04129 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bernburgerstrassemotschegiebchen> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/bernburgerstrassemotschegiebchen> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -1356,7 +1354,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kantatenweg> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kantatenweg> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kantatenweg> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/kinderwerkstatthausgrossundkleinguk> <http://le-online.de/ontology/place/ns#placeName> "Kinderwerkstatthaus "Groß Und Klein" - GUK"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/kinderwerkstatthausgrossundkleinguk> <http://le-online.de/ontology/place/ns#placeName> "Kinderwerkstatthaus \"Groß Und Klein\" - GUK"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderwerkstatthausgrossundkleinguk> <http://le-online.de/ontology/place/ns#address> "Neue Leipziger Str. 39a, 04205 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderwerkstatthausgrossundkleinguk> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderwerkstatthausgrossundkleinguk> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -1489,7 +1487,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/rappelkiste> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/rappelkiste> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/raxlifaxlikinderkrippeundkindergarten> <http://le-online.de/ontology/place/ns#placeName> "Raxlifaxli - Kinderkrippe und Kindergarten"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/raxlifaxlikinderkrippeundkindergarten> <http://le-online.de/ontology/place/ns#address> "Träger: Heilpädagogisch-Therapeutische einrichtungen "Humanitas" gGmbH Königsteinstr. 70, 04207 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/raxlifaxlikinderkrippeundkindergarten> <http://le-online.de/ontology/place/ns#address> "Träger: Heilpädagogisch-Therapeutische einrichtungen \"Humanitas\" gGmbH Königsteinstr. 70, 04207 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/raxlifaxlikinderkrippeundkindergarten> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/raxlifaxlikinderkrippeundkindergarten> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/raxlifaxlikinderkrippeundkindergarten> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -1644,13 +1642,13 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kaenguruintegrativeskinderhausschoenau> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kaenguruintegrativeskinderhausschoenau> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kaenguruintegrativeskinderhausschoenau> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/heilpaedagogischekindertagesstaetteundhortfuerkindermitsehundmehrfachenbehinderungenwladimirfilatow> <http://le-online.de/ontology/place/ns#placeName> "Heilpädagogische Kindertagesstätte und Hort für Kinder mit seh- und mehrfachen Behinderungen "Wladimir Filatow""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/heilpaedagogischekindertagesstaetteundhortfuerkindermitsehundmehrfachenbehinderungenwladimirfilatow> <http://le-online.de/ontology/place/ns#placeName> "Heilpädagogische Kindertagesstätte und Hort für Kinder mit seh- und mehrfachen Behinderungen \"Wladimir Filatow\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/heilpaedagogischekindertagesstaetteundhortfuerkindermitsehundmehrfachenbehinderungenwladimirfilatow> <http://le-online.de/ontology/place/ns#address> "Am Kirschberg 49, 04209 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/heilpaedagogischekindertagesstaetteundhortfuerkindermitsehundmehrfachenbehinderungenwladimirfilatow> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/heilpaedagogischekindertagesstaetteundhortfuerkindermitsehundmehrfachenbehinderungenwladimirfilatow> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/heilpaedagogischekindertagesstaetteundhortfuerkindermitsehundmehrfachenbehinderungenwladimirfilatow> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/heilpaedagogischekindertagesstaetteundhortfuerkindermitsehundmehrfachenbehinderungenwladimirfilatow> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/heilpaedagogischekindertagesstaettefuerkindermitsprachbehinderungkitamaeuseburg> <http://le-online.de/ontology/place/ns#placeName> "Heilpädagogische Kindertagesstätte für Kinder mit Sprachbehinderung - Kita "Mäuseburg""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/heilpaedagogischekindertagesstaettefuerkindermitsprachbehinderungkitamaeuseburg> <http://le-online.de/ontology/place/ns#placeName> "Heilpädagogische Kindertagesstätte für Kinder mit Sprachbehinderung - Kita \"Mäuseburg\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/heilpaedagogischekindertagesstaettefuerkindermitsprachbehinderungkitamaeuseburg> <http://le-online.de/ontology/place/ns#address> "Friedrich-Dittes-Str. 9, 04318 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/heilpaedagogischekindertagesstaettefuerkindermitsprachbehinderungkitamaeuseburg> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/heilpaedagogischekindertagesstaettefuerkindermitsprachbehinderungkitamaeuseburg> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -1920,7 +1918,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/astronomischeszentrumschkeuditz> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/astronomischeszentrumschkeuditz> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/astronomischeszentrumschkeuditz> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/aulagrundschuleengelsdorfchristopharnold> <http://le-online.de/ontology/place/ns#placeName> "Aula Grundschule Engelsdorf "Christoph Arnold""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/aulagrundschuleengelsdorfchristopharnold> <http://le-online.de/ontology/place/ns#placeName> "Aula Grundschule Engelsdorf \"Christoph Arnold\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aulagrundschuleengelsdorfchristopharnold> <http://le-online.de/ontology/place/ns#address> "Gaswerksweg 1, 04439 Leipzig - Engelsdorf"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aulagrundschuleengelsdorfchristopharnold> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aulagrundschuleengelsdorfchristopharnold> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -1938,7 +1936,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/henriettegoldschmidtschuleberuflichesschulzentrumsozialwesenderstadtleipzig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/henriettegoldschmidtschuleberuflichesschulzentrumsozialwesenderstadtleipzig> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/henriettegoldschmidtschuleberuflichesschulzentrumsozialwesenderstadtleipzig> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/beruflichesschulzentrum12robertblum> <http://le-online.de/ontology/place/ns#placeName> "Berufliches Schulzentrum 12 "Robert Blum""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/beruflichesschulzentrum12robertblum> <http://le-online.de/ontology/place/ns#placeName> "Berufliches Schulzentrum 12 \"Robert Blum\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beruflichesschulzentrum12robertblum> <http://le-online.de/ontology/place/ns#address> "Komarowstr. 2, 04357 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beruflichesschulzentrum12robertblum> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beruflichesschulzentrum12robertblum> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -1998,7 +1996,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/leipzigerhospizundpalliativakademielhpa> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/leipzigerhospizundpalliativakademielhpa> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/leipzigerhospizundpalliativakademielhpa> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/musikschuleleipzigjohannsebastianbach> <http://le-online.de/ontology/place/ns#placeName> "Musikschule Leipzig  " Johann Sebastian Bach""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/musikschuleleipzigjohannsebastianbach> <http://le-online.de/ontology/place/ns#placeName> "Musikschule Leipzig  \" Johann Sebastian Bach\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/musikschuleleipzigjohannsebastianbach> <http://le-online.de/ontology/place/ns#address> "Petersstr. 43, 04109 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/musikschuleleipzigjohannsebastianbach> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/musikschuleleipzigjohannsebastianbach> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -2064,7 +2062,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/burgarbeitev> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/burgarbeitev> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/burgarbeitev> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/buergervereinbachviertelev> <http://le-online.de/ontology/place/ns#placeName> "Bürgerverein "Bachviertel" e.V."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/buergervereinbachviertelev> <http://le-online.de/ontology/place/ns#placeName> "Bürgerverein \"Bachviertel\" e.V."^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergervereinbachviertelev> <http://le-online.de/ontology/place/ns#address> "Käthe-Kollwitz-Str. 107, 04109 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergervereinbachviertelev> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergervereinbachviertelev> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -2106,7 +2104,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/familienlokal> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/familienlokal> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/familienlokal> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/freizeittreffambagger> <http://le-online.de/ontology/place/ns#placeName> "Freizeittreff "Am Bagger""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/freizeittreffambagger> <http://le-online.de/ontology/place/ns#placeName> "Freizeittreff \"Am Bagger\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/freizeittreffambagger> <http://le-online.de/ontology/place/ns#address> "Klingenthaler Str. 14, 04349 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/freizeittreffambagger> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/freizeittreffambagger> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -2196,7 +2194,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/oskarkinderundjugendkulturzentrumfuerjungeleutevon327jahren> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/oskarkinderundjugendkulturzentrumfuerjungeleutevon327jahren> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/oskarkinderundjugendkulturzentrumfuerjungeleutevon327jahren> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/offenerfreizeittreffparadiseloessnig> <http://le-online.de/ontology/place/ns#placeName> "Offener Freizeittreff "Paradise" Lößnig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/offenerfreizeittreffparadiseloessnig> <http://le-online.de/ontology/place/ns#placeName> "Offener Freizeittreff \"Paradise\" Lößnig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/offenerfreizeittreffparadiseloessnig> <http://le-online.de/ontology/place/ns#address> "Kurt-Tucholsky-Str. 10, 04279 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/offenerfreizeittreffparadiseloessnig> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/offenerfreizeittreffparadiseloessnig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -2550,7 +2548,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/theatriumkinderundjugendtheater> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/theatriumkinderundjugendtheater> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/theatriumkinderundjugendtheater> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/kabarettacademixer> <http://le-online.de/ontology/place/ns#placeName> "Kabarett "academixer""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/kabarettacademixer> <http://le-online.de/ontology/place/ns#placeName> "Kabarett \"academixer\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kabarettacademixer> <http://le-online.de/ontology/place/ns#address> "Kupfergasse 2, 04109 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kabarettacademixer> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kabarettacademixer> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -2700,7 +2698,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/isrealitischereligionsgemeinde> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/isrealitischereligionsgemeinde> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/isrealitischereligionsgemeinde> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/katholischepfarreiheiligefamiliegemeindezentrum> <http://le-online.de/ontology/place/ns#placeName> "Katholische Pfarrei "Heilige Familie" - Gemeindezentrum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/katholischepfarreiheiligefamiliegemeindezentrum> <http://le-online.de/ontology/place/ns#placeName> "Katholische Pfarrei \"Heilige Familie\" - Gemeindezentrum"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/katholischepfarreiheiligefamiliegemeindezentrum> <http://le-online.de/ontology/place/ns#address> "Ossietzkystr. 60, 04347 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/katholischepfarreiheiligefamiliegemeindezentrum> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/katholischepfarreiheiligefamiliegemeindezentrum> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -2934,20 +2932,20 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenimerholungsparkloessnigdoelitzoestlichdessilbersees> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenimerholungsparkloessnigdoelitzoestlichdessilbersees> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenimerholungsparkloessnigdoelitzoestlichdessilbersees> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/spielplatzmitintegrativenspielelementeninleipziggruenauwohnkomplex51donquichotte> <http://le-online.de/ontology/place/ns#placeName> "Spielplatz mit integrativen Spielelementen in Leipzig Grünau, Wohnkomplex 5.1. "Don Quichotte""^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/spielplatzmitintegrativenspielelementeninleipziggruenauwohnkomplex51donquichotte> <http://le-online.de/ontology/place/ns#address> "Address&cHash=6ba222b9d34ca112763446473a4 34622 ">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/spielplatzmitintegrativenspielelementeninleipziggruenauwohnkomplex51donquichotte> <http://le-online.de/ontology/place/ns#placeName> "Spielplatz mit integrativen Spielelementen in Leipzig Grünau, Wohnkomplex 5.1. \"Don Quichotte\""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/spielplatzmitintegrativenspielelementeninleipziggruenauwohnkomplex51donquichotte> <http://le-online.de/ontology/place/ns#address> "Address&cHash=6ba222b9d34ca112763446473a4 34622 \">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementeninleipziggruenauwohnkomplex51donquichotte> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementeninleipziggruenauwohnkomplex51donquichotte> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementeninleipziggruenauwohnkomplex51donquichotte> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementeninleipziggruenauwohnkomplex51donquichotte> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenmartinsplatzbaerenschaenkekleinzschocher> <http://le-online.de/ontology/place/ns#placeName> "Spielplatz mit integrativen Spielelementen Martinsplatz (Bärenschänke) Kleinzschocher"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/spielplatzmitintegrativenspielelementenmartinsplatzbaerenschaenkekleinzschocher> <http://le-online.de/ontology/place/ns#address> "Address&cHash=febbf5e3842a8 75955 abdade3c1928a2">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/spielplatzmitintegrativenspielelementenmartinsplatzbaerenschaenkekleinzschocher> <http://le-online.de/ontology/place/ns#address> "Address&cHash=febbf5e3842a8 75955 abdade3c1928a2\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenmartinsplatzbaerenschaenkekleinzschocher> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenmartinsplatzbaerenschaenkekleinzschocher> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenmartinsplatzbaerenschaenkekleinzschocher> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenmartinsplatzbaerenschaenkekleinzschocher> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenparkalleeleipziggruenauwohnkomplex2> <http://le-online.de/ontology/place/ns#placeName> "Spielplatz mit integrativen Spielelementen Parkallee, Leipzig Grünau, Wohnkomplex 2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/spielplatzmitintegrativenspielelementenparkalleeleipziggruenauwohnkomplex2> <http://le-online.de/ontology/place/ns#address> "Address&cHash=45c3b5ff8361 41518 e8dbffb142fcd3e">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/spielplatzmitintegrativenspielelementenparkalleeleipziggruenauwohnkomplex2> <http://le-online.de/ontology/place/ns#address> "Address&cHash=45c3b5ff8361 41518 e8dbffb142fcd3e\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenparkalleeleipziggruenauwohnkomplex2> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenparkalleeleipziggruenauwohnkomplex2> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/spielplatzmitintegrativenspielelementenparkalleeleipziggruenauwohnkomplex2> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -3000,7 +2998,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/brunoplachestadionfussball> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/brunoplachestadionfussball> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/brunoplachestadionfussball> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/galopprennbahnscheibenholz> <http://le-online.de/ontology/place/ns#placeName> "Galopprennbahn "Scheibenholz""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/galopprennbahnscheibenholz> <http://le-online.de/ontology/place/ns#placeName> "Galopprennbahn \"Scheibenholz\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/galopprennbahnscheibenholz> <http://le-online.de/ontology/place/ns#address> "Rennbahnweg 2, 04107 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/galopprennbahnscheibenholz> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/galopprennbahnscheibenholz> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -3198,7 +3196,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/fbkulkwitzerseewestseiterollstuhlfahrerbadesteg> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/fbkulkwitzerseewestseiterollstuhlfahrerbadesteg> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/fbkulkwitzerseewestseiterollstuhlfahrerbadesteg> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/fbkinderfreibeckenrobbeanderschwimmhallenord> <http://le-online.de/ontology/place/ns#placeName> "FB - Kinderfreibecken "Robbe" an der Schwimmhalle Nord"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/fbkinderfreibeckenrobbeanderschwimmhallenord> <http://le-online.de/ontology/place/ns#placeName> "FB - Kinderfreibecken \"Robbe\" an der Schwimmhalle Nord"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/fbkinderfreibeckenrobbeanderschwimmhallenord> <http://le-online.de/ontology/place/ns#address> "Kleiststr. 54, 04157 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/fbkinderfreibeckenrobbeanderschwimmhallenord> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/fbkinderfreibeckenrobbeanderschwimmhallenord> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -4740,8 +4738,7 @@ gGmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/autismusambulanzleipzig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/autismusambulanzleipzig> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/autismusambulanzleipzig> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/beratungsstellefuerbehindertechronischkrankeundderenangehoerigebehindertenhilfe> <http://le-online.de/ontology/place/ns#placeName> "Beratungsstelle für Behinderte, chronisch Kranke und deren 
-Angehörige (Behindertenhilfe)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/beratungsstellefuerbehindertechronischkrankeundderenangehoerigebehindertenhilfe> <http://le-online.de/ontology/place/ns#placeName> "Beratungsstelle für Behinderte, chronisch Kranke und deren   Angehörige (Behindertenhilfe)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellefuerbehindertechronischkrankeundderenangehoerigebehindertenhilfe> <http://le-online.de/ontology/place/ns#address> "Stadt Leipzig, Gesundheitsamt, SG Behindertenhilfe Friedrich-Ebert-Str. 19a, 04109 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellefuerbehindertechronischkrankeundderenangehoerigebehindertenhilfe> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellefuerbehindertechronischkrankeundderenangehoerigebehindertenhilfe> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -4754,14 +4751,12 @@ Angehörige (Behindertenhilfe)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellefuerhoergeschaedigte> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellefuerhoergeschaedigte> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellefuersexuelluebertragbarekrankheitenundaids> <http://le-online.de/ontology/place/ns#placeName> "Beratungsstelle für sexuell übertragbare Krankheiten und AIDS"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/beratungsstellefuersexuelluebertragbarekrankheitenundaids> <http://le-online.de/ontology/place/ns#address> "und-dienstleistungen/dienststelle/beratungsstelle-fuer-sexuell-uebertragbare-krankheiten-und-aids- 53202 /">http://www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/beratungsstellefuersexuelluebertragbarekrankheitenundaids> <http://le-online.de/ontology/place/ns#address> "und-dienstleistungen/dienststelle/beratungsstelle-fuer-sexuell-uebertragbare-krankheiten-und-aids- 53202 /\">http://www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellefuersexuelluebertragbarekrankheitenundaids> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellefuersexuelluebertragbarekrankheitenundaids> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellefuersexuelluebertragbarekrankheitenundaids> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellefuersexuelluebertragbarekrankheitenundaids> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/beratungsstellesuedlichtkoordinierungsberatungsundkontaktstellefuerfamilienmitchronischkrankenoderbehindertenkindernundjugendlichen> <http://le-online.de/ontology/place/ns#placeName> "Beratungsstelle Südlicht - Koordinierungs-, Beratungs- und 
-Kontaktstelle für Familien mit chronisch kranken oder behinderten Kindern und 
-Jugendlichen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/beratungsstellesuedlichtkoordinierungsberatungsundkontaktstellefuerfamilienmitchronischkrankenoderbehindertenkindernundjugendlichen> <http://le-online.de/ontology/place/ns#placeName> "Beratungsstelle Südlicht - Koordinierungs-, Beratungs- und   Kontaktstelle für Familien mit chronisch kranken oder behinderten Kindern und   Jugendlichen"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellesuedlichtkoordinierungsberatungsundkontaktstellefuerfamilienmitchronischkrankenoderbehindertenkindernundjugendlichen> <http://le-online.de/ontology/place/ns#address> "Schenkendorfstr. 10, 04275 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellesuedlichtkoordinierungsberatungsundkontaktstellefuerfamilienmitchronischkrankenoderbehindertenkindernundjugendlichen> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beratungsstellesuedlichtkoordinierungsberatungsundkontaktstellefuerfamilienmitchronischkrankenoderbehindertenkindernundjugendlichen> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -4858,7 +4853,7 @@ Jugendlichen"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/familienentlastenderdienst> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/familienentlastenderdienst> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/familienberatungsstelleundschwangerschaftskonfliktberatungderstadtleipziggesundheitsamt> <http://le-online.de/ontology/place/ns#placeName> "Familienberatungsstelle und Schwangerschaftskonfliktberatung der Stadt Leipzig - Gesundheitsamt"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/familienberatungsstelleundschwangerschaftskonfliktberatungderstadtleipziggesundheitsamt> <http://le-online.de/ontology/place/ns#address> "Leipzig/de/REDwegweiser_cms.nsf/pcwdocid/3349 65575 EE8C228C1256F6B0036B6B7?OpenDocument">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/familienberatungsstelleundschwangerschaftskonfliktberatungderstadtleipziggesundheitsamt> <http://le-online.de/ontology/place/ns#address> "Leipzig/de/REDwegweiser_cms.nsf/pcwdocid/3349 65575 EE8C228C1256F6B0036B6B7?OpenDocument\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/familienberatungsstelleundschwangerschaftskonfliktberatungderstadtleipziggesundheitsamt> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/familienberatungsstelleundschwangerschaftskonfliktberatungderstadtleipziggesundheitsamt> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/familienberatungsstelleundschwangerschaftskonfliktberatungderstadtleipziggesundheitsamt> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -4941,7 +4936,7 @@ Jugendlichen"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/institutfuerfamilientherapieundsystematischeberatungev> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/institutfuerfamilientherapieundsystematischeberatungev> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/institutfuerfamilientherapieundsystematischeberatungev> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/jugendberatungsstellejukon> <http://le-online.de/ontology/place/ns#placeName> "Jugendberatungsstelle "jukon""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/jugendberatungsstellejukon> <http://le-online.de/ontology/place/ns#placeName> "Jugendberatungsstelle \"jukon\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jugendberatungsstellejukon> <http://le-online.de/ontology/place/ns#address> "Windmühlenstr. 41 (Eingang Liebig-Apotheke), 04107 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jugendberatungsstellejukon> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jugendberatungsstellejukon> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -4953,8 +4948,7 @@ Jugendlichen"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jugendhausleipzigev> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jugendhausleipzigev> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jugendhausleipzigev> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/kinderschutzzentrumleipzigundpsychologischekrisenundfamilienberatungsstelle> <http://le-online.de/ontology/place/ns#placeName> "Kinderschutz-Zentrum Leipzig und psychologische Krisen- und 
-Familienberatungsstelle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/kinderschutzzentrumleipzigundpsychologischekrisenundfamilienberatungsstelle> <http://le-online.de/ontology/place/ns#placeName> "Kinderschutz-Zentrum Leipzig und psychologische Krisen- und   Familienberatungsstelle"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderschutzzentrumleipzigundpsychologischekrisenundfamilienberatungsstelle> <http://le-online.de/ontology/place/ns#address> "Brandvorwerkstr. 80, 04275 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderschutzzentrumleipzigundpsychologischekrisenundfamilienberatungsstelle> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderschutzzentrumleipzigundpsychologischekrisenundfamilienberatungsstelle> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5020,7 +5014,7 @@ Familienberatungsstelle"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/pilzberatung> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/pilzberatung> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/pilzberatung> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/projektstelleunterstuetztekommunikation> <http://le-online.de/ontology/place/ns#placeName> "Projektstelle "Unterstützte Kommunikation""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/projektstelleunterstuetztekommunikation> <http://le-online.de/ontology/place/ns#placeName> "Projektstelle \"Unterstützte Kommunikation\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/projektstelleunterstuetztekommunikation> <http://le-online.de/ontology/place/ns#address> "Rosa-Luxemburg-Str. 30, 04103 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/projektstelleunterstuetztekommunikation> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/projektstelleunterstuetztekommunikation> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5158,7 +5152,7 @@ Familienberatungsstelle"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schuldnerberatungundinsolvenzberatungbeimdrkakademischenkreisverbandleipzig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schuldnerberatungundinsolvenzberatungbeimdrkakademischenkreisverbandleipzig> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schuldnerberatungundinsolvenzberatungbeimdrkakademischenkreisverbandleipzig> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/jugendberatungsstellejukonschuldnerberatungfuerjugendlicheundjungeerwachseneimjugendhaus> <http://le-online.de/ontology/place/ns#placeName> "Jugendberatungsstelle "jukon" - Schuldnerberatung für Jugendliche und junge Erwachsene im Jugendhaus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/jugendberatungsstellejukonschuldnerberatungfuerjugendlicheundjungeerwachseneimjugendhaus> <http://le-online.de/ontology/place/ns#placeName> "Jugendberatungsstelle \"jukon\" - Schuldnerberatung für Jugendliche und junge Erwachsene im Jugendhaus"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jugendberatungsstellejukonschuldnerberatungfuerjugendlicheundjungeerwachseneimjugendhaus> <http://le-online.de/ontology/place/ns#address> "Windmühlenstr. 41 (Eingang Liebig Apotheke), 04107 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jugendberatungsstellejukonschuldnerberatungfuerjugendlicheundjungeerwachseneimjugendhaus> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jugendberatungsstellejukonschuldnerberatungfuerjugendlicheundjungeerwachseneimjugendhaus> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5177,7 +5171,7 @@ Familienberatungsstelle"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schwangerschaftsberatungsstelledesdrk> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schwangerschaftsberatungsstelledesdrk> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schwangerschaftsundfamilienberatung> <http://le-online.de/ontology/place/ns#placeName> "Schwangerschafts- und Familienberatung"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/schwangerschaftsundfamilienberatung> <http://le-online.de/ontology/place/ns#address> "behoerden-und-dienstleistungen/dienststelle/schwangerschafts-und-familienberatung- 53122 /">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/schwangerschaftsundfamilienberatung> <http://le-online.de/ontology/place/ns#address> "behoerden-und-dienstleistungen/dienststelle/schwangerschafts-und-familienberatung- 53122 /\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schwangerschaftsundfamilienberatung> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schwangerschaftsundfamilienberatung> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schwangerschaftsundfamilienberatung> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5230,19 +5224,19 @@ Familienberatungsstelle"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstellegruenau> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstellegruenau> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstellegruenau> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/suchtberatungsundbehandlungsstellehausaltschoenefeld> <http://le-online.de/ontology/place/ns#placeName> "Suchtberatungs- und -behandlungsstelle Haus "Alt-Schönefeld""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/suchtberatungsundbehandlungsstellehausaltschoenefeld> <http://le-online.de/ontology/place/ns#placeName> "Suchtberatungs- und -behandlungsstelle Haus \"Alt-Schönefeld\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstellehausaltschoenefeld> <http://le-online.de/ontology/place/ns#address> "Theklaer Str. 11, 04347 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstellehausaltschoenefeld> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstellehausaltschoenefeld> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstellehausaltschoenefeld> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstellehausaltschoenefeld> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/suchtberatungsundbehandlungsstelleregenbogen> <http://le-online.de/ontology/place/ns#placeName> "Suchtberatungs- und Behandlungsstelle "Regenbogen""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/suchtberatungsundbehandlungsstelleregenbogen> <http://le-online.de/ontology/place/ns#placeName> "Suchtberatungs- und Behandlungsstelle \"Regenbogen\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstelleregenbogen> <http://le-online.de/ontology/place/ns#address> "Friesenstr. 8, 04177 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstelleregenbogen> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstelleregenbogen> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstelleregenbogen> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstelleregenbogen> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/suchtberatungsundbehandlungsstellesuchtkontaktkaenguruh> <http://le-online.de/ontology/place/ns#placeName> "Suchtberatungs- und -behandlungsstelle Suchtkontakt "K&Auml;NGURUH""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/suchtberatungsundbehandlungsstellesuchtkontaktkaenguruh> <http://le-online.de/ontology/place/ns#placeName> "Suchtberatungs- und -behandlungsstelle Suchtkontakt \"K&Auml;NGURUH\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstellesuchtkontaktkaenguruh> <http://le-online.de/ontology/place/ns#address> "Beethovenstr. 21, 04107 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstellesuchtkontaktkaenguruh> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/suchtberatungsundbehandlungsstellesuchtkontaktkaenguruh> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5266,7 +5260,7 @@ Familienberatungsstelle"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/verbraucherzentralesachsenevberatungszentrumleipzig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/verbraucherzentralesachsenevberatungszentrumleipzig> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/verbraucherzentralesachsenevberatungszentrumleipzig> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/fruehfoerderstellekinderinselinterdisziplinaer> <http://le-online.de/ontology/place/ns#placeName> "Frühförderstelle "Kinderinsel" (interdisziplinär)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/fruehfoerderstellekinderinselinterdisziplinaer> <http://le-online.de/ontology/place/ns#placeName> "Frühförderstelle \"Kinderinsel\" (interdisziplinär)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/fruehfoerderstellekinderinselinterdisziplinaer> <http://le-online.de/ontology/place/ns#address> "Dresdner Str. 21, 04103 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/fruehfoerderstellekinderinselinterdisziplinaer> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/fruehfoerderstellekinderinselinterdisziplinaer> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5362,8 +5356,7 @@ Familienberatungsstelle"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hilfenbeiwohnundlebenssituationenimalter> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hilfenbeiwohnundlebenssituationenimalter> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hilfenbeiwohnundlebenssituationenimalter> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/musterausstellungzurbarrierefreiengestaltungvonkuechenundbaedern> <http://le-online.de/ontology/place/ns#placeName> "Musterausstellung zur barrierefreien Gestaltung von Küchen und 
-Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/musterausstellungzurbarrierefreiengestaltungvonkuechenundbaedern> <http://le-online.de/ontology/place/ns#placeName> "Musterausstellung zur barrierefreien Gestaltung von Küchen und   Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/musterausstellungzurbarrierefreiengestaltungvonkuechenundbaedern> <http://le-online.de/ontology/place/ns#address> "Prager Str. 136, Technisches Rathaus - Haus A, 04317 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/musterausstellungzurbarrierefreiengestaltungvonkuechenundbaedern> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/musterausstellungzurbarrierefreiengestaltungvonkuechenundbaedern> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5447,25 +5440,25 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/ambulantesozialehilfenimwohnumfeldmitambulanterassistenz> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/ambulantesozialehilfenimwohnumfeldmitambulanterassistenz> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/ambulantesozialehilfenimwohnumfeldmitambulanterassistenz> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/betreutewohnanlageseniorenresidenzen> <http://le-online.de/ontology/place/ns#placeName> "Betreute Wohnanlage "Seniorenresidenzen""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/betreutewohnanlageseniorenresidenzen> <http://le-online.de/ontology/place/ns#placeName> "Betreute Wohnanlage \"Seniorenresidenzen\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageseniorenresidenzen> <http://le-online.de/ontology/place/ns#address> "Karl-Liebknecht-Str. 56 und Schenkendorfstr. 17 HH/17a, 04275 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageseniorenresidenzen> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageseniorenresidenzen> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageseniorenresidenzen> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageseniorenresidenzen> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/betreutewohnanlagedomizilamring> <http://le-online.de/ontology/place/ns#placeName> "Betreute Wohnanlage "Domizil am Ring""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/betreutewohnanlagedomizilamring> <http://le-online.de/ontology/place/ns#placeName> "Betreute Wohnanlage \"Domizil am Ring\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlagedomizilamring> <http://le-online.de/ontology/place/ns#address> "Ranstädter Steinweg 6-22, 04109 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlagedomizilamring> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlagedomizilamring> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlagedomizilamring> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlagedomizilamring> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/betreutewohnanlageengertgarten> <http://le-online.de/ontology/place/ns#placeName> "Betreute Wohnanlage "Engertgarten""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/betreutewohnanlageengertgarten> <http://le-online.de/ontology/place/ns#placeName> "Betreute Wohnanlage \"Engertgarten\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageengertgarten> <http://le-online.de/ontology/place/ns#address> "Engertstr. 7-9, 04177 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageengertgarten> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageengertgarten> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageengertgarten> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageengertgarten> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/betreutewohnanlageforumleipziglindenau> <http://le-online.de/ontology/place/ns#placeName> "Betreute Wohnanlage "Forum Leipzig-Lindenau""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/betreutewohnanlageforumleipziglindenau> <http://le-online.de/ontology/place/ns#placeName> "Betreute Wohnanlage \"Forum Leipzig-Lindenau\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageforumleipziglindenau> <http://le-online.de/ontology/place/ns#address> "Saalfelder Str. 12-18, 04179 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageforumleipziglindenau> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreutewohnanlageforumleipziglindenau> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5483,7 +5476,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenundwohnstaetteamvorwerkfuergeistigbehinderteerwachsene> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenundwohnstaetteamvorwerkfuergeistigbehinderteerwachsene> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenundwohnstaetteamvorwerkfuergeistigbehinderteerwachsene> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/betreuteswohnenconnewitzerhof> <http://le-online.de/ontology/place/ns#placeName> "Betreutes Wohnen "Connewitzer Hof""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/betreuteswohnenconnewitzerhof> <http://le-online.de/ontology/place/ns#placeName> "Betreutes Wohnen \"Connewitzer Hof\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenconnewitzerhof> <http://le-online.de/ontology/place/ns#address> "Meusdorfer Str. 10, 04277 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenconnewitzerhof> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenconnewitzerhof> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5501,13 +5494,13 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenfuerjungemenschendasnest> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenfuerjungemenschendasnest> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenfuerjungemenschendasnest> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/betreuteswohnenimhaussonnenschein> <http://le-online.de/ontology/place/ns#placeName> "Betreutes Wohnen im Haus "Sonnenschein""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/betreuteswohnenimhaussonnenschein> <http://le-online.de/ontology/place/ns#placeName> "Betreutes Wohnen im Haus \"Sonnenschein\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenimhaussonnenschein> <http://le-online.de/ontology/place/ns#address> "Brüderstr. 39-41, 04103 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenimhaussonnenschein> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenimhaussonnenschein> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenimhaussonnenschein> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohnenimhaussonnenschein> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/betreuteswohneninderhausgemeinschaftloewenherz> <http://le-online.de/ontology/place/ns#placeName> "Betreutes Wohnen in der Hausgemeinschaft "Löwenherz""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/betreuteswohneninderhausgemeinschaftloewenherz> <http://le-online.de/ontology/place/ns#placeName> "Betreutes Wohnen in der Hausgemeinschaft \"Löwenherz\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohneninderhausgemeinschaftloewenherz> <http://le-online.de/ontology/place/ns#address> "Simsonstr. 2/ Mozartstr. 5, 04107 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohneninderhausgemeinschaftloewenherz> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/betreuteswohneninderhausgemeinschaftloewenherz> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5705,7 +5698,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aerztezentrumgesundheitszentrumimwestbad> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aerztezentrumgesundheitszentrumimwestbad> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aerztezentrumgesundheitszentrumimwestbad> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/aerztezentrumpraxisklinikamjohannisplatz> <http://le-online.de/ontology/place/ns#placeName> "&Auml;rztezentrum - Praxisklinik "Am Johannisplatz""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/aerztezentrumpraxisklinikamjohannisplatz> <http://le-online.de/ontology/place/ns#placeName> "&Auml;rztezentrum - Praxisklinik \"Am Johannisplatz\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aerztezentrumpraxisklinikamjohannisplatz> <http://le-online.de/ontology/place/ns#address> "Johannisplatz 1, 04103 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aerztezentrumpraxisklinikamjohannisplatz> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aerztezentrumpraxisklinikamjohannisplatz> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5730,7 +5723,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aerztezentrumwestluetznerstr164> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aerztezentrumwestluetznerstr164> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schulzahnklinik> <http://le-online.de/ontology/place/ns#placeName> "Schulzahnklinik"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/schulzahnklinik> <http://le-online.de/ontology/place/ns#address> "Städt. Klinikum "St. Georg" Leipzig Bornaische Str. 81, 04277 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/schulzahnklinik> <http://le-online.de/ontology/place/ns#address> "Städt. Klinikum \"St. Georg\" Leipzig Bornaische Str. 81, 04277 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schulzahnklinik> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schulzahnklinik> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/schulzahnklinik> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -5897,7 +5890,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/leipzigeroaseoekumenenischekontaktstubefuerwohnungslosebeiwitterungsbedingtembedarfmitnachtcaf> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/leipzigeroaseoekumenenischekontaktstubefuerwohnungslosebeiwitterungsbedingtembedarfmitnachtcaf> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/leipzigeroaseoekumenenischekontaktstubefuerwohnungslosebeiwitterungsbedingtembedarfmitnachtcaf> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/tagestrefffuerwohnungsloseinsel> <http://le-online.de/ontology/place/ns#placeName> "Tagestreff für Wohnungslose "Insel""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/tagestrefffuerwohnungsloseinsel> <http://le-online.de/ontology/place/ns#placeName> "Tagestreff für Wohnungslose \"Insel\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/tagestrefffuerwohnungsloseinsel> <http://le-online.de/ontology/place/ns#address> "Plautstr. 18, 04179 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/tagestrefffuerwohnungsloseinsel> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/tagestrefffuerwohnungsloseinsel> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -6264,7 +6257,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/pflegedienstmarkkleebergerschwesternkallweitundfranke> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/pflegedienstmarkkleebergerschwesternkallweitundfranke> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/pflegedienstkathrinbosold> <http://le-online.de/ontology/place/ns#placeName> "Pflegedienst Kathrin Bosold"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/pflegedienstkathrinbosold> <http://le-online.de/ontology/place/ns#address> "Pflegedienst, Physiotherapie, Wohnservice, Betreutes Wohnen "Am Kreuz" (Arno-Nitzsche-Str. 14) Standort Lößnig: Bornaische Str. 109, 04279 Leipzig Tel.: (0341) 33 78 037, Fax: (0341) 33 78 038 Standort Südvorstadt: Arno-nitzsche-Str. 14, 04277 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/pflegedienstkathrinbosold> <http://le-online.de/ontology/place/ns#address> "Pflegedienst, Physiotherapie, Wohnservice, Betreutes Wohnen \"Am Kreuz\" (Arno-Nitzsche-Str. 14) Standort Lößnig: Bornaische Str. 109, 04279 Leipzig Tel.: (0341) 33 78 037, Fax: (0341) 33 78 038 Standort Südvorstadt: Arno-nitzsche-Str. 14, 04277 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/pflegedienstkathrinbosold> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/pflegedienstkathrinbosold> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/pflegedienstkathrinbosold> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -6282,7 +6275,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/privaterpflegedienstgundulaulbricht> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/privaterpflegedienstgundulaulbricht> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/privaterpflegedienstgundulaulbricht> <http://le-online.de/ontology/place/ns#placeName> "Privater Pflegedienst Gundula Ulbricht"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/privaterpflegedienstgundulaulbricht> <http://le-online.de/ontology/place/ns#address> "Pflegestation "Palais - Vollrath" August-Bebel-Str. 69, 04275 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/privaterpflegedienstgundulaulbricht> <http://le-online.de/ontology/place/ns#address> "Pflegestation \"Palais - Vollrath\" August-Bebel-Str. 69, 04275 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/privaterpflegedienstgundulaulbricht> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/privaterpflegedienstgundulaulbricht> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/privaterpflegedienstgundulaulbricht> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -6665,19 +6658,19 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/albertschweitzerhaus> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/albertschweitzerhaus> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/albertschweitzerhaus> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/altenundpflegeheimmarienheim> <http://le-online.de/ontology/place/ns#placeName> "Alten- und Pflegeheim "Marienheim""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/altenundpflegeheimmarienheim> <http://le-online.de/ontology/place/ns#placeName> "Alten- und Pflegeheim \"Marienheim\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenundpflegeheimmarienheim> <http://le-online.de/ontology/place/ns#address> "Chopinstr. 14, 04103 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenundpflegeheimmarienheim> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenundpflegeheimmarienheim> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenundpflegeheimmarienheim> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenundpflegeheimmarienheim> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/altenundpflegeheimmarthahaus> <http://le-online.de/ontology/place/ns#placeName> "Alten- und Pflegeheim "Marthahaus""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/altenundpflegeheimmarthahaus> <http://le-online.de/ontology/place/ns#placeName> "Alten- und Pflegeheim \"Marthahaus\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenundpflegeheimmarthahaus> <http://le-online.de/ontology/place/ns#address> "Löhrstr. 9, 04105 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenundpflegeheimmarthahaus> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenundpflegeheimmarthahaus> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenundpflegeheimmarthahaus> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenundpflegeheimmarthahaus> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/staedtischesaltenpflegeheimamauenwald> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim "Am Auenwald""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/staedtischesaltenpflegeheimamauenwald> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim \"Am Auenwald\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimamauenwald> <http://le-online.de/ontology/place/ns#address> "Städtische Altenpflegeheime Leipzig gGmbH Brandvorwerkstr. 82, 04275 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimamauenwald> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimamauenwald> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -6689,49 +6682,49 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimamdiakonissenhaus> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimamdiakonissenhaus> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimamdiakonissenhaus> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/altenpflegeheimbethanien> <http://le-online.de/ontology/place/ns#placeName> "Altenpflegeheim "Bethanien""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/altenpflegeheimbethanien> <http://le-online.de/ontology/place/ns#placeName> "Altenpflegeheim \"Bethanien\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimbethanien> <http://le-online.de/ontology/place/ns#address> "Erich-Zeigner-Allee 9, 04229 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimbethanien> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimbethanien> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimbethanien> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimbethanien> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/altenpflegeheimemmaus> <http://le-online.de/ontology/place/ns#placeName> "Altenpflegeheim "Emmaus""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/altenpflegeheimemmaus> <http://le-online.de/ontology/place/ns#placeName> "Altenpflegeheim \"Emmaus\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimemmaus> <http://le-online.de/ontology/place/ns#address> "Zum Kleingartenpark 25/26, 04318 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimemmaus> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimemmaus> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimemmaus> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimemmaus> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/altenpflegeheimgeborgenheit> <http://le-online.de/ontology/place/ns#placeName> "Altenpflegeheim "Geborgenheit""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/altenpflegeheimgeborgenheit> <http://le-online.de/ontology/place/ns#placeName> "Altenpflegeheim \"Geborgenheit\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimgeborgenheit> <http://le-online.de/ontology/place/ns#address> "Zschochersche Allee 68, 04207 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimgeborgenheit> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimgeborgenheit> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimgeborgenheit> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimgeborgenheit> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/staedtischesaltenpflegeheimgoldenerherbst> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim "Goldener Herbst""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/staedtischesaltenpflegeheimgoldenerherbst> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim \"Goldener Herbst\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimgoldenerherbst> <http://le-online.de/ontology/place/ns#address> "Städtische Altenpflegeheime Leipzig gGmbH Miltitzer Allee 34, 04205 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimgoldenerherbst> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimgoldenerherbst> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimgoldenerherbst> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimgoldenerherbst> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/staedtischesaltenpflegeheimgoyastrasse> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim "Goyastraße""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/staedtischesaltenpflegeheimgoyastrasse> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim \"Goyastraße\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimgoyastrasse> <http://le-online.de/ontology/place/ns#address> "Goyastr. 10, 04105 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimgoyastrasse> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimgoyastrasse> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimgoyastrasse> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimgoyastrasse> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/staedtischesaltenpflegeheimheiterblick> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim "Heiterblick""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/staedtischesaltenpflegeheimheiterblick> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim \"Heiterblick\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimheiterblick> <http://le-online.de/ontology/place/ns#address> "Städtische Altenpflegeheime Leipzig gGmbH Am Vorwerk 15, 04329 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimheiterblick> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimheiterblick> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimheiterblick> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimheiterblick> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/staedtischesaltenpflegeheimkleinzschocher> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim "Kleinzschocher""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/staedtischesaltenpflegeheimkleinzschocher> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim \"Kleinzschocher\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimkleinzschocher> <http://le-online.de/ontology/place/ns#address> "Städtische Altenpflegeheime Leipzig gGmbH Schwartzestr. 18, 04229 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimkleinzschocher> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimkleinzschocher> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimkleinzschocher> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimkleinzschocher> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/staedtischesaltenpflegeheimmartinandersennexoe> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim "Martin Andersen Nexö ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/staedtischesaltenpflegeheimmartinandersennexoe> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim \"Martin Andersen Nexö \""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimmartinandersennexoe> <http://le-online.de/ontology/place/ns#address> "Stötteritzer Str. 26, 04317 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimmartinandersennexoe> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimmartinandersennexoe> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -6743,7 +6736,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimmatthaeistift> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimmatthaeistift> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimmatthaeistift> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/staedtischesaltenpflegeheimnaunhoferstrasse> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim "Naunhofer Straße""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/staedtischesaltenpflegeheimnaunhoferstrasse> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim \"Naunhofer Straße\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimnaunhoferstrasse> <http://le-online.de/ontology/place/ns#address> "Naunhofer Str. 12, 04299 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimnaunhoferstrasse> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimnaunhoferstrasse> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -6755,13 +6748,13 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimtaucha> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimtaucha> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/altenpflegeheimtaucha> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/staedtischesaltenpflegeheimseniorenhofplagwitz> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim "Seniorenhof Plagwitz""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/staedtischesaltenpflegeheimseniorenhofplagwitz> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim \"Seniorenhof Plagwitz\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimseniorenhofplagwitz> <http://le-online.de/ontology/place/ns#address> "Städtische Altenpflegeheime Leipzig gGmbH Walter-Heinze- Str. 22-24, 04229 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimseniorenhofplagwitz> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimseniorenhofplagwitz> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimseniorenhofplagwitz> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimseniorenhofplagwitz> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/staedtischesaltenpflegeheimseniorenparkdoelitz> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim "Seniorenpark Dölitz""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/staedtischesaltenpflegeheimseniorenparkdoelitz> <http://le-online.de/ontology/place/ns#placeName> "Städtisches Altenpflegeheim \"Seniorenpark Dölitz\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimseniorenparkdoelitz> <http://le-online.de/ontology/place/ns#address> "Städtische Altenpflegeheime Leipzig gGmbH Bornaische Str. 188, 04279 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimseniorenparkdoelitz> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/staedtischesaltenpflegeheimseniorenparkdoelitz> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -6779,7 +6772,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/angelikastiftaltenpflegeheim> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/angelikastiftaltenpflegeheim> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/angelikastiftaltenpflegeheim> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/awogerontopsychiatrischespflegeheimmariejuchacz> <http://le-online.de/ontology/place/ns#placeName> "AWO Gerontopsychiatrisches Pflegeheim "Marie Juchacz""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/awogerontopsychiatrischespflegeheimmariejuchacz> <http://le-online.de/ontology/place/ns#placeName> "AWO Gerontopsychiatrisches Pflegeheim \"Marie Juchacz\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/awogerontopsychiatrischespflegeheimmariejuchacz> <http://le-online.de/ontology/place/ns#address> "Friedrichshafener Str. 191, 04357 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/awogerontopsychiatrischespflegeheimmariejuchacz> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/awogerontopsychiatrischespflegeheimmariejuchacz> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -6803,7 +6796,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/drkaltenundpflegeheim> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/drkaltenundpflegeheim> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/drkaltenundpflegeheim> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/hausamsilbersee> <http://le-online.de/ontology/place/ns#placeName> "Haus "Am Silbersee""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/hausamsilbersee> <http://le-online.de/ontology/place/ns#placeName> "Haus \"Am Silbersee\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hausamsilbersee> <http://le-online.de/ontology/place/ns#address> "Arbeiter-Samariter-Bund Kreisverband Leipzig e.V.; Zwickauer Str. 131 A, 04279 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hausamsilbersee> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hausamsilbersee> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -6851,7 +6844,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenwohnparkvillaauenwald> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenwohnparkvillaauenwald> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenwohnparkvillaauenwald> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/seniorengutshofwuenschgut> <http://le-online.de/ontology/place/ns#placeName> "Seniorengutshof "Wünschgut""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/seniorengutshofwuenschgut> <http://le-online.de/ontology/place/ns#placeName> "Seniorengutshof \"Wünschgut\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorengutshofwuenschgut> <http://le-online.de/ontology/place/ns#address> "Pflegedienst Krabbes Cleudner Str. 29, 04349 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorengutshofwuenschgut> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorengutshofwuenschgut> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -6875,13 +6868,13 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenheimleipzigprobstheida> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenheimleipzigprobstheida> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenheimleipzigprobstheida> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/seniorenresidenzamlunaparkgmbh> <http://le-online.de/ontology/place/ns#placeName> "Seniorenresidenz "Am Lunapark" GmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/seniorenresidenzamlunaparkgmbh> <http://le-online.de/ontology/place/ns#placeName> "Seniorenresidenz \"Am Lunapark\" GmbH"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenresidenzamlunaparkgmbh> <http://le-online.de/ontology/place/ns#address> "Friedrich-Bosse-Str. 93, 04159 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenresidenzamlunaparkgmbh> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenresidenzamlunaparkgmbh> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenresidenzamlunaparkgmbh> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenresidenzamlunaparkgmbh> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/seniorenresidenzamsee> <http://le-online.de/ontology/place/ns#placeName> "Seniorenresidenz "Am See""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/seniorenresidenzamsee> <http://le-online.de/ontology/place/ns#placeName> "Seniorenresidenz \"Am See\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenresidenzamsee> <http://le-online.de/ontology/place/ns#address> "Pflegedienst Krabbes Zschopauer Str. 9, 04349 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenresidenzamsee> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/seniorenresidenzamsee> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -6983,7 +6976,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/wohnhausfuerkoerperundmehrfachbehinderteerwachsene> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/wohnhausfuerkoerperundmehrfachbehinderteerwachsene> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/wohnhausfuerkoerperundmehrfachbehinderteerwachsene> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/wohnheimfuerbehindertestgeorg> <http://le-online.de/ontology/place/ns#placeName> "Wohnheim für Behinderte "St. Georg""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/wohnheimfuerbehindertestgeorg> <http://le-online.de/ontology/place/ns#placeName> "Wohnheim für Behinderte \"St. Georg\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/wohnheimfuerbehindertestgeorg> <http://le-online.de/ontology/place/ns#address> "Prager Str. 390, 04289 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/wohnheimfuerbehindertestgeorg> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/wohnheimfuerbehindertestgeorg> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -7067,7 +7060,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/ambulanterhospizdienstadvenaadh> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/ambulanterhospizdienstadvenaadh> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/ambulanterhospizdienstadvenaadh> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/hospizvillaauguste> <http://le-online.de/ontology/place/ns#placeName> "Hospiz "Villa Auguste""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/hospizvillaauguste> <http://le-online.de/ontology/place/ns#placeName> "Hospiz \"Villa Auguste\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hospizvillaauguste> <http://le-online.de/ontology/place/ns#address> "Kommandant-Prendel-Allee 106, 04299 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hospizvillaauguste> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/hospizvillaauguste> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -7182,79 +7175,79 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzigservicecenter> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzigservicecenter> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleaxispassagegeorgschumannstrasse> <http://le-online.de/ontology/place/ns#placeName> "Jobcenter Leipzig - Nebenstelle Axis-Passage (Georg-Schumann-Straße)"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/jobcenterleipzignebenstelleaxispassagegeorgschumannstrasse> <http://le-online.de/ontology/place/ns#address> "-nebenstelle-axis-passage-527bb7ce 22949 /">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/jobcenterleipzignebenstelleaxispassagegeorgschumannstrasse> <http://le-online.de/ontology/place/ns#address> "-nebenstelle-axis-passage-527bb7ce 22949 /\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleaxispassagegeorgschumannstrasse> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleaxispassagegeorgschumannstrasse> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleaxispassagegeorgschumannstrasse> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleaxispassagegeorgschumannstrasse> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleerichweinertstrasse> <http://le-online.de/ontology/place/ns#placeName> "Jobcenter Leipzig - Nebenstelle Erich-Weinert-Straße"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/jobcenterleipzignebenstelleerichweinertstrasse> <http://le-online.de/ontology/place/ns#address> "/dienststelle/jobcenter-leipzig-nebenstelle-erich-weinert-strasse- 52679 a593d446/">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/jobcenterleipzignebenstelleerichweinertstrasse> <http://le-online.de/ontology/place/ns#address> "/dienststelle/jobcenter-leipzig-nebenstelle-erich-weinert-strasse- 52679 a593d446/\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleerichweinertstrasse> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleerichweinertstrasse> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleerichweinertstrasse> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleerichweinertstrasse> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleberlinerstrasse> <http://le-online.de/ontology/place/ns#placeName> "Jobcenter Leipzig - Nebenstelle Berliner Straße"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/jobcenterleipzignebenstelleberlinerstrasse> <http://le-online.de/ontology/place/ns#address> "nebenstelle-berliner-strasse-521f0 20270 f65/">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/jobcenterleipzignebenstelleberlinerstrasse> <http://le-online.de/ontology/place/ns#address> "nebenstelle-berliner-strasse-521f0 20270 f65/\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleberlinerstrasse> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleberlinerstrasse> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleberlinerstrasse> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstelleberlinerstrasse> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzigjobclub> <http://le-online.de/ontology/place/ns#placeName> "Jobcenter Leipzig - JobClub"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/jobcenterleipzigjobclub> <http://le-online.de/ontology/place/ns#address> "jobclub- 52838 dfa43f4e/">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/jobcenterleipzigjobclub> <http://le-online.de/ontology/place/ns#address> "jobclub- 52838 dfa43f4e/\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzigjobclub> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzigjobclub> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzigjobclub> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzigjobclub> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstellegrossefleischergasse> <http://le-online.de/ontology/place/ns#placeName> "Jobcenter Leipzig - Nebenstelle Große Fleischergasse"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/jobcenterleipzignebenstellegrossefleischergasse> <http://le-online.de/ontology/place/ns#address> "jobclub- 52838 dfa43f4e/">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/jobcenterleipzignebenstellegrossefleischergasse> <http://le-online.de/ontology/place/ns#address> "jobclub- 52838 dfa43f4e/\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstellegrossefleischergasse> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstellegrossefleischergasse> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstellegrossefleischergasse> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jobcenterleipzignebenstellegrossefleischergasse> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstellelindenthal> <http://le-online.de/ontology/place/ns#placeName> "Außenstelle Lindenthal"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/aussenstellelindenthal> <http://le-online.de/ontology/place/ns#address> "aussenstelle-lindenthal-1000 70221 /">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/aussenstellelindenthal> <http://le-online.de/ontology/place/ns#address> "aussenstelle-lindenthal-1000 70221 /\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstellelindenthal> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstellelindenthal> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstellelindenthal> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstellelindenthal> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstelleluetzschenastahmeln> <http://le-online.de/ontology/place/ns#placeName> "Außenstelle Lützschena-Stahmeln"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/aussenstelleluetzschenastahmeln> <http://le-online.de/ontology/place/ns#address> "buergeramt-gohlis-center-aussenstelle-luetzschena-stahmeln-1000 70181 /">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/aussenstelleluetzschenastahmeln> <http://le-online.de/ontology/place/ns#address> "buergeramt-gohlis-center-aussenstelle-luetzschena-stahmeln-1000 70181 /\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstelleluetzschenastahmeln> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstelleluetzschenastahmeln> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstelleluetzschenastahmeln> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstelleluetzschenastahmeln> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstelleholzhausen> <http://le-online.de/ontology/place/ns#placeName> "Außenstelle Holzhausen"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/aussenstelleholzhausen> <http://le-online.de/ontology/place/ns#address> "buergeramt-liebertwolkwitz-aussenstelle-holzhausen-1000 70241 /">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/aussenstelleholzhausen> <http://le-online.de/ontology/place/ns#address> "buergeramt-liebertwolkwitz-aussenstelle-holzhausen-1000 70241 /\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstelleholzhausen> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstelleholzhausen> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstelleholzhausen> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aussenstelleholzhausen> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtboehlitzehrenberg> <http://le-online.de/ontology/place/ns#placeName> "Bürgeramt Böhlitz-Ehrenberg"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/buergeramtboehlitzehrenberg> <http://le-online.de/ontology/place/ns#address> "dienststelle/buergeramt-boehlitz-ehrenberg-100 07021 /">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/buergeramtboehlitzehrenberg> <http://le-online.de/ontology/place/ns#address> "dienststelle/buergeramt-boehlitz-ehrenberg-100 07021 /\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtboehlitzehrenberg> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtboehlitzehrenberg> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtboehlitzehrenberg> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtboehlitzehrenberg> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtgohliscenter> <http://le-online.de/ontology/place/ns#placeName> "Bürgeramt Gohlis-Center"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/buergeramtgohliscenter> <http://le-online.de/ontology/place/ns#address> "buergeramt-gohlis-center-100 07018 /">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/buergeramtgohliscenter> <http://le-online.de/ontology/place/ns#address> "buergeramt-gohlis-center-100 07018 /\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtgohliscenter> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtgohliscenter> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtgohliscenter> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtgohliscenter> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtleutzschimrathausleutzsch> <http://le-online.de/ontology/place/ns#placeName> "Bürgeramt Leutzsch im Rathaus Leutzsch"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/buergeramtleutzschimrathausleutzsch> <http://le-online.de/ontology/place/ns#address> "buergeramt-leutzsch-100 07016 /">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/buergeramtleutzschimrathausleutzsch> <http://le-online.de/ontology/place/ns#address> "buergeramt-leutzsch-100 07016 /\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtleutzschimrathausleutzsch> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtleutzschimrathausleutzsch> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtleutzschimrathausleutzsch> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtleutzschimrathausleutzsch> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtliebertwolkwitz> <http://le-online.de/ontology/place/ns#placeName> "Bürgeramt Liebertwolkwitz"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/buergeramtliebertwolkwitz> <http://le-online.de/ontology/place/ns#address> "buergeramt-liebertwolkwitz-100 07024 /">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/buergeramtliebertwolkwitz> <http://le-online.de/ontology/place/ns#address> "buergeramt-liebertwolkwitz-100 07024 /\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtliebertwolkwitz> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtliebertwolkwitz> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtliebertwolkwitz> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtliebertwolkwitz> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtpaunsdorfcenter> <http://le-online.de/ontology/place/ns#placeName> "Bürgeramt Paunsdorf-Center"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/buergeramtpaunsdorfcenter> <http://le-online.de/ontology/place/ns#address> "buergeramt-paunsdorf-center-100 07012 /">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/buergeramtpaunsdorfcenter> <http://le-online.de/ontology/place/ns#address> "buergeramt-paunsdorf-center-100 07012 /\">www.leipzig.de"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtpaunsdorfcenter> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtpaunsdorfcenter> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/buergeramtpaunsdorfcenter> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -7667,8 +7660,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/baerbelhaelbigleipzigde> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/baerbelhaelbigleipzigde> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/baerbelhaelbigleipzigde> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/musterausstellungzurbarrierefreiengestaltungvonkuechenundbaedern> <http://le-online.de/ontology/place/ns#placeName> "Musterausstellung zur barrierefreien Gestaltung von Küchen und 
-Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/musterausstellungzurbarrierefreiengestaltungvonkuechenundbaedern> <http://le-online.de/ontology/place/ns#placeName> "Musterausstellung zur barrierefreien Gestaltung von Küchen und   Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/musterausstellungzurbarrierefreiengestaltungvonkuechenundbaedern> <http://le-online.de/ontology/place/ns#address> "Prager Str. 136, Technisches Rathaus - Haus A, 04317 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/musterausstellungzurbarrierefreiengestaltungvonkuechenundbaedern> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/musterausstellungzurbarrierefreiengestaltungvonkuechenundbaedern> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -7824,9 +7816,7 @@ Bädern"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/umweltinformationszentrum> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/umweltinformationszentrum> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/umweltinformationszentrum> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/abtstrassenverwaltungstrassentwurfstrassenbauundunterhaltungbrueckenbauundunterhaltungstrassverkehrsbehoerdestadtbeleuchtung> <http://le-online.de/ontology/place/ns#placeName> "Abt. Straßenverwaltung, Straßentwurf, 
-Straßenbau und Unterhaltung, Brückenbau und Unterhaltung, 
-Straßverkehrsbehörde, Stadtbeleuchtung"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/abtstrassenverwaltungstrassentwurfstrassenbauundunterhaltungbrueckenbauundunterhaltungstrassverkehrsbehoerdestadtbeleuchtung> <http://le-online.de/ontology/place/ns#placeName> "Abt. Straßenverwaltung, Straßentwurf,   Straßenbau und Unterhaltung, Brückenbau und Unterhaltung,   Straßverkehrsbehörde, Stadtbeleuchtung"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/abtstrassenverwaltungstrassentwurfstrassenbauundunterhaltungbrueckenbauundunterhaltungstrassverkehrsbehoerdestadtbeleuchtung> <http://le-online.de/ontology/place/ns#address> "Technisches Rathaus Haus C, Prager Str. 118, 04317 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/abtstrassenverwaltungstrassentwurfstrassenbauundunterhaltungbrueckenbauundunterhaltungstrassverkehrsbehoerdestadtbeleuchtung> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/abtstrassenverwaltungstrassentwurfstrassenbauundunterhaltungbrueckenbauundunterhaltungstrassverkehrsbehoerdestadtbeleuchtung> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -7904,9 +7894,7 @@ Straßverkehrsbehörde, Stadtbeleuchtung"^^<http://www.w3.org/2001/XMLSchema#str
 <http://le-online.de/place/beruflichesschulzentrum1wirtschaftundverwaltung> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beruflichesschulzentrum1wirtschaftundverwaltung> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/beruflichesschulzentrum1wirtschaftundverwaltung> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/berufsbildungswerkleipzigfuerhoerundsprachgeschaedigteggmbhmensa> <http://le-online.de/ontology/place/ns#placeName> "Berufsbildungswerk Leipzig für Hör- und 
-Sprachgeschädigte gGmbH
- - Mensa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/berufsbildungswerkleipzigfuerhoerundsprachgeschaedigteggmbhmensa> <http://le-online.de/ontology/place/ns#placeName> "Berufsbildungswerk Leipzig für Hör- und   Sprachgeschädigte gGmbH   - Mensa"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/berufsbildungswerkleipzigfuerhoerundsprachgeschaedigteggmbhmensa> <http://le-online.de/ontology/place/ns#address> "Knautnaundorfer Str. 4, 04249 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/berufsbildungswerkleipzigfuerhoerundsprachgeschaedigteggmbhmensa> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/berufsbildungswerkleipzigfuerhoerundsprachgeschaedigteggmbhmensa> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -8008,13 +7996,13 @@ Sprachgeschädigte gGmbH
 <http://le-online.de/place/kaethekollwitzschuleuhlandstr> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kaethekollwitzschuleuhlandstr> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kaethekollwitzschuleuhlandstr> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/kinderundjugendtreffkirscheeg> <http://le-online.de/ontology/place/ns#placeName> "Kinder- und Jugendtreff "Kirsche" (EG)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/kinderundjugendtreffkirscheeg> <http://le-online.de/ontology/place/ns#placeName> "Kinder- und Jugendtreff \"Kirsche\" (EG)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderundjugendtreffkirscheeg> <http://le-online.de/ontology/place/ns#address> "Schulzeweg 11, 04347 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderundjugendtreffkirscheeg> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderundjugendtreffkirscheeg> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderundjugendtreffkirscheeg> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderundjugendtreffkirscheeg> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/kinderhausluetzschenaersternchen> <http://le-online.de/ontology/place/ns#placeName> "Kinderhaus "Lützschenaer Sternchen""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/kinderhausluetzschenaersternchen> <http://le-online.de/ontology/place/ns#placeName> "Kinderhaus \"Lützschenaer Sternchen\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderhausluetzschenaersternchen> <http://le-online.de/ontology/place/ns#address> "Freirodaer Weg 2b, 04159 Leipzig - Lützschena"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderhausluetzschenaersternchen> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kinderhausluetzschenaersternchen> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -8026,7 +8014,7 @@ Sprachgeschädigte gGmbH
 <http://le-online.de/place/kindertagesstaettehohenheida> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kindertagesstaettehohenheida> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kindertagesstaettehohenheida> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/kindertagesstaettefuchsbau> <http://le-online.de/ontology/place/ns#placeName> "Kindertagesstätte "Fuchsbau""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/kindertagesstaettefuchsbau> <http://le-online.de/ontology/place/ns#placeName> "Kindertagesstätte \"Fuchsbau\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kindertagesstaettefuchsbau> <http://le-online.de/ontology/place/ns#address> "Russenstr. 135, 04288 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kindertagesstaettefuchsbau> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/kindertagesstaettefuchsbau> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -8116,7 +8104,7 @@ Sprachgeschädigte gGmbH
 <http://le-online.de/place/stadtbezirksbibliothekschoenefeld> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/stadtbezirksbibliothekschoenefeld> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/stadtbezirksbibliothekschoenefeld> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/stadtbezirksbibliotheksuedvorstadtwalterhofmann> <http://le-online.de/ontology/place/ns#placeName> "Stadtbezirksbibliothek Südvorstadt "Walter Hofmann""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/stadtbezirksbibliotheksuedvorstadtwalterhofmann> <http://le-online.de/ontology/place/ns#placeName> "Stadtbezirksbibliothek Südvorstadt \"Walter Hofmann\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/stadtbezirksbibliotheksuedvorstadtwalterhofmann> <http://le-online.de/ontology/place/ns#address> "Steinstr. 42, 04275 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/stadtbezirksbibliotheksuedvorstadtwalterhofmann> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/stadtbezirksbibliotheksuedvorstadtwalterhofmann> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -8386,8 +8374,7 @@ Sprachgeschädigte gGmbH
 <http://le-online.de/place/proretinadeutschlandevregionleipzig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/proretinadeutschlandevregionleipzig> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/proretinadeutschlandevregionleipzig> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/prospaltvereinigungzurfoerderungderrehalkgsbetroffenerev> <http://le-online.de/ontology/place/ns#placeName> "Pro Spalt - Vereinigung zur Förderung der Reha. LKGS-Betroffener 
-e.V."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/prospaltvereinigungzurfoerderungderrehalkgsbetroffenerev> <http://le-online.de/ontology/place/ns#placeName> "Pro Spalt - Vereinigung zur Förderung der Reha. LKGS-Betroffener   e.V."^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/prospaltvereinigungzurfoerderungderrehalkgsbetroffenerev> <http://le-online.de/ontology/place/ns#address> "Willi-Bredel-Str. 3 / 008, 04279 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/prospaltvereinigungzurfoerderungderrehalkgsbetroffenerev> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/prospaltvereinigungzurfoerderungderrehalkgsbetroffenerev> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -8430,13 +8417,13 @@ e.V."^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/alleinerziehendemitbehindertenkindern> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/alleinerziehendemitbehindertenkindern> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aphasikerleipzig> <http://le-online.de/ontology/place/ns#placeName> "Aphasiker Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/aphasikerleipzig> <http://le-online.de/ontology/place/ns#address> "1. Mittwoch im Monat ab 14.30 Uhr in der ASB-Begegnungsstätte "Kregeline", Stötteritzer Str. 28, 04317 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/aphasikerleipzig> <http://le-online.de/ontology/place/ns#address> "1. Mittwoch im Monat ab 14.30 Uhr in der ASB-Begegnungsstätte \"Kregeline\", Stötteritzer Str. 28, 04317 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aphasikerleipzig> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aphasikerleipzig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aphasikerleipzig> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/aphasikerleipzig> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jungeaphasikerleipzig> <http://le-online.de/ontology/place/ns#placeName> "Junge Aphasiker Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/jungeaphasikerleipzig> <http://le-online.de/ontology/place/ns#address> "Kontakt: Birgit Große Stötteritzer Str. 28 "Kregeline", 04317 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/jungeaphasikerleipzig> <http://le-online.de/ontology/place/ns#address> "Kontakt: Birgit Große Stötteritzer Str. 28 \"Kregeline\", 04317 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jungeaphasikerleipzig> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jungeaphasikerleipzig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/jungeaphasikerleipzig> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -8669,21 +8656,19 @@ e.V."^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/morbusbechterew> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/morbusbechterew> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/morbusbechterew> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimsegruenau> <http://le-online.de/ontology/place/ns#placeName> "Multiple Sklerose - Interessengemeinschaft Multiple Sklerose-
-Erkrankter und ihrer Freunde e.V. / IMSE Grünau"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimsegruenau> <http://le-online.de/ontology/place/ns#placeName> "Multiple Sklerose - Interessengemeinschaft Multiple Sklerose-  Erkrankter und ihrer Freunde e.V. / IMSE Grünau"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimsegruenau> <http://le-online.de/ontology/place/ns#address> "Breisgaustr. 53, 04209 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimsegruenau> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimsegruenau> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimsegruenau> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimsegruenau> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimse> <http://le-online.de/ontology/place/ns#placeName> "Multiple Sklerose - Interessengemeinschaft Multiple Sklerose-
-Erkrankter und ihrer Freunde e.V. / IMSE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimse> <http://le-online.de/ontology/place/ns#placeName> "Multiple Sklerose - Interessengemeinschaft Multiple Sklerose-  Erkrankter und ihrer Freunde e.V. / IMSE"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimse> <http://le-online.de/ontology/place/ns#address> "Willmar-Schwabe-Str. 2 (AOK Plus), 04109 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimse> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimse> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimse> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseinteressengemeinschaftmultipleskleroseerkrankterundihrerfreundeevimse> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/multipleskleroseshgmsgemse> <http://le-online.de/ontology/place/ns#placeName> "Multiple Sklerose - SHG MS "GEMSE""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/multipleskleroseshgmsgemse> <http://le-online.de/ontology/place/ns#placeName> "Multiple Sklerose - SHG MS \"GEMSE\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseshgmsgemse> <http://le-online.de/ontology/place/ns#address> "Ansprechpartner Herr Hoerig Mattheuerbogen 6 (Am Sonnenpark), 04289 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseshgmsgemse> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/multipleskleroseshgmsgemse> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -8714,7 +8699,7 @@ Erkrankter und ihrer Freunde e.V. / IMSE"^^<http://www.w3.org/2001/XMLSchema#str
 <http://le-online.de/place/proretinadeutschlandevregionleipzig> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/proretinadeutschlandevregionleipzig> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/psoriasisbundsachsenregionalgruppeleipzig> <http://le-online.de/ontology/place/ns#placeName> "Psoriasis-Bund Sachsen, Regionalgruppe Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/psoriasisbundsachsenregionalgruppeleipzig> <http://le-online.de/ontology/place/ns#address> "Regionalleiter Rainer Klatte Stötteritzer Str. 28 "Kregeline", 04317 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/psoriasisbundsachsenregionalgruppeleipzig> <http://le-online.de/ontology/place/ns#address> "Regionalleiter Rainer Klatte Stötteritzer Str. 28 \"Kregeline\", 04317 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/psoriasisbundsachsenregionalgruppeleipzig> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/psoriasisbundsachsenregionalgruppeleipzig> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/psoriasisbundsachsenregionalgruppeleipzig> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -8749,8 +8734,7 @@ Erkrankter und ihrer Freunde e.V. / IMSE"^^<http://www.w3.org/2001/XMLSchema#str
 <http://le-online.de/place/shiaevselbsthilfegruppenalleinerziehenderlvsachsen> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/shiaevselbsthilfegruppenalleinerziehenderlvsachsen> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/shiaevselbsthilfegruppenalleinerziehenderlvsachsen> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/skisselbsthilfekontaktundinformationsstellebeimgesundheitsamt> <http://le-online.de/ontology/place/ns#placeName> "SKIS - Selbsthilfekontakt- und -Informationsstelle beim 
-Gesundheitsamt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/skisselbsthilfekontaktundinformationsstellebeimgesundheitsamt> <http://le-online.de/ontology/place/ns#placeName> "SKIS - Selbsthilfekontakt- und -Informationsstelle beim   Gesundheitsamt"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/skisselbsthilfekontaktundinformationsstellebeimgesundheitsamt> <http://le-online.de/ontology/place/ns#address> "Friedrich-Ebert-Str. 19a, 04109 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/skisselbsthilfekontaktundinformationsstellebeimgesundheitsamt> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/skisselbsthilfekontaktundinformationsstellebeimgesundheitsamt> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -9038,8 +9022,7 @@ Gesundheitsamt"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/vereinfuerfrauenfamilienundjugendinleipzigev> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/vereinfuerfrauenfamilienundjugendinleipzigev> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/vereinfuerfrauenfamilienundjugendinleipzigev> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/vereinzurwiedereingliederungpsychosozialgeschaedigtermenschenev> <http://le-online.de/ontology/place/ns#placeName> "Verein zur Wiedereingliederung psychosozial geschädigter Menschen 
-e.V."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/vereinzurwiedereingliederungpsychosozialgeschaedigtermenschenev> <http://le-online.de/ontology/place/ns#placeName> "Verein zur Wiedereingliederung psychosozial geschädigter Menschen   e.V."^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/vereinzurwiedereingliederungpsychosozialgeschaedigtermenschenev> <http://le-online.de/ontology/place/ns#address> "Bereich Arbeiten, Bereich Wohnen, Bereich Leben Oberdorfstr. 15, 04299 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/vereinzurwiedereingliederungpsychosozialgeschaedigtermenschenev> <http://le-online.de/ontology/place/ns#lift-available> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/vereinzurwiedereingliederungpsychosozialgeschaedigtermenschenev> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -9226,7 +9209,7 @@ e.V."^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/ligaderspitzenverbaendederfreienwohlfahrtspflegeinsachsen> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/ligaderspitzenverbaendederfreienwohlfahrtspflegeinsachsen> <http://le-online.de/ontology/place/ns#parkingLot-lotsForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/volkssolidaritaetstadtverbandleipzigev> <http://le-online.de/ontology/place/ns#placeName> "Volkssolidarität Stadtverband Leipzig e.V."^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://le-online.de/place/volkssolidaritaetstadtverbandleipzigev> <http://le-online.de/ontology/place/ns#address> "Stadtgeschäftsstelle im Sozialzentrum "An den Gärten" Demmeringstr. 127, 04179 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://le-online.de/place/volkssolidaritaetstadtverbandleipzigev> <http://le-online.de/ontology/place/ns#address> "Stadtgeschäftsstelle im Sozialzentrum \"An den Gärten\" Demmeringstr. 127, 04179 Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/volkssolidaritaetstadtverbandleipzigev> <http://le-online.de/ontology/place/ns#lift-available> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/volkssolidaritaetstadtverbandleipzigev> <http://le-online.de/ontology/place/ns#lift-liftWithWheelChairSupportAvailable> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://le-online.de/place/volkssolidaritaetstadtverbandleipzigev> <http://le-online.de/ontology/place/ns#toilets-toiletForDisabledPeopleAvailable> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
