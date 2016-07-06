@@ -110,21 +110,8 @@ function createRDFTurtleFile($filename, array $infoArray)
         /*
          * generate good title for the URL later on (URL encoded, but still human readable)
          */
-        $placeUri = str_replace(
-            array(
-                ' ',     'ß',  'ä',  'ü',  'ö',  'ö',  '<br-/>', '&uuml;', '&auml;', '&ouml;', '"', 'eacute;', '/',
-                'ouml;', 'auml;', 'uuml;', ',', "'", '>', '<', '`', '´'
-            ),
-            array(
-                '-',     'ss', 'ae', 'ue', 'oe', 'oe', '',       'ue',     'ae',     'oe',     '',  'e',       '_',
-                'oe',    'ae',    'ue',    '-', '_', '-', '-', '-', '-'
-            ),
-            strtolower(
-                trim(
-                    preg_replace('/\s\s+/', ' ', $placeEntry['title'])
-                )
-            )
-        );
+        //$placeUri = createGoodURIKonrad($placeEntry['title']);
+        $placeUri = createGoodURIHGG($placeEntry['title']);
         $placeUri = $bvlRootUrl . str_replace(array('&', ), array('-and-',), $placeUri);
 
         // title
@@ -170,11 +157,36 @@ function createRDFTurtleFile($filename, array $infoArray)
 
     // serialize statement array to n-triples and store it as file
     $serializerFactory = new SerializerFactoryImpl();
-    $serializer = $serializerFactory->createSerializerFor('n-triples');
+    $serializer = $serializerFactory->createSerializerFor('n-triples'); 
     $serializer->serializeIteratorToStream(
         new ArrayStatementIteratorImpl($stmtArray),
         __DIR__ . '/'. $filename
     );
 
     echo 'N-Triples file '. $filename .' with '. count($stmtArray) .' triples created.' . PHP_EOL;
+}
+
+function createGoodURIKonrad($name) { // Originalversion
+    return str_replace(
+        array(
+            ' ',     'ß',  'ä',  'ü',  'ö',  'ö',  '<br-/>', '&uuml;', '&auml;', '&ouml;', '"', 'eacute;', '/',
+                'ouml;', 'auml;', 'uuml;', ',', "'", '>', '<', '`', '´'
+        ),
+        array(
+            '-',     'ss', 'ae', 'ue', 'oe', 'oe', '',       'ue',     'ae',     'oe',     '',  'e',       '_',
+                'oe',    'ae',    'ue',    '-', '_', '-', '-', '-', '-'
+        ),
+        strtolower(trim(preg_replace('/\s\s+/', ' ', $name)))
+        );
+}
+function createGoodURIHGG($name) { // Originalversion
+  $name=strtolower(trim(preg_replace('/\s\s+/', '', $name)));
+  $name=str_replace(
+        array('ß',  'ä',  'ü',  'ö',  'ö',  '<br-/>', '&uuml;', '&auml;', '&ouml;', 'eacute;', 
+                'ouml;', 'auml;', 'uuml;'),
+        array('ss', 'ae', 'ue', 'oe', 'oe', '',       'ue',     'ae',     'oe',     'e',       
+                'oe',    'ae',    'ue'   ),
+        $name);
+  $name=preg_replace('/\W/', '', $name);
+  return $name;
 }
