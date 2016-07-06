@@ -29,19 +29,6 @@ Bezug zum Projekt spe16 im SWT-Praktikum 2016, Basisvariante
 
 Clone des Repos https://github.com/AKSW/transform-bvl-pages-to-csv-file
 
-## Mail Konrad Abicht, 2016-07-05
-
-CSV-Datei, welche den extrahierten Datenbestand der Stadtführer-Seiten
-repräsentiert: `le-online-extracted-places.csv`
-
-Daraus abgeleitete RDF-Datei: `le-online-extracted-places.nt`
-
-Den Scraper kann man händisch über die Console anstoßen, indem man `php
-create-files.php` ausführt. Zum Setup ist ein `composer update` vorher nötig.
-
-Es besteht gerade die Überlegung, die Daten mit der Access-Datenbank des BVL
-abzugleichen und entsprechend zu verwenden statt der Web-Extraktion.
-
 ## HGG, 2016-07-06
 
 Änderungen: 
