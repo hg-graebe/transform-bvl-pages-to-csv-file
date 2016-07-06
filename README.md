@@ -64,3 +64,7 @@ php create-files.php                -> erzeugt uhu.nt
 php postprocess.php >a1.nt          -> erzeugt a1.nt
 rapper -gc a1.nt                    -> prüft die entstandene Datei auf Stringenz
 rapper -g a1.nt -o turtle >a.ttl    -> verwandelt das in Turtle
+
+Das Ganze habe ich dann in ein Ontowiki@localhost gepackt, daraus den
+adressrelevanten Teil extrahiert (siehe `Queries.txt`) und in `adressen.ttl`
+gepackt.  Diese Daten müssten nun wohl zunächst händisch kuratiert werden.

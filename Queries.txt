@@ -1,0 +1,10 @@
+PREFIX leoplace: <http://le-online.de/ontology/place/ns#> 
+construct { 
+  ?a a leoplace:Place; leoplace:address ?b; 
+  leoplace:fixedAddress ?b; 
+  leoplace:placeName ?n; leoplace:fixedPlaceName ?n . 
+}
+where {
+?a leoplace:address ?b; leoplace:placeName ?n .
+}
+
