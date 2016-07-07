@@ -60,3 +60,25 @@ dupliziert, um die Kopie jeweils fixen zu können.
 `leoplace:fixedAddress` wurde dann so weit kuratiert, dass ein Abgleich mit den
 LD-Adressen möglich wird.
 
+## HGG, 2016-07-07
+
+Daraus habe ich mit `rapper` die ntriples-Datei `adressen.nt` erzeugt und mit
+dem Perl-Skript `process.pl` (hilfsweise über reine String-Manipulation,
+`adressen.php` habe ich nicht zum Laufen bekommen) ld-Adressen entsprechend dem
+dort verwendeten Namensmuster erzeugt und in die Datei `ld-adressen.ttl`
+extrahiert.  
+
+Diese Datei habe ich weiter editiert und Einträge mit unplausiblen Adressen
+(insb. solche, die nicht in Leipzig liegen) entfernt.  Den Rest habe ich in den
+RDF-Store leipzig-data.de gesteckt und zu den Adressen, die dort wirklich
+vorhanden waren, Geodaten extrahiert, siehe `geodaten.ttl`.  Das genau Vorgehen
+ist in der Datei `Queries.txt` beschrieben.
+
+Dort sind weitere Listen mit Adressen extrahiert
+
+1) Adressen, die auch in leipzig-data.de angelegt sind, zu denen aber keine
+   Geodaten hinterlegt sind,
+
+2) Adressen, die so nicht in leipzig-data.de hinterlegt sind.  Hier wäre mit
+   einem sinnvollen Ähnlichkeitstest zu prüfen, ob die Adressen unter einer
+   leicht anderen URI doch vorhanden sind und welche ggf. in Frage kommen.  
