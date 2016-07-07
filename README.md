@@ -54,4 +54,9 @@ rapper -g a1.nt -o turtle >a.ttl    -> verwandelt das in Turtle
 
 Das Ganze habe ich dann in ein Ontowiki@localhost gepackt, daraus den
 adressrelevanten Teil extrahiert (siehe `Queries.txt`) und in `adressen.ttl`
-gepackt.  Diese Daten müssten nun wohl zunächst händisch kuratiert werden.
+gepackt. Die Felder leoplace:placeName und leoplace:address wurden dabei
+dupliziert, um die Kopie jeweils fixen zu können.
+
+`leoplace:fixedAddress` wurde dann so weit kuratiert, dass ein Abgleich mit den
+LD-Adressen möglich wird.
+

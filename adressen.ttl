@@ -662,7 +662,7 @@
 <http://le-online.de/place/ambulantbetreuteswohnenfuerkoerperundmehrfachbehindertemenschen>
     leoplace:address "Breisgaustraße 53, 04209 Leipzig"^^xsd:string, "Pragerstraße 224, 04289 Leipzig"^^xsd:string ;
     leoplace:fixedPlaceName "Ambulant betreutes Wohnen für körper- und mehrfachbehinderte Menschen"^^xsd:string ;
-    leoplace:fixedAddress "Breisgaustraße 53, 04209 Leipzig"^^xsd:string, "Pragerstraße 224, 04289 Leipzig"^^xsd:string ;
+    leoplace:fixedAddress "Breisgaustraße 53, 04209 Leipzig"^^xsd:string, "Prager Straße 224, 04289 Leipzig"^^xsd:string ;
     leoplace:placeName "Ambulant betreutes Wohnen für körper- und mehrfachbehinderte Menschen"^^xsd:string ;
     a leoplace:Place .
 
@@ -2624,7 +2624,7 @@
 <http://le-online.de/place/diabetikersuedshg>
     leoplace:address "Jeden letzten Mittwoch im Monat 19 Uhr in der Universität Leipzig (Rotes Haus), Ph.-Rosenthal-Straße 27, 04103 Leipzig."^^xsd:string ;
     leoplace:fixedPlaceName "Diabetiker Süd - SHG"^^xsd:string ;
-    leoplace:fixedAddress "Philipp-Rosenthal-Straße 27, 04103 Leipzig."^^xsd:string ;
+    leoplace:fixedAddress "Philipp-Rosenthal-Straße 27, 04103 Leipzig"^^xsd:string ;
     leoplace:placeName "Diabetiker Süd - SHG"^^xsd:string ;
     a leoplace:Place .
 
@@ -3310,7 +3310,7 @@
 <http://le-online.de/place/frauennotruffuervergewaltigteundsexuellmissbrauchtefrauenundmaedchen>
     leoplace:address "Karl-Liebknecht-Straße 59, 3. Etage, 04275 Leipzig"^^xsd:string ;
     leoplace:fixedPlaceName "Frauennotruf für vergewaltigte und sexuell missbrauchte Frauen und Mädchen"^^xsd:string ;
-    leoplace:fixedAddress "Karl-Liebknecht-Straße 59, 3. Etage, 04275 Leipzig"^^xsd:string ;
+    leoplace:fixedAddress "Karl-Liebknecht-Straße 59, 04275 Leipzig"^^xsd:string ;
     leoplace:placeName "Frauennotruf für vergewaltigte und sexuell missbrauchte Frauen und Mädchen"^^xsd:string ;
     a leoplace:Place .
 
@@ -3401,7 +3401,7 @@
 <http://le-online.de/place/froebelchen>
     leoplace:address "Friedrichshafener Straße 147 a/b, 04357 Leipzig"^^xsd:string ;
     leoplace:fixedPlaceName "Fröbelchen"^^xsd:string ;
-    leoplace:fixedAddress "Friedrichshafener Straße 147a/b, 04357 Leipzig"^^xsd:string ;
+    leoplace:fixedAddress "Friedrichshafener Straße 147a-b, 04357 Leipzig"^^xsd:string ;
     leoplace:placeName "Fröbelchen"^^xsd:string ;
     a leoplace:Place .
 
@@ -4101,7 +4101,7 @@
 <http://le-online.de/place/hbriff>
     leoplace:address "Am Riff Nr. 3, 04651 Bad Lausick Tel.: 034345 / 71 50, Fax: 0 34345 / 7 15 20"^^xsd:string ;
     leoplace:fixedPlaceName "HB - RIFF"^^xsd:string ;
-    leoplace:fixedAddress "Am Riff Nr. 3, 04651 Bad Lausick"^^xsd:string ;
+    leoplace:fixedAddress "Am Riff 3, 04651 Bad Lausick"^^xsd:string ;
     leoplace:placeName "HB - RIFF"^^xsd:string ;
     a leoplace:Place .
 
@@ -4739,7 +4739,7 @@
 <http://le-online.de/place/kantatenweg>
     leoplace:address "Kantatenweg 41 A/B, 04229 Leipzig"^^xsd:string ;
     leoplace:fixedPlaceName "Kantatenweg"^^xsd:string ;
-    leoplace:fixedAddress "Kantatenweg 41A/B, 04229 Leipzig"^^xsd:string ;
+    leoplace:fixedAddress "Kantatenweg 41A-B, 04229 Leipzig"^^xsd:string ;
     leoplace:placeName "Kantatenweg"^^xsd:string ;
     a leoplace:Place .
 
@@ -4781,7 +4781,7 @@
 <http://le-online.de/place/katholischepfarreistgeorg>
     leoplace:address "Hoepnerstraße 17 , 04157 Leipzig"^^xsd:string ;
     leoplace:fixedPlaceName "Katholische Pfarrei St. Georg"^^xsd:string ;
-    leoplace:fixedAddress "Hoepnerstraße 17 , 04157 Leipzig"^^xsd:string ;
+    leoplace:fixedAddress "Hoepnerstraße 17, 04157 Leipzig"^^xsd:string ;
     leoplace:placeName "Katholische Pfarrei St. Georg"^^xsd:string ;
     a leoplace:Place .
 
@@ -6524,7 +6524,7 @@
 <http://le-online.de/place/pflegedienstkathrinbosold>
     leoplace:address "Pflegedienst, Physiotherapie, Wohnservice, Betreutes Wohnen \"Am Kreuz\" (Arno-Nitzsche-Straße 14) Standort Lößnig: Bornaische Straße 109, 04279 Leipzig Tel.: (0341) 33 78 037, Fax: (0341) 33 78 038 Standort Südvorstadt: Arno-nitzsche-Straße 14, 04277 Leipzig"^^xsd:string ;
     leoplace:fixedPlaceName "Pflegedienst Kathrin Bosold"^^xsd:string ;
-    leoplace:fixedAddress "Bornaische Straße 109, 04279 Leipzig, "Arno-nitzsche-Straße 14, 04277 Leipzig"^^xsd:string ;
+    leoplace:fixedAddress "Bornaische Straße 109, 04279 Leipzig", "Arno-Nitzsche-Straße 14, 04277 Leipzig"^^xsd:string ;
     leoplace:placeName "Pflegedienst Kathrin Bosold"^^xsd:string ;
     a leoplace:Place .
 
@@ -6846,7 +6846,7 @@
 <http://le-online.de/place/ramadahotelleipzig>
     leoplace:address "Schongauerstraße 39, 04329 Leipzig - Paunsdorf"^^xsd:string ;
     leoplace:fixedPlaceName "RAMADA Hotel Leipzig"^^xsd:string ;
-    leoplace:fixedAddress "Schongauerstraße 39, 04329 Leipzig - Paunsdorf"^^xsd:string ;
+    leoplace:fixedAddress "Schongauerstraße 39, 04329 Leipzig"^^xsd:string ;
     leoplace:placeName "RAMADA Hotel Leipzig"^^xsd:string ;
     a leoplace:Place .
 
@@ -8807,14 +8807,14 @@
 <http://le-online.de/place/theaterfabriksachsengmbhgrossebuehne>
     leoplace:address "Franz-Flemming-Straße / Ecke Hans-Driesch-Straße, 04179 Leipzig"^^xsd:string ;
     leoplace:fixedPlaceName "Theater-Fabrik-Sachsen GmbH (Große Bühne)"^^xsd:string ;
-    leoplace:fixedAddress "Franz-Flemming-Straße, 04179 Leipzig"^^xsd:string ;
+    leoplace:fixedAddress "Hans-Driesch-Straße 54, 04179 Leipzig"^^xsd:string ;
     leoplace:placeName "Theater-Fabrik-Sachsen GmbH (Große Bühne)"^^xsd:string ;
     a leoplace:Place .
 
 <http://le-online.de/place/theaterfabriksachsengmbhkleinebuehne>
     leoplace:address "Franz-Flemming-Straße / Ecke Hans-Driesch-Straße, 04179 Leipzig"^^xsd:string ;
     leoplace:fixedPlaceName "Theater-Fabrik-Sachsen GmbH (Kleine Bühne)"^^xsd:string ;
-    leoplace:fixedAddress "Franz-Flemming-Straße, 04179 Leipzig"^^xsd:string ;
+    leoplace:fixedAddress "Hans-Driesch-Straße 54, 04179 Leipzig"^^xsd:string ;
     leoplace:placeName "Theater-Fabrik-Sachsen GmbH (Kleine Bühne)"^^xsd:string ;
     a leoplace:Place .
 
@@ -8961,7 +8961,7 @@
 <http://le-online.de/place/tuitravelstarreisebuerobachmannamflughafenleipzighalle>
     leoplace:address "Flughafenallee 9, 04435 Flughafen Leipzig/Halle"^^xsd:string ;
     leoplace:fixedPlaceName "TUI TRAVEL Star - Reisebüro Bachmann am Flughafen Leipzig/Halle"^^xsd:string ;
-    leoplace:fixedAddress "Flughafenallee 9, 04435 Flughafen Leipzig/Halle"^^xsd:string ;
+    leoplace:fixedAddress "Flughafenallee 9, 04435 Schkeuditz"^^xsd:string ;
     leoplace:placeName "TUI TRAVEL Star - Reisebüro Bachmann am Flughafen Leipzig/Halle"^^xsd:string ;
     a leoplace:Place .
 
@@ -9087,7 +9087,7 @@
 <http://le-online.de/place/verbraucherzentralesachsenevberatungszentrumleipzig>
     leoplace:address "Katharinenstraße 17 (Kretschmar's Hof), 1.OG, 04109 Leipzig"^^xsd:string ;
     leoplace:fixedPlaceName "Verbraucher - Zentrale Sachsen e.V. - Beratungszentrum Leipzig"^^xsd:string ;
-    leoplace:fixedAddress "Katharinenstraße 17, 1.OG, 04109 Leipzig"^^xsd:string ;
+    leoplace:fixedAddress "Katharinenstraße 17, 04109 Leipzig"^^xsd:string ;
     leoplace:placeName "Verbraucher - Zentrale Sachsen e.V. - Beratungszentrum Leipzig"^^xsd:string ;
     a leoplace:Place .
 
@@ -9676,7 +9676,7 @@
 <http://le-online.de/place/zoologischergarten>
     leoplace:address "Nähe Bärenzwinger (Magnetkarten + Euroschließsystem) , Nähe Eingang, Pongoland, Hacienda Las Casas, Afrika-Savanne, Godwanaland Pfaffendorfer Straße 29, 04105 Leipzig"^^xsd:string ;
     leoplace:fixedPlaceName "Zoologischer Garten"^^xsd:string ;
-    leoplace:fixedAddress "Nähe Bärenzwinger, Nähe Eingang, Pongoland, Hacienda Las Casas, Afrika-Savanne, Godwanaland Pfaffendorfer Straße 29, 04105 Leipzig"^^xsd:string ;
+    leoplace:fixedAddress "Pfaffendorfer Straße 29, 04105 Leipzig"^^xsd:string ;
     leoplace:placeName "Zoologischer Garten"^^xsd:string ;
     a leoplace:Toilette .
 

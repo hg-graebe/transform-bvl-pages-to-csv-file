@@ -1,0 +1,4116 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ld: <http://leipzig-data.de/Data/Model/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ogcgs: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns4: <http://leipzig-data.de/Data/Ortsteil/> .
+
+<http://leipzig-data.de/Data/04103.Leipzig.AnderMilchinsel.2>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3915726 51.3429211)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, An der Milchinsel 2" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.BrandenburgerStrasse.2>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3855966214077 51.3445321)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Brandenburger Straße 2" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Bruederstrasse.15>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3861836 51.3326043)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Brüderstraße 15" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Chopinstrasse.13>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3861055 51.3432076)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Chopinstraße 13" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Chopinstrasse.14>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3861055 51.3432076)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Chopinstraße 14" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.CzermaksGarten.8>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3868957 51.3420592)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Czermaks Garten 8" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.DresdnerStrasse.21>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3942177 51.3391662)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dresdner Straße 21" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Georgiring.13>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3838147 51.3435566)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georgiring 13" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Gerichtsweg.28>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3942091 51.3361687)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gerichtsweg 28" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Goldschmidtstrasse.12>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3834348 51.3361147)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Goldschmidtstraße 12" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Goldschmidtstrasse.20>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3849931 51.3359111)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Goldschmidtstraße 20" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.GrosserBrockhaus.3>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3868551 51.3407521)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Großer Brockhaus 3" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Gruenewaldstrasse.3>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3784434 51.3348056)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Grünewaldstraße 3" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Gutenbergplatz.1B>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3924435 51.3356233)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gutenbergplatz 1B" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Gutenbergplatz.8>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3914929561271 51.3355642483597)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gutenbergplatz 8" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Inselstrasse.18>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3911001 51.3404589)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Inselstraße 18" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Johannisallee.19>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3945466888596 51.331576525367)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Johannisallee 19" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Johannisgasse.26>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3853020646964 51.3367646117797)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Johannisgasse 26" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Johannisplatz.1>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3871356 51.3380739)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Johannisplatz 1" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Johannisplatz.2>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3860398 51.3388057)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Johannisplatz 2" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Leplaystrasse.11>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3802071 51.3341313)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Leplaystraße 11" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Liebigstrasse.20>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.390888 51.3309853)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Liebigstraße 20" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Ludwig-Erhard-Strasse.49>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3937759 51.3439507)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Ludwig-Erhard-Straße 49" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.NuernbergerStrasse.31>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3840015 51.3349456)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nürnberger Straße 31" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Paul-List-Strasse.19>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3845376 51.3301337)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Paul-List-Straße 19" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Philipp-Rosenthal-Strasse.27>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3874596162509 51.3285044289455)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Philipp-Rosenthal-Straße 27" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Philipp-Rosenthal-Strasse.55>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3859685 51.3287947)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Philipp-Rosenthal-Straße 55" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Puschstrasse.10>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3981041 51.3174459)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Puschstraße 10" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Puschstrasse.9>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3981041 51.3174459)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Puschstraße 9" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Rosa-Luxemburg-Strasse.27>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3897958 51.3445607)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rosa-Luxemburg-Straße 27" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Rosa-Luxemburg-Strasse.30>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3897958 51.3445607)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rosa-Luxemburg-Straße 30" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Salomonstrasse.10>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3890014 51.3396025)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Salomonstraße 10" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Seeburgstrasse.11>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3830565 51.3349913)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Seeburgstraße 11" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Seeburgstrasse.96>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3869356 51.3340854)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Seeburgstraße 96" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Semmelweisstrasse.10>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.397762 51.3232843)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Semmelweisstraße 10" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Stephanstrasse.6>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3872193 51.3319689)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stephanstraße 6" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Sternwartenstrasse.30>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3845794502225 51.3336813501707)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Sternwartenstraße 30" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Talstrasse.30>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3852492 51.3331504)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Talstraße 30" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Talstrasse.35>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.387215 51.3368977)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Talstraße 35" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Tarostrasse.10>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.38579475 51.323966)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Tarostraße 10" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Tarostrasse.6>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3859247344047 51.3253385223289)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Tarostraße 6" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Tarostrasse.7>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3876330733701 51.3245401301489)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Tarostraße 7" .
+
+<http://leipzig-data.de/Data/04103.Leipzig.Tarostrasse.9>
+    ld:inOrtsteil ns4:Zentrum-Suedost ;
+    ogcgs:asWKT "Point(12.3873000287761 51.3243339387621)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Tarostraße 9" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.AmSportforum.10>
+    ld:inOrtsteil ns4:Zentrum-Nordwest ;
+    ogcgs:asWKT "Point(12.3507335 51.3460057)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Sportforum 10" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.AmSportforum.3>
+    ld:inOrtsteil ns4:Zentrum-Nordwest ;
+    ogcgs:asWKT "Point(12.3507335 51.3460057)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Sportforum 3" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Eitingonstrasse.12>
+    ld:inOrtsteil ns4:Zentrum-Nordwest ;
+    ogcgs:asWKT "Point(12.3511042 51.3479304)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eitingonstraße 12" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Erich-Weinert-Strasse.18>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3788068346357 51.3502491683456)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Erich-Weinert-Straße 18" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.EutritzscherStrasse.9>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3760603080505 51.349112328605)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eutritzscher Straße 9" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Gerberstrasse.15>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3756417945172 51.3467090531649)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gerberstraße 15" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Gneisenaustrasse.10>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3754755732512 51.3504329307664)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gneisenaustraße 10" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Gustav-Adolf-Strasse.7>
+    ld:inOrtsteil ns4:Zentrum-Nordwest ;
+    ogcgs:asWKT "Point(12.3665522156788 51.344803931334)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gustav-Adolf-Straße 7" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Kickerlingsberg.8>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3716357469313 51.3518931340584)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kickerlingsberg 8" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Kurt-Schumacher-Strasse.41>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.377717229414 51.3479322075003)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kurt-Schumacher-Straße 41" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Loehrstrasse.10>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3737756601886 51.3454275103417)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Löhrstraße 10" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Loehrstrasse.14>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3732016 51.34737)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Löhrstraße 14" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Loehrstrasse.3>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.373093792439 51.3452209871432)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Löhrstraße 3" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Loehrstrasse.9>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3732016 51.34737)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Löhrstraße 9" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Lortzingstrasse.3>
+    ld:inOrtsteil ns4:Zentrum-Nordwest ;
+    ogcgs:asWKT "Point(12.3708558022852 51.3449840539751)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lortzingstraße 3" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Nordplatz.11>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3752346556573 51.3529190050884)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nordplatz 11" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Nordstrasse.1>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3745610256987 51.3445616348208)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nordstraße 1" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.PfaffendorferStrasse.1>
+    ld:inOrtsteil ns4:Zentrum-Nordwest ;
+    ogcgs:asWKT "Point(12.3626087 51.3529478)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Pfaffendorfer Straße 1" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.PfaffendorferStrasse.29>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3689185 51.3516682)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Pfaffendorfer Straße 29" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.PfaffendorferStrasse.31>
+    ld:inOrtsteil ns4:Zentrum-Nordwest ;
+    ogcgs:asWKT "Point(12.3709972583129 51.3489811506093)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Pfaffendorfer Straße 31" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Richterstrasse.8>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3736173972739 51.3562773455603)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Richterstraße 8" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Roscherstrasse.1>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3752475587983 51.3534636968705)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Roscherstraße 1" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Troendlinring.7>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3732628691203 51.3447212568207)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Tröndlinring 7" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Troendlinring.8>
+    ld:inOrtsteil ns4:Zentrum-Nord ;
+    ogcgs:asWKT "Point(12.3727723651926 51.3448711826334)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Tröndlinring 8" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Waldstrasse.14>
+    ld:inOrtsteil ns4:Zentrum-Nordwest ;
+    ogcgs:asWKT "Point(12.3589955200072 51.3430971437732)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Waldstraße 14" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Waldstrasse.177>
+    ld:inOrtsteil ns4:Zentrum-Nordwest ;
+    ogcgs:asWKT "Point(12.3587518 51.342522)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Waldstraße 177" .
+
+<http://leipzig-data.de/Data/04105.Leipzig.Waldstrasse.4>
+    ld:inOrtsteil ns4:Zentrum-Nordwest ;
+    ogcgs:asWKT "Point(12.35969505 51.3425216)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Waldstraße 4" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Arthur-Hoffmann-Strasse.6>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3792124021805 51.3293839641887)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Arthur-Hoffmann-Straße 6" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Beethovenstrasse.21>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3664665 51.3318966)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Beethovenstraße 21" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Beethovenstrasse.6>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3656617 51.3320695)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Beethovenstraße 6" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Braustrasse.2>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3723183 51.3267294)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Braustraße 2" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Dimitroffstrasse.1>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3732554038044 51.3335883656891)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dimitroffstraße 1" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Dimitroffstrasse.26>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3716703248738 51.334215629965)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dimitroffstraße 26" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Flossplatz.32>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3710730292942 51.330837788586)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Floßplatz 32" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Grassistrasse.12>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3673745 51.3316507)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Grassistraße 12" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Grassistrasse.8>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3668529 51.3327247)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Grassistraße 8" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.HoheStrasse.37>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.37473487791 51.3293854553525)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hohe Straße 37" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Karl-Tauchnitz-Strasse.11>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3653064336483 51.334033626271)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Tauchnitz-Straße 11" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Koernerstrasse.36>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3753397601391 51.3250391178394)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Körnerstraße 36" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Kohlenstrasse.2>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3822542 51.324606)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kohlenstraße 2" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Mozartstrasse.5>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3680263 51.3313709)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Mozartstraße 5" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Paul-Gruner-Strasse.26>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3762654804435 51.3283175185514)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Paul-Gruner-Straße 26" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Paul-Gruner-Strasse.44>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3743894647185 51.3284958296088)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Paul-Gruner-Straße 44" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Paul-Gruner-Strasse.62>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3702318 51.3294248)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Paul-Gruner-Straße 62" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Rennbahnweg.2>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3608311 51.3280607)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rennbahnweg 2" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Rennbahnweg.2A>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3608311 51.3280607)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rennbahnweg 2A" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Riemannstrasse.32>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3756687721208 51.3312310447714)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Riemannstraße 32" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Schletterstrasse.5>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3743628 51.3304639)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schletterstraße 5" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Schletterstrasse.7>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3775489003613 51.3305224398743)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schletterstraße 7" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Simsonstrasse.2>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3695714 51.3315744)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Simsonstraße 2" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Telemannstrasse.6>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3663892 51.3272293)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Telemannstraße 6" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Waechterstrasse.34>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3676612379196 51.3338019925041)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wächterstraße 34" .
+
+<http://leipzig-data.de/Data/04107.Leipzig.Wilhelm-Seyfferth-Strasse.4>
+    ld:inOrtsteil ns4:Zentrum-Sued ;
+    ogcgs:asWKT "Point(12.3683167985429 51.3339190303017)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wilhelm-Seyfferth-Straße 4" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.AmHallischenTor.1>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3769483 51.3433549)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Hallischen Tor 1" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Augustusplatz.11>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3796821 51.339245)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Augustusplatz 11" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Augustusplatz.12>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3807993 51.3391581)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Augustusplatz 12" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Augustusplatz.14>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3807993 51.3391581)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Augustusplatz 14" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Augustusplatz.8>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3807993 51.3391581)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Augustusplatz 8" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Augustusplatz.9>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3790116 51.3379418)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Augustusplatz 9" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Barfussgaesschen.9>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3732984 51.3408031)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Barfußgäßchen 9" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Boettchergaesschen.3>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3763898 51.3419552)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Böttchergäßchen 3" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Bosestrasse.1>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3691785 51.3405119)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bosestraße 1" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Bruehl.33>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3772359 51.3431089)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Brühl 33" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Burgplatz.1>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3732612 51.3373675)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Burgplatz 1" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Burgstrasse.19>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3731745 51.3383626)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Burgstraße 19" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Burgstrasse.27>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3731745 51.3383626)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Burgstraße 27" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Dittrichring.1>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3707502 51.3383906)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dittrichring 1" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Dittrichring.24>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3699113 51.3417126)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dittrichring 24" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Elsterstrasse.15>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.360366 51.3419852)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Elsterstraße 15" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Friedrich-Ebert-Strasse.33>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3639281695378 51.3375754497252)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Friedrich-Ebert-Straße 33" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Friedrich-Ebert-Strasse.61>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3594484 51.3412278)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Friedrich-Ebert-Straße 61" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Friedrich-Ebert-Strasse.77>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3602054251139 51.3403630860897)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Friedrich-Ebert-Straße 77" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Friedrich-Ebert-Strasse.80>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3595043168486 51.3413888527075)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Friedrich-Ebert-Straße 80" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Goerdelerring.20>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3703905135446 51.3421443491536)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Goerdelerring 20" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Goerdelerring.5>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3691018 51.3432431)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Goerdelerring 5" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Goerdelerring.7>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3699776 51.3430799)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Goerdelerring 7" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Goethestrasse.11>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3807945044777 51.3424350383031)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Goethestraße 11" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Goethestrasse.2>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3808824 51.3420602)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Goethestraße 2" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.GrimmaischeStrasse.6>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3758923 51.3397563)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Grimmaische Straße 6" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.GrosseFleischergasse.12>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3716189 51.3423468)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Große Fleischergasse 12" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Gustav-Mahler-Strasse.3>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3647999569862 51.3359464626126)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gustav-Mahler-Straße 3" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Hainstrasse.1>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3740125 51.3411992)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hainstraße 1" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Hainstrasse.9>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3736419 51.3416948)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hainstraße 9" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Hillerstrasse.7>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3594492862608 51.3365007814608)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hillerstraße 7" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Kaethe-Kollwitz-Strasse.1>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3688054761682 51.3416357944539)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Käthe-Kollwitz-Straße 1" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Kaethe-Kollwitz-Strasse.107>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3535419467871 51.3340620887146)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Käthe-Kollwitz-Straße 107" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Kaethe-Kollwitz-Strasse.68>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3544958287269 51.3350339683767)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Käthe-Kollwitz-Straße 68" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Kaethe-Kollwitz-Strasse.8>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.367562065848 51.341429367213)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Käthe-Kollwitz-Straße 8" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Kaethe-Kollwitz-Strasse.9>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3680017 51.3409747)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Käthe-Kollwitz-Straße 9" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Katharinenstrasse.10>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3757738364676 51.3423561740415)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Katharinenstraße 10" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Katharinenstrasse.15>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3749594 51.3423697)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Katharinenstraße 15" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Katharinenstrasse.17>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3747466 51.342422)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Katharinenstraße 17" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Katharinenstrasse.2>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.375503 51.3410732)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Katharinenstraße 2" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Katharinenstrasse.8>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3752167 51.3422244)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Katharinenstraße 8" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.KleineFleischergasse.4>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3729028 51.3411118)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kleine Fleischergasse 4" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.KleineFleischergasse.8>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3725446 51.3412145)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kleine Fleischergasse 8" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Klostergasse.5>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3729208 51.3403207)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Klostergasse 5" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Kolonnadenstrasse.2>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3674575374332 51.3381850972969)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kolonnadenstraße 2" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Kupfergasse.2>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3771126 51.3379751)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kupfergasse 2" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Lessingstrasse.1>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3677457285808 51.342061456293)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lessingstraße 1" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Lessingstrasse.7>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3667086 51.342061)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lessingstraße 7" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Lotterstrasse.1>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.373028 51.3365638)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lotterstraße 1" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Magazingasse.4>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3769462 51.3373148)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Magazingasse 4" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.MainzerStrasse.7>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3551645673589 51.3365762482107)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Mainzer Straße 7" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Markgrafenstrasse.3>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3711401 51.3378207)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Markgrafenstraße 3" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Markt.1>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3753358279286 51.3403673487936)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Markt 1" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Markt.10>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3744783 51.3399172)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Markt 10" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Markt.17>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3750950311048 51.3397582377417)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Markt 17" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Markt.4>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3748539 51.3412742)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Markt 4" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Markt.9>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3744783 51.3399172)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Markt 9" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Neumarkt.1>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3769476296562 51.339275227205)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Neumarkt 1" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Neumarkt.10>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3761530555741 51.3392419334083)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Neumarkt 10" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Neumarkt.27>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.376257 51.3381394)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Neumarkt 27" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Neumarkt.30>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3759699 51.3373987)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Neumarkt 30" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Nikolaikirchhof.2>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.378415764121 51.3407802754391)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nikolaikirchhof 2" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Nikolaikirchhof.3>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3787986 51.340714)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nikolaikirchhof 3" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Nikolaistrasse.23>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3778323560583 51.3407500317446)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nikolaistraße 23" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Nikolaistrasse.3>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3778156 51.3401914)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nikolaistraße 3" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Otto-Schill-Strasse.7>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3695001384749 51.3379415807331)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Otto-Schill-Straße 7" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Petersstrasse.14>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.374315 51.3392686)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Petersstraße 14" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Petersstrasse.43>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3754672142904 51.3369272516296)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Petersstraße 43" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Petersstrasse.44>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3741834 51.3375193)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Petersstraße 44" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Richard-Wagner-Strasse.10>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3771345 51.3437089)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Richard-Wagner-Straße 10" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Richard-Wagner-Strasse.7>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3789361 51.3433506)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Richard-Wagner-Straße 7" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Ritterstrasse.5>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3791778 51.3408805)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Ritterstraße 5" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Schillerstrasse.4>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3763448 51.3368719)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schillerstraße 4" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Schreberstrasse.15>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3593224 51.3387807)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schreberstraße 15" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Schuhmachergaesschen.2>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3774158 51.3405148)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schuhmachergäßchen 2" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Sebastian-Bach-Strasse.51>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3540487224722 51.3329462474607)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Sebastian-Bach-Straße 51" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Thomasiusstrasse.1>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3652717119136 51.3428545396976)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Thomasiusstraße 1" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Thomaskirchhof.18>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3721452 51.3391293)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Thomaskirchhof 18" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Thomaskirchhof.20>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3721075 51.3397665)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Thomaskirchhof 20" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Thomaskirchhof.21>
+    ld:inOrtsteil ns4:Zentrum ;
+    ogcgs:asWKT "Point(12.3724373 51.3397899)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Thomaskirchhof 21" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Willmar-Schwabe-Strasse.2>
+    ld:inOrtsteil ns4:Zentrum-West ;
+    ogcgs:asWKT "Point(12.3578075 51.3408773)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Willmar-Schwabe-Straße 2" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Willy-Brandt-Platz.5>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3812524 51.3445648)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Willy-Brandt-Platz 5" .
+
+<http://leipzig-data.de/Data/04109.Leipzig.Willy-Brandt-Platz.7>
+    ld:inOrtsteil ns4:Zentrum-Ost ;
+    ogcgs:asWKT "Point(12.3798641 51.3451798)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Willy-Brandt-Platz 7" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.AnderQuerbreite.8>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.388607 51.3713749)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, An der Querbreite 8" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.AnhalterStrasse.1>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3902424 51.3656865)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Anhalter Straße 1" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.BernburgerStrasse.22>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.391254 51.3639448)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bernburger Straße 22" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.DelitzscherStrasse.110>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3862117119424 51.369783572166)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Delitzscher Straße 110" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.DelitzscherStrasse.141>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3772083650035 51.3842172092301)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Delitzscher Straße 141" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.DelitzscherStrasse.160>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3858176 51.37452808)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Delitzscher Straße 160" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.DelitzscherStrasse.62>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3840135535616 51.3641132336088)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Delitzscher Straße 62" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.DelitzscherStrasse.70>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.384637963216 51.3647567044061)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Delitzscher Straße 70" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.EssenerStrasse.1>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3940549 51.3763961)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Essener Straße 1" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.Graefestrasse.1>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.383861 51.3750191)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gräfestraße 1" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.Graefestrasse.23>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.383861 51.3750191)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gräfestraße 23" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.Graefestrasse.25>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.383861 51.3750191)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gräfestraße 25" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.Mothesstrasse.2>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3854551 51.3737437)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Mothesstraße 2" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.Schiebestrasse.32>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3860004 51.3630956)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schiebestraße 32" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.Seitengasse.2>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3856278 51.3676978)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Seitengasse 2" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.Theresienstrasse.23>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3842716 51.3601466)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Theresienstraße 23" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.WittenbergerStrasse.5>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3875276 51.3550185)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wittenberger Straße 5" .
+
+<http://leipzig-data.de/Data/04129.Leipzig.WittenbergerStrasse.87>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3851575 51.3656211)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wittenberger Straße 87" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.BreitenfelderStrasse.19>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3610224 51.3612843)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Breitenfelder Straße 19" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.EisenacherStrasse.44>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3647247 51.3612933)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eisenacher Straße 44" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Elsbethstrasse.1>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3657069 51.3634368)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Elsbethstraße 1" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Elsbethstrasse.38>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3657069 51.3634368)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Elsbethstraße 38" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Georg-Schumann-Strasse.105>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.362341754646 51.3624536363167)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schumann-Straße 105" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Georg-Schumann-Strasse.50>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3706284 51.3623898)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schumann-Straße 50" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Georg-Schumann-Strasse.76>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3566518 51.3644946)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schumann-Straße 76" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.GohliserStrasse.23>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3692741035573 51.3562881972232)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gohliser Straße 23" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.GohliserStrasse.25>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3689755607112 51.356614370438)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gohliser Straße 25" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Herlosssohnstrasse.20>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3519888 51.3582785)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Herloßsohnstraße 20" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Kirchplatz.9>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3691284 51.3584168)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kirchplatz 9" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Menckestrasse.23>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3642573717771 51.3567403479623)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Menckestraße 23" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Menckestrasse.42>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3624706 51.3590262)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Menckestraße 42" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Menckestrasse.5>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3673662 51.3576643)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Menckestraße 5" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.MoeckernscheStrasse.3>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.36112124581 51.3602822829513)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Möckernsche Straße 3" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Mottelerstrasse.13>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3563886 51.3643599)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Mottelerstraße 13" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Platnerstrasse.11>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3610206266033 51.3584845548087)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Platnerstraße 11" .
+
+<http://leipzig-data.de/Data/04155.Leipzig.Schachtstrasse.3>
+    ld:inOrtsteil ns4:Gohlis-Sued ;
+    ogcgs:asWKT "Point(12.3604347 51.3650473)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schachtstraße 3" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Coppistrasse.38>
+    ld:inOrtsteil ns4:Gohlis-Mitte ;
+    ogcgs:asWKT "Point(12.3761586293744 51.3670334599216)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Coppistraße 38" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Coppistrasse.79>
+    ld:inOrtsteil ns4:Gohlis-Mitte ;
+    ogcgs:asWKT "Point(12.3705062732499 51.3669368385298)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Coppistraße 79" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.HannoverscheStrasse.2>
+    ld:inOrtsteil ns4:Gohlis-Nord ;
+    ogcgs:asWKT "Point(12.3703314 51.3751865)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hannoversche Straße 2" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Hans-Oster-Strasse.16>
+    ld:inOrtsteil ns4:Gohlis-Mitte ;
+    ogcgs:asWKT "Point(12.3610209 51.3735021)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hans-Oster-Straße 16" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Heinrich-Mann-Strasse.1>
+    ld:inOrtsteil ns4:Gohlis-Nord ;
+    ogcgs:asWKT "Point(12.373185 51.3727261)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Heinrich-Mann-Straße 1" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Hoepnerstrasse.17>
+    ld:inOrtsteil ns4:Gohlis-Mitte ;
+    ogcgs:asWKT "Point(12.3624063717564 51.3682351735013)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hoepnerstraße 17" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Joergen-Schmidtchen-Weg.4>
+    ld:inOrtsteil ns4:Gohlis-Nord ;
+    ogcgs:asWKT "Point(12.3612667 51.3800479)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Jörgen-Schmidtchen-Weg 4" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Joergen-Schmidtchen-Weg.6>
+    ld:inOrtsteil ns4:Gohlis-Nord ;
+    ogcgs:asWKT "Point(12.3612667 51.3800479)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Jörgen-Schmidtchen-Weg 6" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Kleiststrasse.54>
+    ld:inOrtsteil ns4:Eutritzsch ;
+    ogcgs:asWKT "Point(12.3813368133442 51.3723678294689)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kleiststraße 54" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.LandsbergerStrasse.23>
+    ld:inOrtsteil ns4:Gohlis-Mitte ;
+    ogcgs:asWKT "Point(12.3640497 51.3716528)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Landsberger Straße 23" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.LandsbergerStrasse.81>
+    ld:inOrtsteil ns4:Gohlis-Nord ;
+    ogcgs:asWKT "Point(12.3640497 51.3716528)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Landsberger Straße 81" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Luetzowstrasse.19>
+    ld:inOrtsteil ns4:Gohlis-Mitte ;
+    ogcgs:asWKT "Point(12.373776415048 51.3637514769454)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lützowstraße 19" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Luetzowstrasse.44>
+    ld:inOrtsteil ns4:Gohlis-Mitte ;
+    ogcgs:asWKT "Point(12.3774792 51.3657263)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lützowstraße 44" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Max-Liebermann-Strasse.87>
+    ld:inOrtsteil ns4:Gohlis-Nord ;
+    ogcgs:asWKT "Point(12.3781105 51.3758019)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Max-Liebermann-Straße 87" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.StrelitzerStrasse.1>
+    ld:inOrtsteil ns4:Gohlis-Nord ;
+    ogcgs:asWKT "Point(12.3751891 51.371384)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Strelitzer Straße 1" .
+
+<http://leipzig-data.de/Data/04157.Leipzig.Virchowstrasse.1>
+    ld:inOrtsteil ns4:Gohlis-Mitte ;
+    ogcgs:asWKT "Point(12.3769429 51.3713493)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Virchowstraße 1" .
+
+<http://leipzig-data.de/Data/04158.Leipzig.AmFreibad.3>
+    ld:inOrtsteil ns4:Lindenthal ;
+    ogcgs:asWKT "Point(12.3285411 51.3931482)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Freibad 3" .
+
+<http://leipzig-data.de/Data/04158.Leipzig.DelitzscherLandstrasse.38>
+    ld:inOrtsteil ns4:Wiederitzsch ;
+    ogcgs:asWKT "Point(12.3770428 51.391676)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Delitzscher Landstraße 38" .
+
+<http://leipzig-data.de/Data/04158.Leipzig.DelitzscherLandstrasse.55>
+    ld:inOrtsteil ns4:Wiederitzsch ;
+    ogcgs:asWKT "Point(12.3636103 51.4080939)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Delitzscher Landstraße 55" .
+
+<http://leipzig-data.de/Data/04158.Leipzig.Erich-Thiele-Strasse.2>
+    ld:inOrtsteil ns4:Lindenthal ;
+    ogcgs:asWKT "Point(12.3191957 51.390814)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Erich-Thiele-Straße 2" .
+
+<http://leipzig-data.de/Data/04158.Leipzig.Fuggerstrasse.2>
+    ld:inOrtsteil ns4:Wiederitzsch ;
+    ogcgs:asWKT "Point(12.3896931 51.4027857)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Fuggerstraße 2" .
+
+<http://leipzig-data.de/Data/04158.Leipzig.Karl-Marx-Strasse.5>
+    ld:inOrtsteil ns4:Wiederitzsch ;
+    ogcgs:asWKT "Point(12.3804417 51.3969455)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Marx-Straße 5" .
+
+<http://leipzig-data.de/Data/04158.Leipzig.Lindenallee.8>
+    ld:inOrtsteil ns4:Lindenthal ;
+    ogcgs:asWKT "Point(12.341332 51.4024316)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lindenallee 8" .
+
+<http://leipzig-data.de/Data/04158.Leipzig.Nordweg.9>
+    ld:inOrtsteil ns4:Wiederitzsch ;
+    ogcgs:asWKT "Point(12.3760684 51.3946153)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nordweg 9" .
+
+<http://leipzig-data.de/Data/04158.Leipzig.Salzhandelsstrasse.2>
+    ld:inOrtsteil ns4:Wiederitzsch ;
+    ogcgs:asWKT "Point(12.3709669 51.4046548)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Salzhandelsstraße 2" .
+
+<http://leipzig-data.de/Data/04158.Leipzig.SeehausenerStrasse.29>
+    ld:inOrtsteil ns4:Wiederitzsch ;
+    ogcgs:asWKT "Point(12.3810301283939 51.394791473817)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Seehausener Straße 29" .
+
+<http://leipzig-data.de/Data/04158.Leipzig.ZurSchule.11>
+    ld:inOrtsteil ns4:Wiederitzsch ;
+    ogcgs:asWKT "Point(12.372415 51.3935693)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zur Schule 11" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.AmBrunnen.4>
+    ld:inOrtsteil ns4:Luetzschena-Stahmeln ;
+    ogcgs:asWKT "Point(12.2711838201806 51.3834747673066)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Brunnen 4" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Diderotstrasse.13>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3461637819355 51.3706597737659)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Diderotstraße 13" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Diderotstrasse.35>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3450449 51.3716135)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Diderotstraße 35" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Diderotstrasse.37>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3450449 51.3716135)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Diderotstraße 37" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Friedrich-Bosse-Strasse.93>
+    ld:inOrtsteil ns4:Wahren ;
+    ogcgs:asWKT "Point(12.3243887 51.3730261)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Friedrich-Bosse-Straße 93" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Georg-Schumann-Strasse.146>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3538675859375 51.3689666736992)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schumann-Straße 146" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Georg-Schumann-Strasse.148>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3409092 51.3685944)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schumann-Straße 148" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Georg-Schumann-Strasse.150>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3409092 51.3685944)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schumann-Straße 150" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Georg-Schumann-Strasse.172>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3472008514016 51.3668466513248)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schumann-Straße 172" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Georg-Schumann-Strasse.336>
+    ld:inOrtsteil ns4:Wahren ;
+    ogcgs:asWKT "Point(12.3206966401557 51.3757960792548)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schumann-Straße 336" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Georg-Schumann-Strasse.357>
+    ld:inOrtsteil ns4:Wahren ;
+    ogcgs:asWKT "Point(12.3409092 51.3685944)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schumann-Straße 357" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Gustav-Esche-Strasse.4>
+    ld:inOrtsteil ns4:Wahren ;
+    ogcgs:asWKT "Point(12.3157822754293 51.3698273225452)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gustav-Esche-Straße 4" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Gustav-Esche-Strasse.5>
+    ld:inOrtsteil ns4:Wahren ;
+    ogcgs:asWKT "Point(12.3137358 51.3700608)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gustav-Esche-Straße 5" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Gustav-Kuehn-Strasse.1>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3408626 51.3671857)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gustav-Kühn-Straße 1" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Gustav-Kuehn-Strasse.8>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3404943 51.3676786)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gustav-Kühn-Straße 8" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Horst-Heilmann-Strasse.4>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3302263 51.3733403)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Horst-Heilmann-Straße 4" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Knopstrasse.17>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3390085342707 51.3688457089365)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Knopstraße 17" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Schlossweg.4>
+    ld:inOrtsteil ns4:Luetzschena-Stahmeln ;
+    ogcgs:asWKT "Point(12.2808238930173 51.3802761251686)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schloßweg 4" .
+
+<http://leipzig-data.de/Data/04159.Leipzig.Yorckstrasse.56>
+    ld:inOrtsteil ns4:Moeckern ;
+    ogcgs:asWKT "Point(12.3496108 51.368575)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Yorckstraße 56" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Ahlfeldstrasse.4>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3213933 51.342115)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Ahlfeldstraße 4" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Aurelienstrasse.54>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3293880337975 51.3319723209475)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Aurelienstraße 54" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Birkenstrasse.11>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3367448 51.3342058)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Birkenstraße 11" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Birkenstrasse.16>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3367448 51.3342058)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Birkenstraße 16" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Birkenstrasse.28>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3367448 51.3342058)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Birkenstraße 28" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Calvisiusstrasse.26>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3262512 51.3397178)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Calvisiusstraße 26" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Demmeringstrasse.20>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3339564 51.3383037)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Demmeringstraße 20" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Dreilindenstrasse.30>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3377496 51.3361896)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dreilindenstraße 30" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Endersstrasse.26>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3276963 51.3334757)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Endersstraße 26" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Erich-Koehn-Strasse.24>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.32689 51.3390974)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Erich-Köhn-Straße 24" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Friesenstrasse.8>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3305542948926 51.3412588102096)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Friesenstraße 8" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Georg-Schwarz-Strasse.2>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3274918 51.3378554)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schwarz-Straße 2" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Georg-Schwarz-Strasse.31>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3256588 51.3400747)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schwarz-Straße 31" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Georg-Schwarz-Strasse.43>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3236163 51.3416292)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schwarz-Straße 43" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Georg-Schwarz-Strasse.49>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3197916318171 51.3427838162871)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schwarz-Straße 49" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Haehnelstrasse.27>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3334491 51.3330662)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hähnelstraße 27" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Jahnallee.54>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.34146586738 51.3384767809484)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Jahnallee 54" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Kindstrasse.6>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3379318 51.333452)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kindstraße 6" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Kuhturmstrasse.6>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3369281 51.3366743)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kuhturmstraße 6" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.LindenauerMarkt.20>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3338428 51.3378326)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lindenauer Markt 20" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.LindenauerMarkt.21>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3332312 51.3378024)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lindenauer Markt 21" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.LindenauerMarkt.22>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.333688 51.3379243)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lindenauer Markt 22" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.LuetznerStrasse.36>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3345821138645 51.3360165164327)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lützner Straße 36" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.LuetznerStrasse.60>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3266134 51.3347153)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lützner Straße 60" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.LuetznerStrasse.75>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3266134 51.3347153)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lützner Straße 75" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.MerseburgerStrasse.62>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3332609 51.3313708)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Merseburger Straße 62" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.MerseburgerStrasse.92>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3275363209039 51.3376396229825)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Merseburger Straße 92" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Odermannstrasse.15>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3328925 51.336229)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Odermannstraße 15" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Rietschelstrasse.10>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3328878666237 51.3391177080358)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rietschelstraße 10" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Rietschelstrasse.12>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3323769 51.3395981)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rietschelstraße 12" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Rietschelstrasse.2>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3335170871962 51.3382400068316)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rietschelstraße 2" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Rietschelstrasse.59>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3255126 51.3446914)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rietschelstraße 59" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Rossmarktstrasse.6>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3353717189312 51.3395837240358)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Roßmarktstraße 6" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Uhlandstrasse.28>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3237300476252 51.3407707037809)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Uhlandstraße 28" .
+
+<http://leipzig-data.de/Data/04177.Leipzig.Wasserstrasse.18>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.3351994 51.3426053)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wasserstraße 18" .
+
+<http://leipzig-data.de/Data/04178.Leipzig.AmMarkt.10>
+    ld:inOrtsteil ns4:Boehlitz-Ehrenberg ;
+    ogcgs:asWKT "Point(12.2848148 51.3596109)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Markt 10" .
+
+<http://leipzig-data.de/Data/04178.Leipzig.AnderFriedenseiche.4>
+    ld:inOrtsteil ns4:Burghausen-Rueckmarsdorf ;
+    ogcgs:asWKT "Point(12.2519192 51.3436657)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, An der Friedenseiche 4" .
+
+<http://leipzig-data.de/Data/04178.Leipzig.BarneckerStrasse.3>
+    ld:inOrtsteil ns4:Boehlitz-Ehrenberg ;
+    ogcgs:asWKT "Point(12.2989713 51.3551293)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Barnecker Straße 3" .
+
+<http://leipzig-data.de/Data/04178.Leipzig.Kantor-Andrae-Strasse.16>
+    ld:inOrtsteil ns4:Boehlitz-Ehrenberg ;
+    ogcgs:asWKT "Point(12.2879298 51.3548646)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kantor-Andrä-Straße 16" .
+
+<http://leipzig-data.de/Data/04178.Leipzig.Kastanienweg.11>
+    ld:inOrtsteil ns4:Burghausen-Rueckmarsdorf ;
+    ogcgs:asWKT "Point(12.272481 51.3446613)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kastanienweg 11" .
+
+<http://leipzig-data.de/Data/04178.Leipzig.LeipzigerStrasse.163>
+    ld:inOrtsteil ns4:Boehlitz-Ehrenberg ;
+    ogcgs:asWKT "Point(12.29035 51.3597516)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Leipziger Straße 163" .
+
+<http://leipzig-data.de/Data/04178.Leipzig.LeipzigerStrasse.81>
+    ld:inOrtsteil ns4:Boehlitz-Ehrenberg ;
+    ogcgs:asWKT "Point(12.2907769 51.3595628)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Leipziger Straße 81" .
+
+<http://leipzig-data.de/Data/04178.Leipzig.Pestalozzistrasse.17>
+    ld:inOrtsteil ns4:Boehlitz-Ehrenberg ;
+    ogcgs:asWKT "Point(12.2948178 51.3570694)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Pestalozzistraße 17" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.AmSportpark.2>
+    ld:inOrtsteil ns4:Leutzsch ;
+    ogcgs:asWKT "Point(12.3109411 51.3572087)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Sportpark 2" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Demmeringstrasse.104>
+    ld:inOrtsteil ns4:Neulindenau ;
+    ogcgs:asWKT "Point(12.3170308660167 51.334488673625)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Demmeringstraße 104" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Demmeringstrasse.125>
+    ld:inOrtsteil ns4:Neulindenau ;
+    ogcgs:asWKT "Point(12.3193181652033 51.3331519832101)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Demmeringstraße 125" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Ernst-Keil-Strasse.15>
+    ld:inOrtsteil ns4:Neulindenau ;
+    ogcgs:asWKT "Point(12.304789544441 51.3405765241833)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Ernst-Keil-Straße 15" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Georg-Schwarz-Strasse.140>
+    ld:inOrtsteil ns4:Leutzsch ;
+    ogcgs:asWKT "Point(12.3138216647557 51.3478480701062)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schwarz-Straße 140" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Georg-Schwarz-Strasse.53>
+    ld:inOrtsteil ns4:Altlindenau ;
+    ogcgs:asWKT "Point(12.320659 51.3436232)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Georg-Schwarz-Straße 53" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Hans-Driesch-Strasse.27>
+    ld:inOrtsteil ns4:Leutzsch ;
+    ogcgs:asWKT "Point(12.3180112004919 51.349739266035)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hans-Driesch-Straße 27" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Hans-Driesch-Strasse.41>
+    ld:inOrtsteil ns4:Leutzsch ;
+    ogcgs:asWKT "Point(12.313585847714 51.3472756168526)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hans-Driesch-Straße 41" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Hans-Driesch-Strasse.54>
+    ld:inOrtsteil ns4:Leutzsch ;
+    ogcgs:asWKT "Point(12.3134477 51.3477253)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hans-Driesch-Straße 54" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.LuetznerStrasse.145>
+    ld:inOrtsteil ns4:Neulindenau ;
+    ogcgs:asWKT "Point(12.3055334 51.3269487)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lützner Straße 145" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.LuetznerStrasse.162>
+    ld:inOrtsteil ns4:Neulindenau ;
+    ogcgs:asWKT "Point(12.3192023 51.3318482)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lützner Straße 162" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.LuetznerStrasse.164>
+    ld:inOrtsteil ns4:Neulindenau ;
+    ogcgs:asWKT "Point(12.3188417 51.3317315)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lützner Straße 164" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Plautstrasse.18>
+    ld:inOrtsteil ns4:Neulindenau ;
+    ogcgs:asWKT "Point(12.307571839377 51.3325781417081)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Plautstraße 18" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Rathenaustrasse.40>
+    ld:inOrtsteil ns4:Leutzsch ;
+    ogcgs:asWKT "Point(12.3156064 51.3539786)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rathenaustraße 40" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.RueckmarsdorferStrasse.7>
+    ld:inOrtsteil ns4:Leutzsch ;
+    ogcgs:asWKT "Point(12.3123596940725 51.3476220385587)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rückmarsdorfer Straße 7" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.SaalfelderStrasse.12>
+    ld:inOrtsteil ns4:Neulindenau ;
+    ogcgs:asWKT "Point(12.3182285 51.3318351)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Saalfelder Straße 12" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Schuetzstrasse.2>
+    ld:inOrtsteil ns4:Leutzsch ;
+    ogcgs:asWKT "Point(12.3208706640953 51.3530640538311)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schützstraße 2" .
+
+<http://leipzig-data.de/Data/04179.Leipzig.Spinnereistrasse.7>
+    ld:inOrtsteil ns4:Neulindenau ;
+    ogcgs:asWKT "Point(12.3196474158046 51.3277079553625)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Spinnereistraße 7" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.DoelzigerWeg.2>
+    ld:inOrtsteil ns4:Schoenau ;
+    ogcgs:asWKT "Point(12.2838578 51.3258017)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dölziger Weg 2" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.Garskestrasse.17>
+    ld:inOrtsteil ns4:Schoenau ;
+    ogcgs:asWKT "Point(12.2895815 51.3254246)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Garskestraße 17" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.Garskestrasse.19>
+    ld:inOrtsteil ns4:Schoenau ;
+    ogcgs:asWKT "Point(12.2895815 51.3254246)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Garskestraße 19" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.GrossmiltitzerStrasse.4>
+    ld:inOrtsteil ns4:Miltitz ;
+    ogcgs:asWKT "Point(12.2618086 51.3172655)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Großmiltitzer Straße 4" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.JenaerStrasse.29>
+    ld:inOrtsteil ns4:Schoenau ;
+    ogcgs:asWKT "Point(12.2800320757049 51.3217706321226)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Jenaer Straße 29" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.Jupiterstrasse.37>
+    ld:inOrtsteil ns4:Gruenau-Nord ;
+    ogcgs:asWKT "Point(12.2722038 51.3206453)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Jupiterstraße 37" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.Jupiterstrasse.48>
+    ld:inOrtsteil ns4:Gruenau-Nord ;
+    ogcgs:asWKT "Point(12.2722038 51.3206453)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Jupiterstraße 48" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.MeiningerRing.41>
+    ld:inOrtsteil ns4:Schoenau ;
+    ogcgs:asWKT "Point(12.2790497 51.3198952)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Meininger Ring 41" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.MiltitzerAllee.34>
+    ld:inOrtsteil ns4:Lausen-Gruenau ;
+    ogcgs:asWKT "Point(12.2682353 51.3163955)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Miltitzer Allee 34" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.MiltitzerAllee.36>
+    ld:inOrtsteil ns4:Lausen-Gruenau ;
+    ogcgs:asWKT "Point(12.2682353 51.3163955)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Miltitzer Allee 36" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.MiltitzerWeg.1>
+    ld:inOrtsteil ns4:Gruenau-Nord ;
+    ogcgs:asWKT "Point(12.2664808 51.3203756)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Miltitzer Weg 1" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.MiltitzerWeg.8>
+    ld:inOrtsteil ns4:Gruenau-Nord ;
+    ogcgs:asWKT "Point(12.2664808 51.3203756)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Miltitzer Weg 8" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.Neptunweg.31>
+    ld:inOrtsteil ns4:Gruenau-Nord ;
+    ogcgs:asWKT "Point(12.2681641 51.326237)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Neptunweg 31" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.PlovdiverStrasse.40>
+    ld:inOrtsteil ns4:Gruenau-Nord ;
+    ogcgs:asWKT "Point(12.2679512 51.3201746)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Plovdiver Straße 40" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.SchoenauerRing.23>
+    ld:inOrtsteil ns4:Schoenau ;
+    ogcgs:asWKT "Point(12.2871357983467 51.3283130508119)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schönauer Ring 23" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.Uranusstrasse.1>
+    ld:inOrtsteil ns4:Gruenau-Nord ;
+    ogcgs:asWKT "Point(12.2721716 51.3235924)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Uranusstraße 1" .
+
+<http://leipzig-data.de/Data/04205.Leipzig.Wegastrasse.14>
+    ld:inOrtsteil ns4:Gruenau-Nord ;
+    ogcgs:asWKT "Point(12.270631 51.3180719)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wegastraße 14" .
+
+<http://leipzig-data.de/Data/04207.Leipzig.BrambacherStrasse.89>
+    ld:inOrtsteil ns4:Gruenau-Siedlung ;
+    ogcgs:asWKT "Point(12.3004103 51.3135263)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Brambacher Straße 89" .
+
+<http://leipzig-data.de/Data/04207.Leipzig.Koenigsteinstrasse.70>
+    ld:inOrtsteil ns4:Lausen-Gruenau ;
+    ogcgs:asWKT "Point(12.2641018 51.3051878)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Königsteinstraße 70" .
+
+<http://leipzig-data.de/Data/04207.Leipzig.Liliensteinstrasse.1>
+    ld:inOrtsteil ns4:Lausen-Gruenau ;
+    ogcgs:asWKT "Point(12.2702291 51.3069516)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Liliensteinstraße 1" .
+
+<http://leipzig-data.de/Data/04207.Leipzig.Nikolai-Rumjanzew-Strasse.100>
+    ld:inOrtsteil ns4:Gruenau-Ost ;
+    ogcgs:asWKT "Point(12.3065252 51.3159515)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nikolai-Rumjanzew-Straße 100" .
+
+<http://leipzig-data.de/Data/04207.Leipzig.Ratzelstrasse.14>
+    ld:inOrtsteil ns4:Kleinzschocher ;
+    ogcgs:asWKT "Point(12.3013276 51.313911)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Ratzelstraße 14" .
+
+<http://leipzig-data.de/Data/04207.Leipzig.Ratzelstrasse.222>
+    ld:inOrtsteil ns4:Lausen-Gruenau ;
+    ogcgs:asWKT "Point(12.3013276 51.313911)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Ratzelstraße 222" .
+
+<http://leipzig-data.de/Data/04207.Leipzig.Seestrasse.1>
+    ld:inOrtsteil ns4:Lausen-Gruenau ;
+    ogcgs:asWKT "Point(12.2525426024022 51.3109287697127)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Seestraße 1" .
+
+<http://leipzig-data.de/Data/04207.Leipzig.SellinerStrasse.17>
+    ld:inOrtsteil ns4:Lausen-Gruenau ;
+    ogcgs:asWKT "Point(12.2637344 51.314064)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Selliner Straße 17" .
+
+<http://leipzig-data.de/Data/04207.Leipzig.Zschampertaue.2>
+    ld:inOrtsteil ns4:Lausen-Gruenau ;
+    ogcgs:asWKT "Point(12.2655116 51.3079019)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zschampertaue 2" .
+
+<http://leipzig-data.de/Data/04207.Leipzig.ZschocherscheAllee.68>
+    ld:inOrtsteil ns4:Lausen-Gruenau ;
+    ogcgs:asWKT "Point(12.2631241 51.3033416)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zschochersche Allee 68" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.AlteSalzstrasse.185>
+    ld:inOrtsteil ns4:Gruenau-Siedlung ;
+    ogcgs:asWKT "Point(12.2972325 51.3215737)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Alte Salzstraße 185" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.AlteSalzstrasse.59>
+    ld:inOrtsteil ns4:Gruenau-Ost ;
+    ogcgs:asWKT "Point(12.2972325 51.3215737)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Alte Salzstraße 59" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.AlteSalzstrasse.65>
+    ld:inOrtsteil ns4:Gruenau-Ost ;
+    ogcgs:asWKT "Point(12.2972325 51.3215737)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Alte Salzstraße 65" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.AmKirschberg.37>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2822887 51.3197045)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Kirschberg 37" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.AmKirschberg.41>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2822887 51.3197045)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Kirschberg 41" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.AmKirschberg.49>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.280078678982 51.3180069102509)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Kirschberg 49" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.Breisgaustrasse.53>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2877822 51.3181695)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Breisgaustraße 53" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.Dahlienstrasse.30>
+    ld:inOrtsteil ns4:Gruenau-Ost ;
+    ogcgs:asWKT "Point(12.3047983 51.3249589)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dahlienstraße 30" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.GruenauerAllee.18>
+    ld:inOrtsteil ns4:Gruenau-Ost ;
+    ogcgs:asWKT "Point(12.3071407 51.3177579)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Grünauer Allee 18" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.GruenauerAllee.35>
+    ld:inOrtsteil ns4:Gruenau-Ost ;
+    ogcgs:asWKT "Point(12.3023268 51.3248816)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Grünauer Allee 35" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.GruenauerAllee.61>
+    ld:inOrtsteil ns4:Gruenau-Ost ;
+    ogcgs:asWKT "Point(12.3023268 51.3248816)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Grünauer Allee 61" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.KarlsruherStrasse.31>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.281519 51.316668)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karlsruher Straße 31" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.KarlsruherStrasse.38>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.281519 51.316668)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karlsruher Straße 38" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.KarlsruherStrasse.54>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.281519 51.316668)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karlsruher Straße 54" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.Kolpingweg.1>
+    ld:inOrtsteil ns4:Gruenau-Siedlung ;
+    ogcgs:asWKT "Point(12.2796854 51.3132783)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kolpingweg 1" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.LudwigsburgerStrasse.13>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2903762 51.3210301)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Ludwigsburger Straße 13" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.Potschkaustrasse.50>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2802839 51.3149764)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Potschkaustraße 50" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.Ringstrasse.215>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2948403 51.3146739)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Ringstraße 215" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.Rosenweg.29>
+    ld:inOrtsteil ns4:Gruenau-Ost ;
+    ogcgs:asWKT "Point(12.3009260770854 51.3238623)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rosenweg 29" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.Rosenweg.59>
+    ld:inOrtsteil ns4:Gruenau-Ost ;
+    ogcgs:asWKT "Point(12.3009260770854 51.3238623)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rosenweg 59" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.StuttgarterAllee.15>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2919452047517 51.31596465)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stuttgarter Allee 15" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.StuttgarterAllee.19>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2919452047517 51.31596465)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stuttgarter Allee 19" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.StuttgarterAllee.20>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2919452047517 51.31596465)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stuttgarter Allee 20" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.StuttgarterAllee.5>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2917338963103 51.3145683529193)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stuttgarter Allee 5" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.StuttgarterAllee.6>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2919452047517 51.31596465)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stuttgarter Allee 6" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.StuttgarterAllee.7>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.291660072778 51.3150466771421)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stuttgarter Allee 7" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.StuttgarterAllee.9>
+    ld:inOrtsteil ns4:Gruenau-Mitte ;
+    ogcgs:asWKT "Point(12.2919452047517 51.31596465)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stuttgarter Allee 9" .
+
+<http://leipzig-data.de/Data/04209.Leipzig.Weissdornstrasse.2>
+    ld:inOrtsteil ns4:Gruenau-Ost ;
+    ogcgs:asWKT "Point(12.2935627 51.3243565)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Weißdornstraße 2" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.AlteStrasse.2>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3420528 51.3316233)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Alte Straße 2" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.AlteStrasse.35>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.34021 51.3285431)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Alte Straße 35" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Anton-Bruckner-Allee.1>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.3519121 51.3288587)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Anton-Bruckner-Allee 1" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Antonienstrasse.24>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3292579 51.3205466)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Antonienstraße 24" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Antonienstrasse.41>
+    ld:inOrtsteil ns4:Kleinzschocher ;
+    ogcgs:asWKT "Point(12.3256032 51.3202604)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Antonienstraße 41" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Erich-Zeigner-Allee.14>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3384246 51.3274558)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Erich-Zeigner-Allee 14" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Erich-Zeigner-Allee.24>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3384246 51.3274558)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Erich-Zeigner-Allee 24" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Erich-Zeigner-Allee.64>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3384246 51.3274558)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Erich-Zeigner-Allee 64" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Hirzelstrasse.11>
+    ld:inOrtsteil ns4:Kleinzschocher ;
+    ogcgs:asWKT "Point(12.32574 51.3185525)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hirzelstraße 11" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Kantatenweg.39>
+    ld:inOrtsteil ns4:Kleinzschocher ;
+    ogcgs:asWKT "Point(12.3297338 51.31648)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kantatenweg 39" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Kantatenweg.40>
+    ld:inOrtsteil ns4:Kleinzschocher ;
+    ogcgs:asWKT "Point(12.3297338 51.31648)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kantatenweg 40" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Karl-Heine-Strasse.41>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3373484 51.3321885)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Heine-Straße 41" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Karl-Heine-Strasse.50>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3342416 51.3315304)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Heine-Straße 50" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Karl-Heine-Strasse.83>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3322044 51.3308274)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Heine-Straße 83" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Karl-Heine-Strasse.97>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3291511777409 51.3298632866459)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Heine-Straße 97" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Koenneritzstrasse.48>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.3408516 51.3185679)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Könneritzstraße 48" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Koenneritzstrasse.51>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.3408516 51.3185679)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Könneritzstraße 51" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Koenneritzstrasse.53>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.3408516 51.3185679)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Könneritzstraße 53" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Koenneritzstrasse.60>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.3428804 51.3226406)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Könneritzstraße 60" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Koenneritzstrasse.73>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.3426387 51.3214732)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Könneritzstraße 73" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Koenneritzstrasse.74>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.3421583246961 51.3215699685533)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Könneritzstraße 74" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.MarkranstaedterStrasse.1>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3302751 51.3251178)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Markranstädter Straße 1" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.NaumburgerStrasse.26>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3257952 51.3268896)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Naumburger Straße 26" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Nonnenstrasse.13>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3447903 51.3284302)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nonnenstraße 13" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Nonnenstrasse.17A>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3427336 51.3283278)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nonnenstraße 17A" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Nonnenstrasse.25>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3402102 51.3269669)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nonnenstraße 25" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Nonnenstrasse.37>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3380148 51.3257531)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nonnenstraße 37" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Nonnenstrasse.38>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3437185 51.3290976)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nonnenstraße 38" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Pistorisstrasse.10>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.3423115 51.3157598)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Pistorisstraße 10" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Pistorisstrasse.30>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.3438939 51.3094407)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Pistorisstraße 30" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Pistorisstrasse.6>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.342382 51.3163904)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Pistorisstraße 6" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Roedelstrasse.6>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.3430316 51.3187354)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Rödelstraße 6" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Schwartzestrasse.18>
+    ld:inOrtsteil ns4:Kleinzschocher ;
+    ogcgs:asWKT "Point(12.3234686 51.3154639)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schwartzestraße 18" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.Stieglitzstrasse.89>
+    ld:inOrtsteil ns4:Schleussig ;
+    ogcgs:asWKT "Point(12.3429090514945 51.3234711997187)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stieglitzstraße 89" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.WeissenfelserStrasse.18>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3388824 51.3307755)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Weißenfelser Straße 18" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.WindorferStrasse.63>
+    ld:inOrtsteil ns4:Kleinzschocher ;
+    ogcgs:asWKT "Point(12.3278181 51.3161385)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Windorfer Straße 63" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.ZschocherscheStrasse.14>
+    ld:inOrtsteil ns4:Lindenau ;
+    ogcgs:asWKT "Point(12.3301855 51.3202307)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zschochersche Straße 14" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.ZschocherscheStrasse.16>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3383733 51.3319453)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zschochersche Straße 16" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.ZschocherscheStrasse.26>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3380047 51.3314796)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zschochersche Straße 26" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.ZschocherscheStrasse.62>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3301855 51.3202307)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zschochersche Straße 62" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.ZschocherscheStrasse.69>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.335903 51.3275611)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zschochersche Straße 69" .
+
+<http://leipzig-data.de/Data/04229.Leipzig.ZschocherscheStrasse.89>
+    ld:inOrtsteil ns4:Plagwitz ;
+    ogcgs:asWKT "Point(12.3315869 51.3215629)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zschochersche Straße 89" .
+
+<http://leipzig-data.de/Data/04249.Leipzig.Anton-Zickmantel-Strasse.44>
+    ld:inOrtsteil ns4:Grosszschocher ;
+    ogcgs:asWKT "Point(12.321715 51.3027961)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Anton-Zickmantel-Straße 44" .
+
+<http://leipzig-data.de/Data/04249.Leipzig.Bismarckstrasse.41>
+    ld:inOrtsteil ns4:Grosszschocher ;
+    ogcgs:asWKT "Point(12.3216216 51.3035308)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bismarckstraße 41" .
+
+<http://leipzig-data.de/Data/04249.Leipzig.Dieskaustrasse.220>
+    ld:inOrtsteil ns4:Grosszschocher ;
+    ogcgs:asWKT "Point(12.3272934 51.298494)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dieskaustraße 220" .
+
+<http://leipzig-data.de/Data/04249.Leipzig.Gerhard-Ellrodt-Strasse.17A>
+    ld:inOrtsteil ns4:Grosszschocher ;
+    ogcgs:asWKT "Point(12.3169467 51.3004956)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gerhard-Ellrodt-Straße 17A" .
+
+<http://leipzig-data.de/Data/04249.Leipzig.Hornstrasse.9>
+    ld:inOrtsteil ns4:Grosszschocher ;
+    ogcgs:asWKT "Point(12.3291521 51.3063958)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hornstraße 9" .
+
+<http://leipzig-data.de/Data/04249.Leipzig.KnautnaundorferStrasse.4>
+    ld:inOrtsteil ns4:Knautkleeberg-Knauthain ;
+    ogcgs:asWKT "Point(12.2948615 51.2650288)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Knautnaundorfer Straße 4" .
+
+<http://leipzig-data.de/Data/04249.Leipzig.SchkorlopperStrasse.34>
+    ld:inOrtsteil ns4:Hartmannsdorf-Knautnaundorf ;
+    ogcgs:asWKT "Point(12.2748543 51.255)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schkorlopper Straße 34" .
+
+<http://leipzig-data.de/Data/04249.Leipzig.Seumestrasse.129>
+    ld:inOrtsteil ns4:Knautkleeberg-Knauthain ;
+    ogcgs:asWKT "Point(12.312313978356 51.2750921577376)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Seumestraße 129" .
+
+<http://leipzig-data.de/Data/04249.Leipzig.Seumestrasse.99>
+    ld:inOrtsteil ns4:Knautkleeberg-Knauthain ;
+    ogcgs:asWKT "Point(12.3120313369415 51.2780768533806)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Seumestraße 99" .
+
+<http://leipzig-data.de/Data/04249.Leipzig.Weidmannweg.16>
+    ld:inOrtsteil ns4:Knautkleeberg-Knauthain ;
+    ogcgs:asWKT "Point(12.2948118 51.2771743)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Weidmannweg 16" .
+
+<http://leipzig-data.de/Data/04249.Leipzig.ZurWeissenMark.1>
+    ld:inOrtsteil ns4:Hartmannsdorf-Knautnaundorf ;
+    ogcgs:asWKT "Point(12.2780988 51.2498832)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zur Weißen Mark 1" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Alfred-Kaestner-Strasse.11>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.368349185962 51.3223833258083)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Alfred-Kästner-Straße 11" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Arndtstrasse.66>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3795953733298 51.3227215990469)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Arndtstraße 66" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.August-Bebel-Strasse.69>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3694246 51.3231869)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, August-Bebel-Straße 69" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.August-Bebel-Strasse.71>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3690871260883 51.317579545173)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, August-Bebel-Straße 71" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Bernhard-Goering-Strasse.64>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3762845646889 51.3225489550477)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bernhard-Göring-Straße 64" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Brandvorwerkstrasse.80>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3665941825871 51.315310330107)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Brandvorwerkstraße 80" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Brandvorwerkstrasse.82>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3662120667408 51.3147026507649)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Brandvorwerkstraße 82" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Karl-Liebknecht-Strasse.122>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3730185602988 51.3155699699081)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Liebknecht-Straße 122" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Karl-Liebknecht-Strasse.133>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.37371035 51.3163628)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Liebknecht-Straße 133" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Karl-Liebknecht-Strasse.46>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3733241133172 51.3251322133374)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Liebknecht-Straße 46" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Karl-Liebknecht-Strasse.56>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3732381 51.3149311)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Liebknecht-Straße 56" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Karl-Liebknecht-Strasse.59>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3740328388719 51.3251026315972)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Liebknecht-Straße 59" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Kochstrasse.14>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3719940619775 51.3227260861878)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kochstraße 14" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Kurt-Eisner-Strasse.22>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3648415238652 51.3205762272014)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kurt-Eisner-Straße 22" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Kurt-Eisner-Strasse.40>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.36850721636 51.3205633335306)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kurt-Eisner-Straße 40" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Richard-Lehmann-Strasse.114>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3878607088912 51.31376416416)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Richard-Lehmann-Straße 114" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Richard-Lehmann-Strasse.19>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3689378079197 51.3150033738213)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Richard-Lehmann-Straße 19" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Richard-Lehmann-Strasse.30>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3701257 51.3142351)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Richard-Lehmann-Straße 30" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Richard-Lehmann-Strasse.36>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3753805841253 51.3142517786218)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Richard-Lehmann-Straße 36" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Scharnhorststrasse.15>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3724675564632 51.319946045177)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Scharnhorststraße 15" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Scharnhorststrasse.27>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.37503525 51.31999575)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Scharnhorststraße 27" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Scharnhorststrasse.29>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3755057252067 51.319935694927)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Scharnhorststraße 29" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Schenkendorfstrasse.10>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3711699814259 51.3242147313216)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schenkendorfstraße 10" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Schenkendorfstrasse.17>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3726137889759 51.3244231763326)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schenkendorfstraße 17" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Schenkendorfstrasse.30>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3713487 51.3243561)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schenkendorfstraße 30" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Schlegelstrasse.15>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3671652 51.3247032)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schlegelstraße 15" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.SchleussigerWeg.1>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3568253 51.3208805)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schleußiger Weg 1" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Steinstrasse.18>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3706033384055 51.3175525862321)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Steinstraße 18" .
+
+<http://leipzig-data.de/Data/04275.Leipzig.Steinstrasse.42>
+    ld:inOrtsteil ns4:Suedvorstadt ;
+    ogcgs:asWKT "Point(12.3755304468524 51.3171293300693)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Steinstraße 42" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.AnderMaerchenwiese.3>
+    ld:inOrtsteil ns4:Marienbrunn ;
+    ogcgs:asWKT "Point(12.3923872768405 51.3055475963006)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, An der Märchenwiese 3" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.AnderMaerchenwiese.49>
+    ld:inOrtsteil ns4:Marienbrunn ;
+    ogcgs:asWKT "Point(12.4017356484591 51.3061314141206)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, An der Märchenwiese 49" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Arno-Nitzsche-Strasse.14>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3756029284662 51.3102806388822)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Arno-Nitzsche-Straße 14" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Arno-Nitzsche-Strasse.7>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3750386136112 51.3110670220759)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Arno-Nitzsche-Straße 7" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Bernhard-Goering-Strasse.152>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3762637 51.3108007)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bernhard-Göring-Straße 152" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Biedermannstrasse.23>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3760996858078 51.3076902230449)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Biedermannstraße 23" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Biedermannstrasse.40>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3809208 51.302645)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Biedermannstraße 40" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Biedermannstrasse.84>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3798105070037 51.3028372048793)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Biedermannstraße 84" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.BornaischeStrasse.27>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3792008063034 51.3077418988233)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bornaische Straße 27" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.BornaischeStrasse.81>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3842148666036 51.3017915166943)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bornaische Straße 81" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.BornaischeStrasse.82>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3813769539576 51.3047165957169)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bornaische Straße 82" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Gustav-Freytag-Strasse.40>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3739775839498 51.3123795190527)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gustav-Freytag-Straße 40" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.KoburgerStrasse.12>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3731197 51.3016982)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Koburger Straße 12" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.KoburgerStrasse.3>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.37414695 51.3020464)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Koburger Straße 3" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Kochstrasse.132>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3713328476493 51.310057128245)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kochstraße 132" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Kochstrasse.138>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3725573591445 51.3099016447485)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kochstraße 138" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Lerchenrain.69>
+    ld:inOrtsteil ns4:Marienbrunn ;
+    ogcgs:asWKT "Point(12.4018275 51.3077986)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lerchenrain 69" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.MeusdorferStrasse.10>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.375068200326 51.304125001826)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Meusdorfer Straße 10" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.MeusdorferStrasse.12>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3754256235725 51.3043128974143)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Meusdorfer Straße 12" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.MeusdorferStrasse.61>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3803276098292 51.3065478787453)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Meusdorfer Straße 61" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Prinz-Eugen-Strasse.1>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3745749641476 51.3033535755884)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Prinz-Eugen-Straße 1" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Prinz-Eugen-Strasse.21>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3795716185854 51.3017530781886)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Prinz-Eugen-Straße 21" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Sandmaennchenweg.34>
+    ld:inOrtsteil ns4:Marienbrunn ;
+    ogcgs:asWKT "Point(12.3920009 51.3072729)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Sandmännchenweg 34" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Scheffelstrasse.42>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3770795 51.3115581)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Scheffelstraße 42" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Teichstrasse.20>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3671842 51.3058292)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Teichstraße 20" .
+
+<http://leipzig-data.de/Data/04277.Leipzig.Windscheidstrasse.51>
+    ld:inOrtsteil ns4:Connewitz ;
+    ogcgs:asWKT "Point(12.3699601 51.30971675)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Windscheidstraße 51" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.BornaischeStrasse.130>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.3859806 51.2955549)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bornaische Straße 130" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.BornaischeStrasse.188>
+    ld:inOrtsteil ns4:Doelitz-Doesen ;
+    ogcgs:asWKT "Point(12.3925166571429 51.2870355571429)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bornaische Straße 188" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.Duerrstrasse.51>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.3919703 51.2981931)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dürrstraße 51" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.Gersterstrasse.9>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.3897123422538 51.2946853146445)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gersterstraße 9" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.Hans-Marchwitza-Strasse.12>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.4000278609335 51.2995800430545)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hans-Marchwitza-Straße 12" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.Hans-Otto-Strasse.2B>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.3941047 51.3020147)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hans-Otto-Straße 2B" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.Helenenstrasse.24>
+    ld:inOrtsteil ns4:Doelitz-Doesen ;
+    ogcgs:asWKT "Point(12.3892807 51.2885784)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Helenenstraße 24" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.Kurt-Tucholsky-Strasse.10>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.4026984 51.3025292)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kurt-Tucholsky-Straße 10" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.Kurt-Tucholsky-Strasse.12>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.4026984 51.3025292)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kurt-Tucholsky-Straße 12" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.Willi-Bredel-Strasse.15>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.4011621 51.3025487)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Willi-Bredel-Straße 15" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.Willi-Bredel-Strasse.3>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.4015926 51.3020475)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Willi-Bredel-Straße 3" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.Wincklerstrasse.3>
+    ld:inOrtsteil ns4:Doelitz-Doesen ;
+    ogcgs:asWKT "Point(12.3951433 51.2869073)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wincklerstraße 3" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.ZwickauerStrasse.125>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.3965095 51.2991062)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zwickauer Straße 125" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.ZwickauerStrasse.131>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.39668455 51.2983465)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zwickauer Straße 131" .
+
+<http://leipzig-data.de/Data/04279.Leipzig.ZwickauerStrasse.131A>
+    ld:inOrtsteil ns4:Loessnig ;
+    ogcgs:asWKT "Point(12.3976829696615 51.2986137935633)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zwickauer Straße 131A" .
+
+<http://leipzig-data.de/Data/04288.Leipzig.AmAngerteich.2>
+    ld:inOrtsteil ns4:Liebertwolkwitz ;
+    ogcgs:asWKT "Point(12.4588135 51.283793)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Angerteich 2" .
+
+<http://leipzig-data.de/Data/04288.Leipzig.Arthur-Polenz-Strasse.12>
+    ld:inOrtsteil ns4:Holzhausen ;
+    ogcgs:asWKT "Point(12.4561312 51.3059623)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Arthur-Polenz-Straße 12" .
+
+<http://leipzig-data.de/Data/04288.Leipzig.Russenstrasse.135>
+    ld:inOrtsteil ns4:Holzhausen ;
+    ogcgs:asWKT "Point(12.4472533 51.3038008)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Russenstraße 135" .
+
+<http://leipzig-data.de/Data/04288.Leipzig.StoetteritzerLandstrasse.21>
+    ld:inOrtsteil ns4:Holzhausen ;
+    ogcgs:asWKT "Point(12.4638569 51.305763)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stötteritzer Landstraße 21" .
+
+<http://leipzig-data.de/Data/04288.Leipzig.StoetteritzerLandstrasse.45>
+    ld:inOrtsteil ns4:Holzhausen ;
+    ogcgs:asWKT "Point(12.4638569 51.305763)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stötteritzer Landstraße 45" .
+
+<http://leipzig-data.de/Data/04288.Leipzig.Teichmannstrasse.1B>
+    ld:inOrtsteil ns4:Liebertwolkwitz ;
+    ogcgs:asWKT "Point(12.4666312 51.2824104)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Teichmannstraße 1B" .
+
+<http://leipzig-data.de/Data/04288.Leipzig.ZuckelhausenerRing.17>
+    ld:inOrtsteil ns4:Holzhausen ;
+    ogcgs:asWKT "Point(12.4512528 51.3032853)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zuckelhausener Ring 17" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.ConnewitzerStrasse.21>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.424617 51.3046085)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Connewitzer Straße 21" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Crednerstrasse.1>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4292118290839 51.3043800948518)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Crednerstraße 1" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Franzosenallee.21>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4360366356788 51.3021110904875)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Franzosenallee 21" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Lene-Voigt-Strasse.2>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.428683 51.297812)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lene-Voigt-Straße 2" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Leuckartstrasse.3>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4273835 51.3039824)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Leuckartstraße 3" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Morawitzstrasse.2>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4421476 51.3054858)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Morawitzstraße 2" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Morawitzstrasse.4>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4429361 51.3043987)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Morawitzstraße 4" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Nieritzstrasse.9>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4260925 51.3051969)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Nieritzstraße 9" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.PragerStrasse.220>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.422348 51.3064592)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Prager Straße 220" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Russenstrasse.48>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4243586 51.3066994)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Russenstraße 48" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Schwarzenbergweg.4>
+    ld:inOrtsteil ns4:Meusdorf ;
+    ogcgs:asWKT "Point(12.4391084 51.2906416)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schwarzenbergweg 4" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Struempellstrasse.39>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.436986 51.306836)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Strümpellstraße 39" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Struempellstrasse.41>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4362879 51.3056274)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Strümpellstraße 41" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Trendelenburgstrasse.20>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4323455 51.3081075)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Trendelenburgstraße 20" .
+
+<http://leipzig-data.de/Data/04289.Leipzig.Trendelenburgstrasse.28>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4323455 51.3081075)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Trendelenburgstraße 28" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.AnderTabaksmuehle.21>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4070898 51.3142088)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, An der Tabaksmühle 21" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.BreslauerStrasse.33>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4155424171109 51.3213009706459)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Breslauer Straße 33" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Friedhofsweg.10>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4070527 51.317893)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Friedhofsweg 10" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Gletschersteinstrasse.9>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4249920936929 51.3165942086472)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gletschersteinstraße 9" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.HolzhaeuserStrasse.15>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4368766 51.3159137)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Holzhäuser Straße 15" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.HolzhaeuserStrasse.77>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4206073465737 51.3194434443516)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Holzhäuser Straße 77" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.HolzhaeuserStrasse.81>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.421079239324 51.3195416313162)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Holzhäuser Straße 81" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Kolmstrasse.35>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4283771 51.3131058)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kolmstraße 35" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Kommandant-Prendel-Allee.106>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4194794615383 51.3125531142021)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kommandant-Prendel-Allee 106" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Kommandant-Prendel-Allee.85>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.422075 51.3138868)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kommandant-Prendel-Allee 85" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.NaunhoferStrasse.12>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4191612 51.3156036)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Naunhofer Straße 12" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Oberdorfstrasse.15>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4233290005502 51.3218860345219)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Oberdorfstraße 15" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Oberdorfstrasse.45>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4285899677567 51.3214925565617)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Oberdorfstraße 45" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Oststrasse.177>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4230553491918 51.326704136767)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Oststraße 177" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Oststrasse.185>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4220987172625 51.3236893002322)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Oststraße 185" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Papiermuehlstrasse.53>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4188884093538 51.3234126142896)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Papiermühlstraße 53" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.PragerStrasse.201>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4070402 51.3185604)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Prager Straße 201" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.PragerStrasse.212>
+    ld:inOrtsteil ns4:Probstheida ;
+    ogcgs:asWKT "Point(12.4122658 51.3121728)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Prager Straße 212" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Schoenbachstrasse.17>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4129398038883 51.3178900507217)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schönbachstraße 17" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Schoenbachstrasse.2>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4127668425556 51.3150213562049)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schönbachstraße 2" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Schoenbachstrasse.63>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4139644 51.3169589)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schönbachstraße 63" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Schoenbachstrasse.78>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4133661134891 51.3242649871765)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schönbachstraße 78" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.Schwarzackerstrasse.8>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4157370418874 51.3244737452568)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schwarzackerstraße 8" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.SommerfelderStrasse.29>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4275930188655 51.3209637795057)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Sommerfelder Straße 29" .
+
+<http://leipzig-data.de/Data/04299.Leipzig.SommerfelderStrasse.37>
+    ld:inOrtsteil ns4:Stoetteritz ;
+    ogcgs:asWKT "Point(12.4284204970779 51.3211552578039)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Sommerfelder Straße 37" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Bautzmannstrasse.6>
+    ld:inOrtsteil ns4:Volkmarsdorf ;
+    ogcgs:asWKT "Point(12.4170455 51.3449365)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bautzmannstraße 6" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Comeniusstrasse.17>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.4022231 51.3420701)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Comeniusstraße 17" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Eisenbahnstrasse.148>
+    ld:inOrtsteil ns4:Volkmarsdorf ;
+    ogcgs:asWKT "Point(12.3945081 51.3461353)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eisenbahnstraße 148" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Eisenbahnstrasse.20>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.397900020892 51.3458390000402)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eisenbahnstraße 20" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Eisenbahnstrasse.27>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.3989713 51.3460078)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eisenbahnstraße 27" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Eisenbahnstrasse.33>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.3998307 51.3459466)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eisenbahnstraße 33" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Eisenbahnstrasse.54>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.3945081 51.3461353)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eisenbahnstraße 54" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Eisenbahnstrasse.9>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.3961481 51.3461575)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eisenbahnstraße 9" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Eisenbahnstrasse.99>
+    ld:inOrtsteil ns4:Volkmarsdorf ;
+    ogcgs:asWKT "Point(12.4094435490503 51.345505913916)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eisenbahnstraße 99" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Hermann-Liebmann-Strasse.73>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.4077814 51.3402918)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hermann-Liebmann-Straße 73" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Hermann-Liebmann-Strasse.99>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.4077814 51.3402918)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hermann-Liebmann-Straße 99" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Koehlerstrasse.7>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.4044492 51.3394695)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Koehlerstraße 7" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.NeustaedterMarkt.8>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.4029154 51.3478495)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Neustädter Markt 8" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.Schulze-Delitzsch-Strasse.23>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.40348755 51.34846075)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schulze-Delitzsch-Straße 23" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.TorgauerPlatz.3>
+    ld:inOrtsteil ns4:Volkmarsdorf ;
+    ogcgs:asWKT "Point(12.4148757 51.3450465)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Torgauer Platz 3" .
+
+<http://leipzig-data.de/Data/04315.Leipzig.WurznerStrasse.122>
+    ld:inOrtsteil ns4:Volkmarsdorf ;
+    ogcgs:asWKT "Point(12.4182982 51.3436835)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wurzner Straße 122" .
+
+<http://leipzig-data.de/Data/04316.Leipzig.BrandiserStrasse.20>
+    ld:inOrtsteil ns4:Baalsdorf ;
+    ogcgs:asWKT "Point(12.4757629 51.3237048)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Brandiser Straße 20" .
+
+<http://leipzig-data.de/Data/04316.Leipzig.EngelsdorferStrasse.130>
+    ld:inOrtsteil ns4:Moelkau ;
+    ogcgs:asWKT "Point(12.4439789 51.3323998)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Engelsdorfer Straße 130" .
+
+<http://leipzig-data.de/Data/04316.Leipzig.Kastanienring.1>
+    ld:inOrtsteil ns4:Moelkau ;
+    ogcgs:asWKT "Point(12.4429597 51.3270924)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kastanienring 1" .
+
+<http://leipzig-data.de/Data/04316.Leipzig.Schulstrasse.6>
+    ld:inOrtsteil ns4:Moelkau ;
+    ogcgs:asWKT "Point(12.446182 51.3291154)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schulstraße 6" .
+
+<http://leipzig-data.de/Data/04316.Leipzig.ZweinaundorferStrasse.126>
+    ld:inOrtsteil ns4:Moelkau ;
+    ogcgs:asWKT "Point(12.4712055 51.3238969)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Zweinaundorfer Straße 126" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Charlottenstrasse.2>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.406155518424 51.3343893871457)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Charlottenstraße 2" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.DresdnerStrasse.26>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.3956372 51.3389603)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dresdner Straße 26" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.DresdnerStrasse.56>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4011983338303 51.3390833859133)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dresdner Straße 56" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.DresdnerStrasse.59>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.4029673 51.3389024)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dresdner Straße 59" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.DresdnerStrasse.63>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.404309 51.3385114)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dresdner Straße 63" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.DresdnerStrasse.71>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.4032961 51.3387107)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dresdner Straße 71" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.DresdnerStrasse.76>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4043569 51.3381664)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dresdner Straße 76" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.DresdnerStrasse.78>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.405225 51.3378685)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dresdner Straße 78" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.DresdnerStrasse.80>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.405225 51.3378685)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dresdner Straße 80" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Eichlerstrasse.2>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.400775 51.3275312)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eichlerstraße 2" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.EilenburgerStrasse.10>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.3976045630983 51.3338691342336)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eilenburger Straße 10" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.EilenburgerStrasse.4>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.3954663 51.3340872)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eilenburger Straße 4" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.EilenburgerStrasse.59>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4115331 51.3317644)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Eilenburger Straße 59" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Gabelsbergerstrasse.30>
+    ld:inOrtsteil ns4:Neustadt-Neuschoenefeld ;
+    ogcgs:asWKT "Point(12.3960962 51.3410685)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gabelsbergerstraße 30" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Heinrichstrasse.18>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.400968 51.3379217)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Heinrichstraße 18" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Heinrichstrasse.33>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4009575 51.3368502)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Heinrichstraße 33" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Heinrichstrasse.9>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.401672 51.338323)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Heinrichstraße 9" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Karl-Siegismund-Strasse.2>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.3984129 51.3274297)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Karl-Siegismund-Straße 2" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Moebiusstrasse.8>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4075642195485 51.3300317880959)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Möbiusstraße 8" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Muehlstrasse.14>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4007580454568 51.330083207949)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Mühlstraße 14" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Oststrasse.13>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.3979057763808 51.3322969383655)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Oststraße 13" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Oststrasse.41>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.40365135 51.3322799)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Oststraße 41" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.PragerStrasse.118>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.3997146 51.3267147)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Prager Straße 118" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.PragerStrasse.126>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4001229 51.3259493)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Prager Straße 126" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.PragerStrasse.128>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4003852 51.3254946)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Prager Straße 128" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.PragerStrasse.130>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4003239 51.3251141)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Prager Straße 130" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.PragerStrasse.136>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.3990909 51.3243047)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Prager Straße 136" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.PragerStrasse.60>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.3990476 51.3283793)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Prager Straße 60" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Reiskestrasse.12>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4051302429902 51.3285013310976)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Reiskestraße 12" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Riebeckstrasse.50>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4022570065948 51.3267363955765)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Riebeckstraße 50" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.StoetteritzerStrasse.26>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4048349216333 51.3263703609654)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stötteritzer Straße 26" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.StoetteritzerStrasse.28>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.406688990287 51.32584404142)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stötteritzer Straße 28" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.StoetteritzerStrasse.45>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.408672 51.3253478)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stötteritzer Straße 45" .
+
+<http://leipzig-data.de/Data/04317.Leipzig.Taeubchenweg.14>
+    ld:inOrtsteil ns4:Reudnitz-Thonberg ;
+    ogcgs:asWKT "Point(12.4036258 51.336111)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Täubchenweg 14" .
+
+<http://leipzig-data.de/Data/04318.Leipzig.Friedrich-Dittes-Strasse.9>
+    ld:inOrtsteil ns4:Anger-Crottendorf ;
+    ogcgs:asWKT "Point(12.4127264 51.3365238)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Friedrich-Dittes-Straße 9" .
+
+<http://leipzig-data.de/Data/04318.Leipzig.Louis-Fuernberg-Strasse.2>
+    ld:inOrtsteil ns4:Sellerhausen-Stuenz ;
+    ogcgs:asWKT "Point(12.4257077225088 51.3489835645262)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Louis-Fürnberg-Straße 2" .
+
+<http://leipzig-data.de/Data/04318.Leipzig.PortitzerStrasse.1>
+    ld:inOrtsteil ns4:Sellerhausen-Stuenz ;
+    ogcgs:asWKT "Point(12.42520754457 51.3441702569684)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Portitzer Straße 1" .
+
+<http://leipzig-data.de/Data/04318.Leipzig.PuechauerStrasse.4>
+    ld:inOrtsteil ns4:Sellerhausen-Stuenz ;
+    ogcgs:asWKT "Point(12.427075 51.3447226)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Püchauer Straße 4" .
+
+<http://leipzig-data.de/Data/04318.Leipzig.Schirmerstrasse.3>
+    ld:inOrtsteil ns4:Anger-Crottendorf ;
+    ogcgs:asWKT "Point(12.4116633 51.333622)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schirmerstraße 3" .
+
+<http://leipzig-data.de/Data/04318.Leipzig.Theodor-Neubauer-Strasse.18>
+    ld:inOrtsteil ns4:Anger-Crottendorf ;
+    ogcgs:asWKT "Point(12.4232666 51.3358864)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Theodor-Neubauer-Straße 18" .
+
+<http://leipzig-data.de/Data/04318.Leipzig.TorgauerStrasse.74>
+    ld:inOrtsteil ns4:Volkmarsdorf ;
+    ogcgs:asWKT "Point(12.4261135 51.3516605)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Torgauer Straße 74" .
+
+<http://leipzig-data.de/Data/04318.Leipzig.WurznerStrasse.151>
+    ld:inOrtsteil ns4:Sellerhausen-Stuenz ;
+    ogcgs:asWKT "Point(12.4321008 51.3439949)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wurzner Straße 151" .
+
+<http://leipzig-data.de/Data/04319.Leipzig.AlthenerStrasse.16A>
+    ld:inOrtsteil ns4:Engelsdorf ;
+    ogcgs:asWKT "Point(12.4859411 51.3335701)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Althener Straße 16A" .
+
+<http://leipzig-data.de/Data/04319.Leipzig.AlthenerStrasse.18>
+    ld:inOrtsteil ns4:Engelsdorf ;
+    ogcgs:asWKT "Point(12.4859411 51.3335701)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Althener Straße 18" .
+
+<http://leipzig-data.de/Data/04319.Leipzig.EngelsdorferStrasse.290>
+    ld:inOrtsteil ns4:Engelsdorf ;
+    ogcgs:asWKT "Point(12.4912677 51.3389863)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Engelsdorfer Straße 290" .
+
+<http://leipzig-data.de/Data/04319.Leipzig.EngelsdorferStrasse.298>
+    ld:inOrtsteil ns4:Engelsdorf ;
+    ogcgs:asWKT "Point(12.4912677 51.3389863)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Engelsdorfer Straße 298" .
+
+<http://leipzig-data.de/Data/04319.Leipzig.Gaswerksweg.1>
+    ld:inOrtsteil ns4:Engelsdorf ;
+    ogcgs:asWKT "Point(12.4862889 51.3404842)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gaswerksweg 1" .
+
+<http://leipzig-data.de/Data/04319.Leipzig.Hans-Weigel-Strasse.29>
+    ld:inOrtsteil ns4:Engelsdorf ;
+    ogcgs:asWKT "Point(12.4738789 51.3374334)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hans-Weigel-Straße 29" .
+
+<http://leipzig-data.de/Data/04319.Leipzig.Klingerstrasse.18>
+    ld:inOrtsteil ns4:Engelsdorf ;
+    ogcgs:asWKT "Point(12.4757342 51.3358037)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Klingerstraße 18" .
+
+<http://leipzig-data.de/Data/04319.Leipzig.RiesaerStrasse.177>
+    ld:inOrtsteil ns4:Engelsdorf ;
+    ogcgs:asWKT "Point(12.5063327 51.3505325)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Riesaer Straße 177" .
+
+<http://leipzig-data.de/Data/04319.Leipzig.Werkstaettenstrasse.6>
+    ld:inOrtsteil ns4:Engelsdorf ;
+    ogcgs:asWKT "Point(12.4645067 51.3412241)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Werkstättenstraße 6" .
+
+<http://leipzig-data.de/Data/04328.Leipzig.Doellingstrasse.31>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4511165 51.3475767)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Döllingstraße 31" .
+
+<http://leipzig-data.de/Data/04328.Leipzig.GeithainerStrasse.58>
+    ld:inOrtsteil ns4:Sellerhausen-Stuenz ;
+    ogcgs:asWKT "Point(12.4378443 51.3420198)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Geithainer Straße 58" .
+
+<http://leipzig-data.de/Data/04328.Leipzig.Johannes-Kaerner-Strasse.1>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4517684 51.3459487)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Johannes-Kärner-Straße 1" .
+
+<http://leipzig-data.de/Data/04328.Leipzig.Johannes-Kaerner-Strasse.6>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4522806 51.3462474)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Johannes-Kärner-Straße 6" .
+
+<http://leipzig-data.de/Data/04328.Leipzig.Permoserstrasse.50>
+    ld:inOrtsteil ns4:Sellerhausen-Stuenz ;
+    ogcgs:asWKT "Point(12.4462702 51.35052)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Permoserstraße 50" .
+
+<http://leipzig-data.de/Data/04328.Leipzig.RiesaerStrasse.38>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4580796 51.3456471)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Riesaer Straße 38" .
+
+<http://leipzig-data.de/Data/04328.Leipzig.Schongauerstrasse.13>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4734539 51.3457567)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schongauerstraße 13" .
+
+<http://leipzig-data.de/Data/04328.Leipzig.Theodor-Heuss-Strasse.43>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4457935 51.3470102)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Theodor-Heuss-Straße 43" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.AmVorwerk.15>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4614076 51.3525826)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Am Vorwerk 15" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Bisamstrasse.17>
+    ld:inOrtsteil ns4:Heiterblick ;
+    ogcgs:asWKT "Point(12.4718679 51.3561711)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bisamstraße 17" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Dachsstrasse.5>
+    ld:inOrtsteil ns4:Heiterblick ;
+    ogcgs:asWKT "Point(12.4693709 51.3571806)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Dachsstraße 5" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Goldsternstrasse.23>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4581529 51.3565796)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Goldsternstraße 23" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Goldsternstrasse.36>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4581529 51.3565796)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Goldsternstraße 36" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Goldsternstrasse.58>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4581529 51.3565796)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Goldsternstraße 58" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Gundermannstrasse.16>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4587872 51.3517624)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gundermannstraße 16" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Hainbuchenstrasse.13>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4574968 51.3559548)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hainbuchenstraße 13" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Hainbuchenstrasse.41>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4574968 51.3559548)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Hainbuchenstraße 41" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.PaunsdorferAllee.1>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4779412 51.3504464)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Paunsdorfer Allee 1" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Platanenstrasse.37>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4622943 51.3554805)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Platanenstraße 37" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Suedblick.5>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4548038 51.3513637)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Südblick 5" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Waldkerbelstrasse.12>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4598978 51.3585126)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Waldkerbelstraße 12" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Waldkerbelstrasse.2>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4598978 51.3585126)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Waldkerbelstraße 2" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Wiesenstrasse.14>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4628672 51.3563469)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wiesenstraße 14" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Wiesenstrasse.18>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4628672 51.3563469)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wiesenstraße 18" .
+
+<http://leipzig-data.de/Data/04329.Leipzig.Wiesenstrasse.20>
+    ld:inOrtsteil ns4:Paunsdorf ;
+    ogcgs:asWKT "Point(12.4628672 51.3563469)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Wiesenstraße 20" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Baestleinstrasse.18>
+    ld:inOrtsteil ns4:Schoenefeld-Ost ;
+    ogcgs:asWKT "Point(12.4290659556131 51.3550500173227)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bästleinstraße 18" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Baestleinstrasse.6>
+    ld:inOrtsteil ns4:Schoenefeld-Ost ;
+    ogcgs:asWKT "Point(12.4238092952779 51.3545897989654)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Bästleinstraße 6" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Gorkistrasse.123>
+    ld:inOrtsteil ns4:Schoenefeld-Abtnaundorf ;
+    ogcgs:asWKT "Point(12.4176097 51.3590189)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gorkistraße 123" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.LoebauerStrasse.21>
+    ld:inOrtsteil ns4:Schoenefeld-Abtnaundorf ;
+    ogcgs:asWKT "Point(12.414711 51.3567751)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Löbauer Straße 21" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Losinskiweg.18>
+    ld:inOrtsteil ns4:Schoenefeld-Ost ;
+    ogcgs:asWKT "Point(12.4165001 51.3551956)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Losinskiweg 18" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Ossietzkystrasse.18>
+    ld:inOrtsteil ns4:Schoenefeld-Abtnaundorf ;
+    ogcgs:asWKT "Point(12.4158903245481 51.3594866440067)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Ossietzkystraße 18" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Ossietzkystrasse.37>
+    ld:inOrtsteil ns4:Schoenefeld-Abtnaundorf ;
+    ogcgs:asWKT "Point(12.4133876 51.359509)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Ossietzkystraße 37" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Ossietzkystrasse.60>
+    ld:inOrtsteil ns4:Schoenefeld-Abtnaundorf ;
+    ogcgs:asWKT "Point(12.4112907791586 51.3602848065909)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Ossietzkystraße 60" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Poserstrasse.55>
+    ld:inOrtsteil ns4:Schoenefeld-Ost ;
+    ogcgs:asWKT "Point(12.4238828 51.353435)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Poserstraße 55" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.SchoenefelderAllee.23A>
+    ld:inOrtsteil ns4:Schoenefeld-Abtnaundorf ;
+    ogcgs:asWKT "Point(12.4069071 51.3578095)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schönefelder Allee 23A" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.SchoenefelderAllee.26>
+    ld:inOrtsteil ns4:Schoenefeld-Abtnaundorf ;
+    ogcgs:asWKT "Point(12.4049559232766 51.358358550604)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schönefelder Allee 26" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Schulzeweg.11>
+    ld:inOrtsteil ns4:Schoenefeld-Ost ;
+    ogcgs:asWKT "Point(12.4177845 51.3524618)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schulzeweg 11" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Shukowstrasse.56>
+    ld:inOrtsteil ns4:Schoenefeld-Ost ;
+    ogcgs:asWKT "Point(12.4155779 51.3558835)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Shukowstraße 56" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Taubestrasse.67>
+    ld:inOrtsteil ns4:Schoenefeld-Abtnaundorf ;
+    ogcgs:asWKT "Point(12.4113698242776 51.3584115768785)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Taubestraße 67" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.TheklaerStrasse.11>
+    ld:inOrtsteil ns4:Schoenefeld-Abtnaundorf ;
+    ogcgs:asWKT "Point(12.4248432 51.3688833)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Theklaer Straße 11" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.TorgauerStrasse.233>
+    ld:inOrtsteil ns4:Heiterblick ;
+    ogcgs:asWKT "Point(12.4261135 51.3516605)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Torgauer Straße 233" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Volksgartenstrasse.18>
+    ld:inOrtsteil ns4:Schoenefeld-Ost ;
+    ogcgs:asWKT "Point(12.4187041997059 51.354829010021)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Volksgartenstraße 18" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Volksgartenstrasse.24>
+    ld:inOrtsteil ns4:Schoenefeld-Ost ;
+    ogcgs:asWKT "Point(12.419331 51.354081)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Volksgartenstraße 24" .
+
+<http://leipzig-data.de/Data/04347.Leipzig.Volksgartenstrasse.28>
+    ld:inOrtsteil ns4:Schoenefeld-Ost ;
+    ogcgs:asWKT "Point(12.4226619 51.3509598)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Volksgartenstraße 28" .
+
+<http://leipzig-data.de/Data/04349.Leipzig.Breunsdorffstrasse.1>
+    ld:inOrtsteil ns4:Thekla ;
+    ogcgs:asWKT "Point(12.4401893 51.3817037)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Breunsdorffstraße 1" .
+
+<http://leipzig-data.de/Data/04349.Leipzig.KlingenthalerStrasse.14>
+    ld:inOrtsteil ns4:Thekla ;
+    ogcgs:asWKT "Point(12.4326215 51.3766796)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Klingenthaler Straße 14" .
+
+<http://leipzig-data.de/Data/04349.Leipzig.Lidicestrasse.5>
+    ld:inOrtsteil ns4:Thekla ;
+    ogcgs:asWKT "Point(12.4333802 51.3777636)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Lidicestraße 5" .
+
+<http://leipzig-data.de/Data/04349.Leipzig.OelsnitzerStrasse.2>
+    ld:inOrtsteil ns4:Thekla ;
+    ogcgs:asWKT "Point(12.4349051 51.3738714)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Oelsnitzer Straße 2" .
+
+<http://leipzig-data.de/Data/04349.Leipzig.PlaussigerDorfstrasse.21>
+    ld:inOrtsteil ns4:Plaussig-Portitz ;
+    ogcgs:asWKT "Point(12.4552749 51.3922471)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Plaußiger Dorfstraße 21" .
+
+<http://leipzig-data.de/Data/04349.Leipzig.SosaerStrasse.7>
+    ld:inOrtsteil ns4:Thekla ;
+    ogcgs:asWKT "Point(12.4333072 51.3749913)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Sosaer Straße 7" .
+
+<http://leipzig-data.de/Data/04349.Leipzig.StollbergerStrasse.8>
+    ld:inOrtsteil ns4:Thekla ;
+    ogcgs:asWKT "Point(12.432721 51.378713)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Stollberger Straße 8" .
+
+<http://leipzig-data.de/Data/04349.Leipzig.TauchaerStrasse.260>
+    ld:inOrtsteil ns4:Plaussig-Portitz ;
+    ogcgs:asWKT "Point(12.4278397 51.3797415)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Tauchaer Straße 260" .
+
+<http://leipzig-data.de/Data/04349.Leipzig.TheklaerStrasse.111>
+    ld:inOrtsteil ns4:Thekla ;
+    ogcgs:asWKT "Point(12.4302458 51.3760187)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Theklaer Straße 111" .
+
+<http://leipzig-data.de/Data/04356.Leipzig.Handelsstrasse.4>
+    ld:inOrtsteil ns4:Seehausen ;
+    ogcgs:asWKT "Point(12.3996860911992 51.4016192734845)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Handelsstraße 4" .
+
+<http://leipzig-data.de/Data/04356.Leipzig.Messe-Allee.2>
+    ld:inOrtsteil ns4:Seehausen ;
+    ogcgs:asWKT "Point(12.3958029219308 51.3939329232655)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Messe-Allee 2" .
+
+<http://leipzig-data.de/Data/04356.Leipzig.Walter-Koehn-Strasse.3>
+    ld:inOrtsteil ns4:Seehausen ;
+    ogcgs:asWKT "Point(12.4034947 51.400932)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Walter-Köhn-Straße 3" .
+
+<http://leipzig-data.de/Data/04357.Leipzig.Berthastrasse.15>
+    ld:inOrtsteil ns4:Mockau-Sued ;
+    ogcgs:asWKT "Point(12.4058843659058 51.3649998950223)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Berthastraße 15" .
+
+<http://leipzig-data.de/Data/04357.Leipzig.EssenerStrasse.102>
+    ld:inOrtsteil ns4:Mockau-Nord ;
+    ogcgs:asWKT "Point(12.399388 51.3764111)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Essener Straße 102" .
+
+<http://leipzig-data.de/Data/04357.Leipzig.FriedrichshafnerStrasse.21>
+    ld:inOrtsteil ns4:Mockau-Sued ;
+    ogcgs:asWKT "Point(12.4069346 51.381607)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Friedrichshafner Straße 21" .
+
+<http://leipzig-data.de/Data/04357.Leipzig.FriedrichshafnerStrasse.25>
+    ld:inOrtsteil ns4:Mockau-Sued ;
+    ogcgs:asWKT "Point(12.4069346 51.381607)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Friedrichshafner Straße 25" .
+
+<http://leipzig-data.de/Data/04357.Leipzig.Gontardweg.2>
+    ld:inOrtsteil ns4:Mockau-Sued ;
+    ogcgs:asWKT "Point(12.4089638 51.3687516)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Gontardweg 2" .
+
+<http://leipzig-data.de/Data/04357.Leipzig.KielerStrasse.65>
+    ld:inOrtsteil ns4:Mockau-Nord ;
+    ogcgs:asWKT "Point(12.4215266 51.3783563)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Kieler Straße 65" .
+
+<http://leipzig-data.de/Data/04357.Leipzig.Komarowstrasse.2>
+    ld:inOrtsteil ns4:Mockau-Nord ;
+    ogcgs:asWKT "Point(12.4165078 51.3808739)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Komarowstraße 2" .
+
+<http://leipzig-data.de/Data/04357.Leipzig.MockauerStrasse.123>
+    ld:inOrtsteil ns4:Mockau-Nord ;
+    ogcgs:asWKT "Point(12.4118071 51.3741954)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Mockauer Straße 123" .
+
+<http://leipzig-data.de/Data/04357.Leipzig.SchildbergerWeg.10>
+    ld:inOrtsteil ns4:Mockau-Nord ;
+    ogcgs:asWKT "Point(12.4053298 51.3805284)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Schildberger Weg 10" .
+
+<http://leipzig-data.de/Data/04357.Leipzig.Volbedingstrasse.39>
+    ld:inOrtsteil ns4:Mockau-Sued ;
+    ogcgs:asWKT "Point(12.4073677 51.3611464)" ;
+    a ld:Adresse ;
+    rdfs:label "Leipzig, Volbedingstraße 39" .
+
