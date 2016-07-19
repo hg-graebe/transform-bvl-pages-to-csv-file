@@ -12,15 +12,6 @@
 @prefix leoplace: <http://le-online.de/ontology/place/ns#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://le-online.de/place/>
-    leoplace:address "Seeburgstraße 100, / 04103 // Leipzig"^^xsd:string ;
-    leoplace:hggURI ""^^xsd:string ;
-    leoplace:lift-available "no"^^xsd:string ;
-    leoplace:lift-liftWithWheelChairSupportAvailable "no"^^xsd:string ;
-    leoplace:parkingLot-lotsForDisabledPeopleAvailable "no"^^xsd:string ;
-    leoplace:placeName ""^^xsd:string ;
-    leoplace:toilets-toiletForDisabledPeopleAvailable "no"^^xsd:string .
-
 <http://le-online.de/place/(spinnwerk-ehemals)-residenz--schauspiel-leipzig>
     leoplace:address "Spinnereistraße 7, Halle 18, / 04179 // Leipzig"^^xsd:string ;
     leoplace:hggURI "spinnwerkehemalsresidenzschauspielleipzig"^^xsd:string ;
