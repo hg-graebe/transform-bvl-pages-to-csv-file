@@ -48,12 +48,12 @@ fixStreet($s) ausgelagert. Probleme waren:
 unterbringen kann) und packt eine Liste von Präfixen für die Transformation
 nach Turtle vor die ntriples.
 
-php create-files.php                -> erzeugt uhu.nt
-rapper -c -i turtle uhu.nt          -> prüft die entstandene Datei auf Stringenz
+`php create-files.php`                -> erzeugt uhu.nt
+`rapper -c -i turtle uhu.nt`          -> prüft die entstandene Datei auf Stringenz
   Dabei erreicht '-i turtle', dass die utf-8 Umlaute als solche erkannt werden. 
-php postprocess.php >a1.ttl         -> erzeugt a1.ttl
-rapper -gc a1.ttl                   -> prüft die entstandene Datei auf Stringenz
-rapper -g a1.ttl -o turtle >a2.ttl  -> verwandelt das in Turtle
+`php postprocess.php >a1.ttl`         -> erzeugt a1.ttl
+`rapper -gc a1.ttl`                   -> prüft die entstandene Datei auf Stringenz
+`rapper -g a1.ttl -o turtle >a2.ttl`  -> verwandelt das in Turtle
 
 Das Ganze habe ich dann in ein Ontowiki@localhost gepackt, daraus den
 adressrelevanten Teil extrahiert (siehe `Queries.txt`) und in `adressen.ttl`
@@ -94,7 +94,7 @@ Dateien gilt das nicht mehr, dort können Umlaute auch in
 utf-8-Notation vorliegen und werden von `rapper` bei der Umwandlung in
 ntriples automatisch normalisiert.
 
-Der Code von create-files.php der Version vom 2016-07-07 scrapt
+Der Code von `create-files.php` der Version vom 2016-07-07 scrapt
 unmittelbar die Webseiten, spätere Versionen nutzen eine andere
 Anbindung, die auch private Daten enthält und deshalb nicht
 unmittelbar verwendet werden kann, sondern nur die als Output
@@ -106,3 +106,9 @@ größere Tripelmengen.
 
 * leo-version-20160707.nt - 8477 triples
 * leo-version-20160719.nt - 10878 triples (davon 1554 Tripel hggURI)
+
+Außerdem habe ich eine Übersetzungstabelle zwischen den Abicht-URIs
+und den HGG-URIs angelegt und als `owl:sameAs` in der Datei
+`adressen.ttl` ergänzt.  Damit kann dort von den Abicht-URIs auf die
+HGG-URIs weitergeleitet werden, dann in `ld-adressen.ttl` auf die
+LD-Adressen-URIs und von dort in `geodaten.ttl` auf die Geodaten.

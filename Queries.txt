@@ -326,3 +326,22 @@ http://leipzig-data.de/Data/04317.Leipzig.Heinrichstrasse.43-45
 http://leipzig-data.de/Data/04288.Leipzig.GueldengossaerStrasse.6-8
 http://leipzig-data.de/Data/01099.Dresden.BautznerStrasse.20
 http://leipzig-data.de/Data/04179.Leipzig.AmRitterschloesschen.22
+
+# ------------------------------------------------------
+
+Umbau Uebersetzungstabelle.ttl 
+* Laden in lokalen RDF-Store als <http://le-online.de/Test/>
+
+PREFIX leoplace: <http://le-online.de/ontology/place/ns#> 
+select ?b "Text" ?a
+from <http://le-online.de/Test/>
+where {
+?a leoplace:hggURI ?b .
+}
+
+PREFIX leoplace: <http://le-online.de/ontology/place/ns#> 
+construct { ?b owl:sameAs ?a . }
+from <http://le-online.de/Test/>
+where {
+?a leoplace:hggURI ?b .
+}
