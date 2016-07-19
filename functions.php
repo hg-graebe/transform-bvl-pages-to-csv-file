@@ -110,11 +110,16 @@ function createRDFTurtleFile($filename, array $infoArray)
         /*
          * generate good title for the URL later on (URL encoded, but still human readable)
          */
-        //$placeUri = createGoodURIKonrad($placeEntry['title']);
-        $placeUri = createGoodURIHGG($placeEntry['title']);
+        $placeUri = createGoodURIKonrad($placeEntry['title']);
+        $placeUria = createGoodURIHGG($placeEntry['title']);
         $placeUri = $bvlRootUrl . str_replace(array('&', ), array('-and-',), $placeUri);
 
         // title
+        $stmtArray[] = new StatementImpl(
+            new NamedNodeImpl($placeUri),
+            new NamedNodeImpl($bvlNamespaceUrl . 'hggURI'),
+            new LiteralImpl($placeUria)
+        );
         $stmtArray[] = new StatementImpl(
             new NamedNodeImpl($placeUri),
             new NamedNodeImpl($bvlNamespaceUrl . 'placeName'),
@@ -170,11 +175,11 @@ function createGoodURIKonrad($name) { // Originalversion
     return str_replace(
         array(
             ' ',     'ß',  'ä',  'ü',  'ö',  'ö',  '<br-/>', '&uuml;', '&auml;', '&ouml;', '"', 'eacute;', '/',
-                'ouml;', 'auml;', 'uuml;', ',', "'", '>', '<', '`', '´'
+                'ouml;', 'auml;', 'uuml;', ',', "'", '>', '<', '`', '´', '\\'
         ),
         array(
             '-',     'ss', 'ae', 'ue', 'oe', 'oe', '',       'ue',     'ae',     'oe',     '',  'e',       '_',
-                'oe',    'ae',    'ue',    '-', '_', '-', '-', '-', '-'
+                'oe',    'ae',    'ue',    '-', '_', '-', '-', '-', '-', ''
         ),
         strtolower(trim(preg_replace('/\s\s+/', ' ', $name)))
         );
@@ -183,9 +188,9 @@ function createGoodURIHGG($name) { // Originalversion
   $name=strtolower(trim(preg_replace('/\s\s+/', '', $name)));
   $name=str_replace(
         array('ß',  'ä',  'ü',  'ö',  'ö',  '<br-/>', '&uuml;', '&auml;', '&ouml;', 'eacute;', 
-                'ouml;', 'auml;', 'uuml;'),
+                'ouml;', 'auml;', 'uuml;', '\\'),
         array('ss', 'ae', 'ue', 'oe', 'oe', '',       'ue',     'ae',     'oe',     'e',       
-                'oe',    'ae',    'ue'   ),
+                'oe',    'ae',    'ue' , ''  ),
         $name);
   $name=preg_replace('/\W/', '', $name);
   return $name;

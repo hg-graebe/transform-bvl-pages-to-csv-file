@@ -3,8 +3,11 @@
     "require": {
         "php-curl-class/php-curl-class": "4.*",
         "saft/saft-data": "0.2.*",
-        "saft/saft-rdf": "0.2.*"
+        "saft/saft-rdf": "0.2.*",
+        "saft/saft-skeleton": "0.3.*",
+        "level-2/dice": "2.0.*"
     },
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "license": "GPL-3.0",
     "autoload": {

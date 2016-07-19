@@ -33,8 +33,9 @@ Clone des Repos https://github.com/AKSW/transform-bvl-pages-to-csv-file
 
 Änderungen: 
 
-In `functions.php` - URI-Generierung in zwei Funtkionen ausgelagert.  Meine
-URIs (ohne Präfix) matchen [\w+]
+In `functions.php` - URI-Generierung in zwei Funtkionen ausgelagert.
+Meine URIs (ohne Präfix) matchen [\w+].  Uebersetzungstabelle.nt
+enthält eine Zuordnung der einen und der anderen Namen. 
 
 In `create-files.php` - String-Transformation in Funktionen fixTitle($s) und
 fixStreet($s) ausgelagert. Probleme waren: 
@@ -48,9 +49,11 @@ unterbringen kann) und packt eine Liste von Präfixen für die Transformation
 nach Turtle vor die ntriples.
 
 php create-files.php                -> erzeugt uhu.nt
-php postprocess.php >a1.nt          -> erzeugt a1.nt
-rapper -gc a1.nt                    -> prüft die entstandene Datei auf Stringenz
-rapper -g a1.nt -o turtle >a.ttl    -> verwandelt das in Turtle
+rapper -c -i turtle uhu.nt          -> prüft die entstandene Datei auf Stringenz
+  Dabei erreicht '-i turtle', dass die utf-8 Umlaute als solche erkannt werden. 
+php postprocess.php >a1.ttl         -> erzeugt a1.ttl
+rapper -gc a1.ttl                   -> prüft die entstandene Datei auf Stringenz
+rapper -g a1.ttl -o turtle >a2.ttl  -> verwandelt das in Turtle
 
 Das Ganze habe ich dann in ein Ontowiki@localhost gepackt, daraus den
 adressrelevanten Teil extrahiert (siehe `Queries.txt`) und in `adressen.ttl`
@@ -82,3 +85,24 @@ Dort sind weitere Listen mit Adressen extrahiert
 2) Adressen, die so nicht in leipzig-data.de hinterlegt sind.  Hier wäre mit
    einem sinnvollen Ähnlichkeitstest zu prüfen, ob die Adressen unter einer
    leicht anderen URI doch vorhanden sind und welche ggf. in Frage kommen.  
+
+## HGG, 2016-07-19
+
+`rapper` geht bei der Endung .nt von ntriples aus, in der alle Umlaute
+u.a.  Sonderzeichen unicode-normalisiert vorliegen müssen. Für .ttl
+Dateien gilt das nicht mehr, dort können Umlaute auch in
+utf-8-Notation vorliegen und werden von `rapper` bei der Umwandlung in
+ntriples automatisch normalisiert.
+
+Der Code von create-files.php der Version vom 2016-07-07 scrapt
+unmittelbar die Webseiten, spätere Versionen nutzen eine andere
+Anbindung, die auch private Daten enthält und deshalb nicht
+unmittelbar verwendet werden kann, sondern nur die als Output
+generierte nt-Datei.  Allerdings sind in der Version vom 2016-07-19
+die oben genannten beiden Probleme noch nicht gefixt.
+
+Spätere Anwendung des alten Codes auf die Webseiten ergibt jedoch auch
+größere Tripelmengen.
+
+* leo-version-20160707.nt - 8477 triples
+* leo-version-20160719.nt - 10878 triples (davon 1554 Tripel hggURI)

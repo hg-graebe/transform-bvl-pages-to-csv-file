@@ -28,7 +28,5 @@ $s=str_replace("&Auml;", "Ä", $s);
 $s=str_replace("&Ouml;", "Ö", $s);
 $s=str_replace("&Uuml;", "Ü", $s);
 $s=str_replace("&eacute;", "é", $s);
-$s=str_replace("str.", "straße", $s);
-$s=str_replace("Str.", "Straße", $s);
 
 echo prefix().$s; 
