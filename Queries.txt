@@ -345,3 +345,80 @@ from <http://le-online.de/Test/>
 where {
 ?a leoplace:hggURI ?b .
 }
+
+# ------------------------------------------------------
+Analyse der Datei leo-original-20160725.nt
+
+Lade das als <http://le-online.de/Test/> in einen lokalen RDF-Store
+
+-- Zähle alle verschiedenen Subjekte 
+PREFIX leoplace: <http://le-online.de/ontology/place/ns#> 
+select count(distinct ?a) 
+from <http://le-online.de/Test/>
+where {
+?a ?b ?c .
+}
+
+926 Einträge - davon einer <http://le-online.de/Test/>
+
+-- Zähle alle Einträge mit Geokoordinaten
+PREFIX leoplace: <http://le-online.de/ontology/place/ns#> 
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> 
+select count(?a)
+from <http://le-online.de/Test/>
+where {
+?a  geo:latitude ?lat ; geo:long ?long .
+}
+
+1018 Einträge
+
+-- Gibt es Einträge ohne Geokoordinaten?
+PREFIX leoplace: <http://le-online.de/ontology/place/ns#> 
+select ?a  
+from <http://le-online.de/Test/>
+where {
+?a ?b ?c .
+optional { ?a  geo:latitude ?lat . }
+filter (!bound(?lat))
+}
+
+nur <http://le-online.de/Test/>
+
+-- Einträge mit mehreren Koordinatenangaben
+PREFIX leoplace: <http://le-online.de/ontology/place/ns#> 
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> 
+select ?a
+from <http://le-online.de/Test/>
+where {
+?a  geo:latitude ?lat .
+}
+GROUP by ?a
+HAVING( count(?lat)>1)
+
+http://le-online.de/place/voelkerschlachtdenkmal 	2
+http://le-online.de/place/polizeidirektion-leipzig 	4
+http://le-online.de/place/park-krankenhaus-leipzig-suedost-gmbh 	2
+http://le-online.de/place/komm-haus 	2
+http://le-online.de/place/sozialstation-gruenau 	3
+http://le-online.de/place/staedtisches-bestattungswesen---eigenbetrieb 	3
+http://le-online.de/place/first-reisebuero 	3
+http://le-online.de/place/auslaenderbehoerde 	2
+http://le-online.de/place/der-paritaetische-sachsen-e.v. 	2
+http://le-online.de/place/servicestelle-fuer-rehabilitation 	2
+http://le-online.de/place/sozialstation-holzhausen 	2
+http://le-online.de/place/wolf---das-sanitaetshaus 	4
+http://le-online.de/place/lesti---sanitaetshaus---orthopaedie--und-rehatechnik 	2
+http://le-online.de/place/merkurpromenade 	2
+http://le-online.de/place/awo-werkstaetten-sachsen-west-wfb 	2
+http://le-online.de/place/hauptbahnhof 	2
+http://le-online.de/place/augustusplatz 	2
+http://le-online.de/place/stadtwerke-leipzig 	2
+
+-- Geokoordinaten als geosparql:asWKT ausgeben
+PREFIX leoplace: <http://le-online.de/ontology/place/ns#> 
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> 
+select ?a concat("geosparql:asWKT Point(",?long," ",?lat,")")
+from <http://le-online.de/Test/>
+where {
+?a  geo:latitude ?lat ; geo:long ?long .
+} order by ?a

@@ -33,9 +33,9 @@ Clone des Repos https://github.com/AKSW/transform-bvl-pages-to-csv-file
 
 Änderungen: 
 
-In `functions.php` - URI-Generierung in zwei Funtkionen ausgelagert.
-Meine URIs (ohne Präfix) matchen [\w+].  Uebersetzungstabelle.nt
-enthält eine Zuordnung der einen und der anderen Namen. 
+In `functions.php` - URI-Generierung in zwei Funtkionen ausgelagert.  Meine
+URIs (ohne Präfix) matchen [\w+].  Uebersetzungstabelle.nt enthält eine
+Zuordnung der einen und der anderen Namen.
 
 In `create-files.php` - String-Transformation in Funktionen fixTitle($s) und
 fixStreet($s) ausgelagert. Probleme waren: 
@@ -88,27 +88,32 @@ Dort sind weitere Listen mit Adressen extrahiert
 
 ## HGG, 2016-07-19
 
-`rapper` geht bei der Endung .nt von ntriples aus, in der alle Umlaute
-u.a.  Sonderzeichen unicode-normalisiert vorliegen müssen. Für .ttl
-Dateien gilt das nicht mehr, dort können Umlaute auch in
-utf-8-Notation vorliegen und werden von `rapper` bei der Umwandlung in
-ntriples automatisch normalisiert.
+`rapper` geht bei der Endung .nt von ntriples aus, in der alle Umlaute u.a.
+Sonderzeichen unicode-normalisiert vorliegen müssen. Für .ttl Dateien gilt das
+nicht mehr, dort können Umlaute auch in utf-8-Notation vorliegen und werden von
+`rapper` bei der Umwandlung in ntriples automatisch normalisiert.
 
-Der Code von `create-files.php` der Version vom 2016-07-07 scrapt
-unmittelbar die Webseiten, spätere Versionen nutzen eine andere
-Anbindung, die auch private Daten enthält und deshalb nicht
-unmittelbar verwendet werden kann, sondern nur die als Output
-generierte nt-Datei.  Allerdings sind in der Version vom 2016-07-19
-die oben genannten beiden Probleme noch nicht gefixt.
+Der Code von `create-files.php` der Version vom 2016-07-07 scrapte unmittelbar
+die Webseiten, spätere Versionen nutzen eine andere Anbindung, die auch private
+Daten enthält und deshalb nicht unmittelbar verwendet werden kann, sondern nur
+die als Output generierte nt-Datei.  Allerdings sind in der Version vom
+2016-07-19 die oben genannten beiden Probleme noch nicht gefixt.
 
 Spätere Anwendung des alten Codes auf die Webseiten ergibt jedoch auch
 größere Tripelmengen.
 
 * leo-version-20160707.nt - 8477 triples
-* leo-version-20160719.nt - 10878 triples (davon 1554 Tripel hggURI)
+* Uebersetzungstabelle.nt - Gegenüberstellung der originalen und meiner URIs
+* leo-version-20160719.nt - 9324 triples 
 
 Außerdem habe ich eine Übersetzungstabelle zwischen den Abicht-URIs
 und den HGG-URIs angelegt und als `owl:sameAs` in der Datei
 `adressen.ttl` ergänzt.  Damit kann dort von den Abicht-URIs auf die
 HGG-URIs weitergeleitet werden, dann in `ld-adressen.ttl` auf die
 LD-Adressen-URIs und von dort in `geodaten.ttl` auf die Geodaten.
+
+## HGG, 2016-07-26
+
+Vergleich erfolgt nur noch gegen die originale leo-version
+
+* leo-version-20160726.nt - 10483 triples (mit Geokoordinaten)

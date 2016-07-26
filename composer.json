@@ -2,10 +2,7 @@
     "name": "aksw/transform-bvl-pages-to-csv-file",
     "require": {
         "php-curl-class/php-curl-class": "4.*",
-        "saft/saft-data": "0.2.*",
-        "saft/saft-rdf": "0.2.*",
-        "saft/saft-skeleton": "0.3.*",
-        "level-2/dice": "2.0.*"
+        "saft/saft-skeleton": "dev-master"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
