@@ -422,3 +422,15 @@ from <http://le-online.de/Test/>
 where {
 ?a  geo:latitude ?lat ; geo:long ?long .
 } order by ?a
+
+
+
+
+PREFIX leo: <http://le-online.de/ontology/place/ns#> 
+select ?a ?ka ?hgg concat("Adresse(",?strasse,",",?plz,",",?ort,")") concat("Point(",?long," ",?lat,")")
+from <http://le-online.de/place/HGG-Datenextrakt/>
+where {
+?a  a leo:Place ; leo:KAId ?ka; leo:HGGId ?hgg .
+optional { ?a leo:Strasse ?strasse; leo:PLZ ?plz; leo:Ort ?ort . }
+optional { ?a leo:Longitude ?long; leo:Latitude ?lat . }
+}
