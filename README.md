@@ -1,5 +1,8 @@
 # Transformator to create CSV file out of pages from Behindertenverband Leipzig e.V.
 
+Based on a clone of https://github.com/AKSW/transform-bvl-pages-to-csv-file 
+commit 1b73e78ae672ca7d28e3485ffbe4e5dcd1be28cf as of 2016-07-05
+
 This repository contains a simple PHP script, which transforms pages about
 places in Leipzig and their degree of accessibility into a single CSV file (in
 German). These pages are being provided by the [Behindertenverband Leipzig
@@ -27,93 +30,96 @@ Software source code is licensed under the terms of [*GPL
 
 Bezug zum Projekt spe16 im SWT-Praktikum 2016, Basisvariante
 
-Clone des Repos https://github.com/AKSW/transform-bvl-pages-to-csv-file
+## Eigene Transformation der Daten aus den Quellen. 
 
-## HGG, 2016-07-06
+### adressen.ttl 
 
-Änderungen: 
+Dazu wurden kleinere Änderungen am Transformationsskript vorgenommen:
 
-In `functions.php` - URI-Generierung in zwei Funtkionen ausgelagert.  Meine
-URIs (ohne Präfix) matchen [\w+].  Uebersetzungstabelle.nt enthält eine
-Zuordnung der einen und der anderen Namen.
-
-In `create-files.php` - String-Transformation in Funktionen fixTitle($s) und
-fixStreet($s) ausgelagert. Probleme waren: 
-
+* in `functions.php` - URI-Generierung in zwei Funktionen ausgelagert.  Meine
+  URIs (ohne Präfix) matchen [\w+].  Uebersetzungstabelle.nt enthält eine
+  Zuordnung der einen und der anderen Namen.
+* in `create-files.php` - String-Transformation in Funktionen fixTitle($s) und
+  fixStreet($s) ausgelagert. Probleme waren:
 * " (quote) in Strings waren nicht maskiert.
 * Zeilenvorschübe innerhalb von Strings, teilweise ^M (werden durch trim()
   nicht entfernt.
-
-`postprocess.php` nimmt weitere Fixes vor (die man auch in `create-files.php`
-unterbringen kann) und packt eine Liste von Präfixen für die Transformation
-nach Turtle vor die ntriples.
+* `postprocess.php` nimmt weitere Fixes vor und packt eine Liste von Präfixen
+  für die Transformation nach Turtle vor die ntriples.
+* ntriples enthalten Umlaute, womit *rapper* in der Einstellung ntriples nicht
+  umgehen kann, deshalb beim Parsen mit *rapper* '-i turtle' verwenden. 
 
 `php create-files.php`                -> erzeugt uhu.nt
 `rapper -c -i turtle uhu.nt`          -> prüft die entstandene Datei auf Stringenz
-  Dabei erreicht '-i turtle', dass die utf-8 Umlaute als solche erkannt werden. 
 `php postprocess.php >a1.ttl`         -> erzeugt a1.ttl
 `rapper -gc a1.ttl`                   -> prüft die entstandene Datei auf Stringenz
 `rapper -g a1.ttl -o turtle >a2.ttl`  -> verwandelt das in Turtle
 
-Das Ganze habe ich dann in ein Ontowiki@localhost gepackt, daraus den
-adressrelevanten Teil extrahiert (siehe `Queries.txt`) und in `adressen.ttl`
-gepackt. Die Felder leoplace:placeName und leoplace:address wurden dabei
+Daraus habe ich dann den adressrelevanten Teil nach *adressen.ttl* extrahiert
+(siehe *Queries.txt*). Die Felder *leo:placeName* und *leo:address* wurden dabei
 dupliziert, um die Kopie jeweils fixen zu können.
 
-`leoplace:fixedAddress` wurde dann so weit kuratiert, dass ein Abgleich mit den
-LD-Adressen möglich wird.
+*leo:fixedAddress* wurde dann so weit kuratiert, dass ein Abgleich mit den
+LD-Adressen möglich wird. Dazu wurde aus *adressen.ttl* mit *rapper* die
+ntriples-Datei *adressen.nt* extrahiert, mit dem Perl-Skript `process.pl`
+ld-Adressen entsprechend dem bei LeipzigData verwendeten Namensmuster erzeugt
+und als *leo:ldAddress* in *adressen.ttl* angereichert. 
 
-## HGG, 2016-07-07
+Dateien:
 
-Daraus habe ich mit `rapper` die ntriples-Datei `adressen.nt` erzeugt und mit
-dem Perl-Skript `process.pl` (hilfsweise über reine String-Manipulation,
-`adressen.php` habe ich nicht zum Laufen bekommen) ld-Adressen entsprechend dem
-dort verwendeten Namensmuster erzeugt und in die Datei `ld-adressen.ttl`
-extrahiert.  
+* leo-original-20160707.nt - originale nt-Datei
+* leo-version-20160707.nt - nt-Datei wie mit dem modifizierten Skript erzeugt. 
+* adressen.ttl - Übernahme von Daten, um die Adressen zu kuratieren und
+  Geodaten zu ergänzen. 
 
-Diese Datei habe ich weiter editiert und Einträge mit unplausiblen Adressen
-(insb. solche, die nicht in Leipzig liegen) entfernt.  Den Rest habe ich in den
-RDF-Store leipzig-data.de gesteckt und zu den Adressen, die dort wirklich
-vorhanden waren, Geodaten extrahiert, siehe `geodaten.ttl`.  Das genau Vorgehen
-ist in der Datei `Queries.txt` beschrieben.
+adressen.ttl - URI sind HGG-URIs. Semantik der Prädikate:
 
-Dort sind weitere Listen mit Adressen extrahiert
+* leo:address - Adressfeld aus dem Original zusammengebaut 
+* leo:fixedAddress - Adressfeld fixiert, aus dem leo:ldAddress erzeugt wird.
+* leo:placeName - Name aus dem Original übernommen
+* leo:fixedPlaceName - Name fixiert
+* leo:ldAddress - (potenzielle) Adress-URI für LeipzigData 
+* owl:sameAs - URI nach Konrad Abicht (Stand 5.7.2016)
 
-1) Adressen, die auch in leipzig-data.de angelegt sind, zu denen aber keine
-   Geodaten hinterlegt sind,
+**Anmerkung:** Der Code von `create-files.php` der Version vom 2016-07-07
+scrapte unmittelbar die Webseiten, spätere Versionen nutzen eine andere
+Anbindung, die auch private Daten enthält und deshalb nicht mehr durch Dritte
+ausgeführt werden kann.  Basis für die weiteren Arbeiten sind also die im
+Basisprojekt regelmäßig extrahierten Daten selbst. 
 
-2) Adressen, die so nicht in leipzig-data.de hinterlegt sind.  Hier wäre mit
-   einem sinnvollen Ähnlichkeitstest zu prüfen, ob die Adressen unter einer
-   leicht anderen URI doch vorhanden sind und welche ggf. in Frage kommen.  
+### ld-adressen.ttl
 
-## HGG, 2016-07-19
+Aus *adressen.ttl* wurden die *leo:ldAddress* Objekte als Instanzen von
+*leo:Adresse* in *ld-adressen.ttl* extrahiert, um diese Datei mit weiteren
+Informationen aus LeipzigData anzureichern.
 
-`rapper` geht bei der Endung .nt von ntriples aus, in der alle Umlaute u.a.
-Sonderzeichen unicode-normalisiert vorliegen müssen. Für .ttl Dateien gilt das
-nicht mehr, dort können Umlaute auch in utf-8-Notation vorliegen und werden von
-`rapper` bei der Umwandlung in ntriples automatisch normalisiert.
+Diese Adressen wurden als <http://le-online.de/places/>in den RDF-Store
+leipzig-data.de gesteckt und relevante Informationen extrahiert.  Das genau
+Vorgehen ist in der Datei `Queries.txt` beschrieben.
 
-Der Code von `create-files.php` der Version vom 2016-07-07 scrapte unmittelbar
-die Webseiten, spätere Versionen nutzen eine andere Anbindung, die auch private
-Daten enthält und deshalb nicht unmittelbar verwendet werden kann, sondern nur
-die als Output generierte nt-Datei.  Allerdings sind in der Version vom
-2016-07-19 die oben genannten beiden Probleme noch nicht gefixt.
+ld-adressen.ttl - URI sind Adress-URIs nach LeipzigData, Klasse ist
+leo:Adresse.  Semantik der Prädikate:
 
-Spätere Anwendung des alten Codes auf die Webseiten ergibt jedoch auch
-größere Tripelmengen.
+* ld:inOrtsteil - ein ld:Ortsteil 
+* ogcgs:asWKT - Geokoordinaten als WKT-Point 
+* rdfs:label - aus LeipzigData extrahierter Label, wenn der fehlt, dann wurde
+  kein Adresseintrag gefunden.
 
-* leo-version-20160707.nt - 8477 triples
-* Uebersetzungstabelle.nt - Gegenüberstellung der originalen und meiner URIs
-* leo-version-20160719.nt - 9324 triples 
+## Erzeugen der RDF-Datei aus der CSV-Datei
 
-Außerdem habe ich eine Übersetzungstabelle zwischen den Abicht-URIs
-und den HGG-URIs angelegt und als `owl:sameAs` in der Datei
-`adressen.ttl` ergänzt.  Damit kann dort von den Abicht-URIs auf die
-HGG-URIs weitergeleitet werden, dann in `ld-adressen.ttl` auf die
-LD-Adressen-URIs und von dort in `geodaten.ttl` auf die Geodaten.
+Verwendet ein allgemeines Skript `csv2rdf.php` auf der Basis der php-Funktion
+`fgetcsv(handle, max_Zeilenlänge, delimiter, enclosure)`, um die RDF-Datei aus
+der CSV-Datei zu extrahieren.  Dabei werden URIs über ein Autoincrement
+vergeben, um die Eindeutigkeit der Datensätze sicherzustellen.
 
-## HGG, 2016-07-26
+Dateien: 
 
-Vergleich erfolgt nur noch gegen die originale leo-version
+* leo-original-20160725.nt  - Originaldatei 
+* leo-original-20160725.csv   - Originaldatei 
+* leo-csvextract-20160731.ttl - aus *leo-original-20160725.csv* mit
+  `csv2rdf.php` extrahiert (953 Datensätze wie auch im Original)
 
-* leo-version-20160726.nt - 10483 triples (mit Geokoordinaten)
+```
+grep leo:Place leo-csvextract-20160731.ttl |wc -l
+grep ontology/place/ns\#titel leo-original-20160725.nt |wc -l
+```
