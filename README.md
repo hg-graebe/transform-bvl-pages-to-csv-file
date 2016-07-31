@@ -47,23 +47,25 @@ Dazu wurden kleinere Änderungen am Transformationsskript vorgenommen:
 * `postprocess.php` nimmt weitere Fixes vor und packt eine Liste von Präfixen
   für die Transformation nach Turtle vor die ntriples.
 * ntriples enthalten Umlaute, womit *rapper* in der Einstellung ntriples nicht
-  umgehen kann, deshalb beim Parsen mit *rapper* '-i turtle' verwenden. 
+  umgehen kann, deshalb beim Parsen mit *rapper* `-i turtle` verwenden. 
 
-`php create-files.php`                -> erzeugt uhu.nt
-`rapper -c -i turtle uhu.nt`          -> prüft die entstandene Datei auf Stringenz
-`php postprocess.php >a1.ttl`         -> erzeugt a1.ttl
-`rapper -gc a1.ttl`                   -> prüft die entstandene Datei auf Stringenz
-`rapper -g a1.ttl -o turtle >a2.ttl`  -> verwandelt das in Turtle
+Vorgehen zum Erzeugen der RDF-Datei:
 
-Daraus habe ich dann den adressrelevanten Teil nach *adressen.ttl* extrahiert
-(siehe *Queries.txt*). Die Felder *leo:placeName* und *leo:address* wurden dabei
-dupliziert, um die Kopie jeweils fixen zu können.
+* `php create-files.php`                -> erzeugt uhu.nt
+* `rapper -c -i turtle uhu.nt`          -> prüft die entstandene Datei auf Stringenz
+* `php postprocess.php >a1.ttl`         -> erzeugt a1.ttl
+* `rapper -gc a1.ttl`                   -> prüft die entstandene Datei auf Stringenz
+* `rapper -g a1.ttl -o turtle >a2.ttl`  -> verwandelt das in Turtle
 
-*leo:fixedAddress* wurde dann so weit kuratiert, dass ein Abgleich mit den
-LD-Adressen möglich wird. Dazu wurde aus *adressen.ttl* mit *rapper* die
+Daraus habe ich den adressrelevanten Teil nach *adressen.ttl* extrahiert (siehe
+*Queries.txt*). Die Felder *leo:placeName* und *leo:address* wurden dabei
+dupliziert, um die Kopie jeweils fixen zu können. *leo:fixedAddress* wurde so
+weit kuratiert, dass ein Abgleich mit den LD-Adressen möglich wird. 
+
+Für den Abgleich mit LeipzigData wurde aus *adressen.ttl* mit *rapper* die
 ntriples-Datei *adressen.nt* extrahiert, mit dem Perl-Skript `process.pl`
 ld-Adressen entsprechend dem bei LeipzigData verwendeten Namensmuster erzeugt
-und als *leo:ldAddress* in *adressen.ttl* angereichert. 
+und als *leo:ldAddress* in *adressen.ttl* angereichert.
 
 Dateien:
 
@@ -93,16 +95,18 @@ Aus *adressen.ttl* wurden die *leo:ldAddress* Objekte als Instanzen von
 *leo:Adresse* in *ld-adressen.ttl* extrahiert, um diese Datei mit weiteren
 Informationen aus LeipzigData anzureichern.
 
-Diese Adressen wurden als <http://le-online.de/places/>in den RDF-Store
-leipzig-data.de gesteckt und relevante Informationen extrahiert.  Das genau
-Vorgehen ist in der Datei `Queries.txt` beschrieben.
+Diese Adressen wurden als RDF-Graph http://le-online.de/places/ in den
+RDF-Store http://leipzig-data.de/Data gesteckt und relevante Informationen
+extrahiert.  Das genau Vorgehen ist in der Datei *Queries.txt* beschrieben.
 
-ld-adressen.ttl - URI sind Adress-URIs nach LeipzigData, Klasse ist
-leo:Adresse.  Semantik der Prädikate:
+*ld-adressen.ttl* - URI sind Adress-URIs nach den LeipzigData
+Namensgebungsregeln für Adress-URIs, Klasse ist leo:Adresse*.  
+
+Semantik der Prädikate:
 
 * ld:inOrtsteil - ein ld:Ortsteil 
 * ogcgs:asWKT - Geokoordinaten als WKT-Point 
-* rdfs:label - aus LeipzigData extrahierter Label, wenn der fehlt, dann wurde
+* rdfs:label - aus LeipzigData extrahierter Label. Wenn der fehlt, dann wurde
   kein Adresseintrag gefunden.
 
 ## Erzeugen der RDF-Datei aus der CSV-Datei
